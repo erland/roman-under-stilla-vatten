@@ -767,11 +767,3 @@ Hon såg på plastfickan i sin hand.
 “Vårt eget.”
 
 Adam hade gett henne en öppning, inte en lösning. Det var skillnaden hon måste hålla fast vid. Han kunde känna igen en historia när den stack fram under officiella dokument; Helena måste kunna bevisa varför den stuckit fram, vem som gömt den och vad någon var beredd att göra för att hålla den begravd.
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser: Helena möter Adam på biblioteket. Adam visar två versioner av ett gammalt markavtal där namnet Elisabeth Holm finns i en äldre kopia men saknas i den offentliga arkivversionen. Han erkänner att Erik Lind kontaktade honom före mordet för att prata om gamla markaffärer, men att mötet aldrig blev av. Helena får kopior men Adam skyddar fortfarande sin källa.
-- Nya kontinuitetspunkter: Elisabeth Holm är kopplad till gamla nyttjanderätter vid magasinen och tycks ha raderats ur senare arkivmaterial. Adam skulle ha träffat Erik mordkvällen men var enligt egen uppgift på redaktionen. Adam har meddelanden från Erik som ska lämnas till polisen. Adam har en rädd kvinnlig källa eller kontakt som kan bekräfta vem Elisabeth Holm var. Helena och Johan beslutar att kontrollera Holm-spåret diskret och utanför Karins system.
-- Relationsförändringar: Helena och Adam får starkare friktion men också tydligare attraktion och respekt. Helena gör en liten öppning mot Nora genom att erkänna att hon blev rädd och försökte kontrollera situationen. Nora mjuknar något men relationen är fortfarande skör.
-- Öppna frågor: Vem är Elisabeth Holm i relation till Karin Holm? Varför saknas hennes namn i arkivversionen? Vem är Adams källa? Vem lämnade uppgifter om vigselringen till Adam? Var Erik verkligen på väg att avslöja Viktor, sig själv eller någon annan? Vad finns i polisens eget arkiv?

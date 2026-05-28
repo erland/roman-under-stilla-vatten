@@ -12,3 +12,7 @@
 | 2026-05-24 | EPUB 3 | `Under_stilla_vatten_Erland_Lindmark.epub` | Kapitel 1–24 | Skapad med Pandoc 3.1.11.1 från ren manusfil och högupplöst Apple Books-omslag. Grundläggande strukturkontroll genomförd; full EPUBCheck kvarstår. |
 | 2026-05-28 | Markdown exportunderlag | `manus_under_stilla_vatten_v2_1_ren.md` | Kapitel 1–24 | Återskapat efter mindre textkorrigeringar i kapitel 2, 6, 15, 20, 21 och 24. |
 | 2026-05-28 | EPUB | `Under_stilla_vatten_Erland_Lindmark.epub` | Kapitel 1–24 | Återskapad med Pandoc efter samma korrigeringar. EPUBCheck-validering återstår. |
+
+| 2026-05-28 | Projektstäd/exportunderlag | `kapitel/kapitelnoteringar.md`, `manus_under_stilla_vatten_v2_1_ren.md` | Kapitel 1–24 | Kapitelnoteringar flyttade till separat fil; kapitelfiler rensade och ren exportfil återskapad. |
+
+| 2026-05-28 | EPUB | `Under_stilla_vatten_Erland_Lindmark.epub` | Kapitel 1–24 | EPUB återskapad efter att kapitelnoteringarna flyttats till separat fil; kapitelnoteringar ingår inte. |

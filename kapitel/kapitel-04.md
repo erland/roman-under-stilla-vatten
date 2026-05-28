@@ -503,11 +503,3 @@ Vem visste om ringen?
 Sedan, under det:
 
 Vem ville att Adam skulle veta?
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser: Helena möter Adam Nyström utanför polishuset. Han ställer precisa frågor och gör tydligt att han valt bort mer än han publicerat, antyder att Erik Lind hade fiender och nämner brev/anklagelser kopplade till mark och gamla avtal. Adam råkar avslöja att han känner till den saknade vigselringen.
-- Nya kontinuitetspunkter: Adam har sett kopior av anklagelser mot Erik Lind om mark, gamla avtal och människor som förlorat mer än pengar. Adam har en källa nära nog att känna till ringen eller får information från någon med tillgång till mordplatsdetaljer. Karin ser Helena och Adam prata utanför stationen och erbjuder direkt att notera presskontakt. Helena ber Karin ta fram listan över vilka som känt till uppgiften om vigselringen.
-- Relationsförändringar: Helena och Adam etableras med tydlig yrkesfriktion, etisk konflikt, ömsesidig skärpa och första återhållna antydan till attraktion. Johan misstror Adam. Helena börjar koppla Adams kunskap till en möjlig intern informationsläcka.
-- Öppna frågor: Vad har Adam valt att inte publicera, och varför? Vem är Adams källa? Hur fick Adam veta om ringen? Vilka brev eller anklagelser finns mot Erik? Har någon intern person styrt information till pressen? Kommer Helena hinna till Noras utvecklingssamtal kl. 16.30?

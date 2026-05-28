@@ -761,11 +761,3 @@ Och för första gången sedan Erik Lind hittades vid vattnet kände hon inte ba
 Hon kände att det rörde sig mot henne.
 
 Viktor hade inte slutat vara farlig när han började verka oskyldig till mord. Det var nästan tvärtom. Han var en man som kunde trycka undan människor, hota, köpa tystnad och kalla det affärer. Helena lät hans namn stå kvar på tavlan, men inte längre som centrum. Som tryck. Som orsak. Som en av de händer som hade knuffat det förflutna mot vattnet.
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser: Helena och Johan förhör Viktor Sahl på hans kontor. Viktor erkänner affärskonflikt, rädsla för gamla avtal och hotfulla sms men nekar mord. Han berättar att Erik sagt att han “gjort fel mot fel person” och att Viktor själv blivit varnad via okänt nummer.
-- Nya kontinuitetspunkter: Viktor såg strålkastare från en mörk bil vid servicevägen bakom gamla magasinen mellan cirka 20.00 och 20.15. Adam har hittat ett namn på ett gammalt avtal som inte borde vara där. Adam vill träffa Helena på biblioteket, där Nora också planerat att vara.
-- Relationsförändringar: Helena blir mer osäker på Viktor som renodlad mördare men ser honom som skyldig till något. Hotet mot Nora påverkar Helenas omdöme och skärper hennes rädsla. Adam använder Helenas förnamn utan ironi, vilket markerar en ny närhet.
-- Öppna frågor: Vem ringde Viktor? Vilket namn har Adam hittat? Är Nora i fara eller råkar biblioteket bara bli en sammanfallande plats? Vem körde den mörka bilen Viktor såg?

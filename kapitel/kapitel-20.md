@@ -1099,31 +1099,3 @@ Johan läste över hennes axel.
 "Du menar att någon inte bara dolde sig."
 
 "Nej", sade Helena. "Någon valde vad vi skulle se först. Och vad vi skulle se för sent."
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser:
-  - Maria erkänner mer om mordkvällen och bekräftar att Erik var rädd, bar kuvertet och talade om Elisabeth/Kajsa-spåret.
-  - Maria frias från huvudmisstanke genom tidslinje och Eriks fortsatta rörelse efter att hon lämnat.
-  - Viktor erkänner hot, ekonomisk press och kunskap om Elisabeth Holm, men hans alibi och observation av Eriks vigselring gör honom mindre sannolik som mördare.
-  - Adam erkänner att han skyddat Margareta Andersson som källa och att ett brev med blå dörr-/bod fyra-skissen försvunnit från redaktionen.
-  - Tipsloggens serverexport visar att vissa tips registrerats före inkommande tid och att Karins sammanställning styrt misstankarna mot Maria och Viktor.
-- Nya kontinuitetspunkter:
-  - Maria hörde Erik säga att vissa människor aldrig släpper taget, inte ens när de är döda.
-  - Erik fick ett brev cirka tre veckor före mordet med budskapet “Du kan fortfarande säga sanningen”.
-  - Erik nämnde Kajsa efter brevet.
-  - Viktor såg Erik med vigselringen kvar efter mötet vid magasinet.
-  - Adam talade med Margareta Andersson 22.31 mordkvällen, då hon sade: “Jag trodde hon hade slutat.”
-  - Tips 47 i serverexporten är registrerat 09.14 men inkommet 09.18, handlagt K.H.
-- Relationsförändringar:
-  - Helena och Adam har ett mer ärligt men spänt samtal där han erkänner delar av sitt källskydd och samtidigt utmanar henne kring Nora.
-  - Helena börjar tydligare förstå att Noras trygghet kräver handling, inte bara löften.
-  - Johan och Helena arbetar mer samlat kring internspåret.
-- Öppna frågor:
-  - Vem använde namnet M. Andersson i kommunarkivet?
-  - Vad menade Margareta med att hon trodde “hon” hade slutat?
-  - Var finns Kajsa Holm nu?
-  - Exakt vilka tips har manipulerats, och hur långt tillbaka går Karins påverkan?
-  - Kan kopplingen mellan K.H., höger tumme och Holm-spåret bevisas utan att Karin hinner förstöra bevis?
-

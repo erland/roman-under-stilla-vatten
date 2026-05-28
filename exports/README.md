@@ -31,3 +31,8 @@ Kapitelfilerna i `kapitel/` är fortsatt kanoniska källor. Den rena manusfilen 
 ## Senaste exportstatus 2026-05-28
 
 Ren manusfil och EPUB har återskapats efter mindre textkorrigeringar i kapitel 2, 6, 15, 20, 21 och 24. Full EPUBCheck-validering återstår före Apple Books-uppladdning.
+
+
+## Kapitelnoteringar
+
+Kapitelnoteringar har flyttats till `kapitel/kapitelnoteringar.md` 2026-05-28. Kapitelfilerna innehåller nu endast romantext och kan användas säkrare som källa för framtida EPUB/PDF-exporter.

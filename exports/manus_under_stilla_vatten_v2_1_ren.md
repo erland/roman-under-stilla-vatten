@@ -1,10 +1,13 @@
+% Under stilla vatten
+% Erland Lindmark
+
 # Under stilla vatten
 
 ## En Kallviksdeckare
 
-**Författare:** Erland Lindmark
+**Erland Lindmark**
 
----
+\newpage
 
 # Kapitel 1 – Kroppen vid kallbadhuset
 
@@ -290,7 +293,7 @@ Helena såg på den tomma randen efter ringen.
 
 Men någon hade känt honom tillräckligt väl för att ta just den.
 
----
+\newpage
 
 # Kapitel 2 – Nora stänger dörren
 
@@ -806,7 +809,7 @@ Hon släckte kökslampan.
 
 I mörkret syntes hennes egen spegelbild i fönstret, blek och genomskinlig mot regnet. Bakom den, bortom radhusen och gatorna, låg havet osynligt men närvarande. Stilla på ytan. Kallt under.
 
----
+\newpage
 
 # Kapitel 3 – Änkan vid panoramafönstret
 
@@ -1377,7 +1380,7 @@ I dag skulle hon hinna till Noras utvecklingssamtal.
 
 Hon sa det tyst för sig själv, utan ljud, som om löftet behövde övas in innan det kunde hålla.
 
----
+\newpage
 
 # Kapitel 4 – Mannen med kameran
 
@@ -1885,7 +1888,7 @@ Sedan, under det:
 
 Vem ville att Adam skulle veta?
 
----
+\newpage
 
 # Kapitel 5 – Det saknade kuvertet
 
@@ -2627,7 +2630,7 @@ Hon tänkte på vem som ville att hon skulle springa efter det och glömma allt 
 
 På vägen ut stannade Helena vid tavlan igen. Hon strök inte över Viktors namn, men hon flyttade det inte heller närmare mitten. Kuvertet var inte längre bara ett bevis som saknades. Det var en fråga någon hade dödat, hotat eller ljugit för att hålla stängd.
 
----
+\newpage
 
 # Kapitel 6 – Första lögnen faller
 
@@ -3563,7 +3566,7 @@ Bara ett mörkare vatten.
 
 När Helena till sist lämnade förhörsrummet hade hon inte fått en mördare. Hon hade fått något mer besvärligt: en lögn med mänsklig form. Maria hade skyddat sig själv, kanske sin skam, kanske sin rädsla. Men hon hade också lämnat Erik levande. Det betydde att nästa person i tidslinjen blev viktigare än den första.
 
----
+\newpage
 
 # Kapitel 7 – Viktor Sahls kontor
 
@@ -4329,7 +4332,7 @@ Hon kände att det rörde sig mot henne.
 
 Viktor hade inte slutat vara farlig när han började verka oskyldig till mord. Det var nästan tvärtom. Han var en man som kunde trycka undan människor, hota, köpa tystnad och kalla det affärer. Helena lät hans namn stå kvar på tavlan, men inte längre som centrum. Som tryck. Som orsak. Som en av de händer som hade knuffat det förflutna mot vattnet.
 
----
+\newpage
 
 # Kapitel 8 – Artikeln Adam inte publicerade
 
@@ -5101,7 +5104,7 @@ Hon såg på plastfickan i sin hand.
 
 Adam hade gett henne en öppning, inte en lösning. Det var skillnaden hon måste hålla fast vid. Han kunde känna igen en historia när den stack fram under officiella dokument; Helena måste kunna bevisa varför den stuckit fram, vem som gömt den och vad någon var beredd att göra för att hålla den begravd.
 
----
+\newpage
 
 # Kapitel 9 – Flickan på busshållplatsen
 
@@ -6201,7 +6204,7 @@ Eller bara regn.
 
 Nora märkte att vuxna ofta såg tonåringar som brus runt de riktiga händelserna. Vid busshållplatsen blev det tvärtom. Det var i bruset – Linns avbrutna meningar, Albins rädsla, en bil som nästan försvann i regnet – som något viktigt låg kvar.
 
----
+\newpage
 
 # Kapitel 10 – Den hjälpsamma samordnaren
 
@@ -6815,7 +6818,7 @@ Men något att inte glömma.
 
 Det som skavde var inte att Karin hjälpte till. Det var att hon hjälpte till med exakt rätt sak innan Helena hunnit formulera den. En god samordnare kunde vara snabb. En människa med egen agenda kunde vara snabbare.
 
----
+\newpage
 
 # Kapitel 11 – Gamla journaler, nya sår
 
@@ -7365,7 +7368,7 @@ Utanför fönstret gled regnet över glaset, tyst och envist, som om havet förs
 
 Elisabeth Holm blev inte längre bara ett namn i marginalen. Hon blev en människa som först hade förlorat sin plats, sedan sin trovärdighet och till sist nästan sitt liv redan innan kroppen gav upp. Det gjorde Eriks gamla skuld tydligare: han hade inte bara tjänat på en överenskommelse, han hade låtit den skriva om någon annans verklighet.
 
----
+\newpage
 
 # Kapitel 12 – En kväll på redaktionen
 
@@ -8239,7 +8242,7 @@ Hon tänkte på hur många som hade hunnit frysa innan någon frågade varför.
 
 När Helena gick från redaktionen hade Adam fortfarande inte blivit enkel. Det var kanske därför han störde henne. Han var inte bara någon som ville publicera, och inte bara någon hon ville hindra. Han var en människa som ibland valde rätt av fel skäl och fel av rätt skäl. Det gjorde honom farlig på ett annat sätt än fallet, men inte mindre verklig.
 
----
+\newpage
 
 # Kapitel 13 – Fel man i rätt ljus
 
@@ -9257,7 +9260,7 @@ Ute slog vinden hårdare mot rutorna.
 
 Hon släckte lampan i rummet och gick hem genom polishusets korridor medan stormen kom in över Kallvik.
 
----
+\newpage
 
 # Kapitel 14 – När havet slår mot rutorna
 
@@ -9875,7 +9878,7 @@ Men hon visste att någon var rädd för att de skulle fortsätta fråga.
 
 Och det betydde att de äntligen hade kommit nära något sant.
 
----
+\newpage
 
 # Kapitel 15 – Hotet mot Adam
 
@@ -10657,7 +10660,7 @@ Helena mötte hennes blick.
 
 “Som Nora,” sa hon. “Det räcker.”
 
----
+\newpage
 
 # Kapitel 16 – Tidslinjen som inte håller
 
@@ -11327,7 +11330,7 @@ Hon såg på pärmen.
 
 “Det spår hon ger oss. Och det spår hon inte vill att vi ska se.”
 
----
+\newpage
 
 # Kapitel 17 – Karin kokar kaffe
 
@@ -12136,7 +12139,7 @@ Närmare Holmsbodarna.
 
 Hon sprang.
 
----
+\newpage
 
 # Kapitel 18 – Nora försvinner i två timmar
 
@@ -13250,7 +13253,7 @@ Det gjorde det fortfarande.
 
 Men spåren från boden ledde längre tillbaka än Helena velat tro, till ännu en kvinna som Kallvik hade låtit försvinna.
 
----
+\newpage
 
 # Kapitel 19 – Det andra offret som aldrig dog
 
@@ -14219,7 +14222,7 @@ Inte ännu.
 
 Men för första gången kändes Elisabeth Holm inte som ett gammalt namn i ett arkiv. Hon kändes som någon som fortfarande påverkade rummet.
 
----
+\newpage
 
 # Kapitel 20 – Alla ljuger av olika skäl
 
@@ -15323,7 +15326,7 @@ Johan läste över hennes axel.
 
 "Nej", sade Helena. "Någon valde vad vi skulle se först. Och vad vi skulle se för sent."
 
----
+\newpage
 
 # Kapitel 21 – Den felvända detaljen
 
@@ -15710,7 +15713,7 @@ Karin svarade inte.
 
 Hon öppnade dörren och gick ut i det bleka morgonljuset.
 
----
+\newpage
 
 # Kapitel 22 – Kallvik håller andan
 
@@ -16123,7 +16126,7 @@ Helena såg inte på honom.
 
 Skillnaden var liten. Den var också allt.
 
----
+\newpage
 
 # Kapitel 23 – Under stilla vatten
 
@@ -16565,7 +16568,7 @@ Karin svalde.
 
 Johan rörde sig inte bakom Helena. Havet slog mot pålarna under dem. Diktafonen i Karins hand fångade varje paus, varje andetag, varje val hon inte längre kunde ta tillbaka.
 
----
+\newpage
 
 # Kapitel 24 – Morgon över Kallvik
 

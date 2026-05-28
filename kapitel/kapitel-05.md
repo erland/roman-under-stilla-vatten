@@ -737,11 +737,3 @@ Hon tänkte på vem som ville att hon skulle springa efter det och glömma allt 
 
 
 På vägen ut stannade Helena vid tavlan igen. Hon strök inte över Viktors namn, men hon flyttade det inte heller närmare mitten. Kuvertet var inte längre bara ett bevis som saknades. Det var en fråga någon hade dödat, hotat eller ljugit för att hålla stängd.
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser: Tekniken visar att något styvt, troligen ett större kuvert eller en aktmapp, har legat i Eriks innerficka och tagits bort. Bengt Arvidsson bekräftar Maria Linds bil vid gamla magasinet och beskriver en mörkklädd person som kan ha burit något innanför jackan. Bengt berättar att Erik tidigare samma dag nämnde Viktor och sa att “kuvertet kommer tillbaka i kväll, annars går jag vidare”. Ett nytt vittne, Siv Ek, stärker bilden av att Maria var vid hamnen men kan ha flytt från någon snarare än angripit Erik. Viktor Sahl anländer till stationen med advokat, men Helena väljer att försöka hålla löftet om Noras utvecklingssamtal.
-- Nya kontinuitetspunkter: Det saknade kuvertet/aktmappen kan ha varit märkt med Kallvik Norra Strand AB och kopplas till gamla markavtal. Bengt Arvidssons bror förlorade en bod/mark i samband med Eriks projekt och dog senare efter en period av skam och nedgång. Adam har tidigare intervjuat Bengt och haft kopior av gamla avtal och brev. Pappersfragmentet “...vik” kan höra ihop med märkningen på kuvertet eller mappen. Karin vet om Noras utvecklingssamtal efter att ha sett Helenas kalenderpåminnelse och erbjuder sig att täcka tipsgenomgången.
-- Relationsförändringar: Helena och Johan hamnar i tydligare friktion kring Viktor-spåret och Helenas behov av att hålla flera möjligheter öppna. Helena väljer för första gången aktivt Nora framför ett omedelbart förhör i utredningen. Karin framstår hjälpsam och omtänksam, men hennes närhet till Helenas privata information blir en svag oro.
-- Öppna frågor: Vad innehöll kuvertet? Vem tog det från Eriks innerficka? Är Viktor Sahl mottagare, avsändare eller villospår? Vem var den mörkklädda personen vid gamla magasinet? Vem gav Adam kopior av de gamla handlingarna? Varför känns Karins hjälp ibland för precis?

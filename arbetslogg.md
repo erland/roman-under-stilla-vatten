@@ -42,6 +42,8 @@
 
 | 2026-05-28 | Mindre textkorrigeringar och ny EPUB | Rekommenderade formuleringar införda i kapitel 2, 6, 15, 20, 21 och 24. Ren exportfil och EPUB återskapade. |
 
+| 2026-05-28 | Kapitelnoteringar flyttade | Kapitelnoteringar flyttades från `kapitel/kapitel-01.md`–`kapitel/kapitel-24.md` till `kapitel/kapitelnoteringar.md`; ren exportfil och EPUB återskapades. |
+
 ## Nästa rekommenderade steg
 
 - Välj om nästa leverans ska vara PDF, EPUB eller båda.

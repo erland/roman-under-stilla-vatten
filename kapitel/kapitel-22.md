@@ -408,33 +408,3 @@ Helena såg inte på honom.
 "Nej", sade han. "Du såg till att hon inte var ensam."
 
 Skillnaden var liten. Den var också allt.
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser:
-  - Karin flyr från polishuset i den mörka kombin med ljus rektangel på bakrutan.
-  - Helena säkrar att Nora stannar med Adam i skolans entré tills patrull anländer.
-  - Karins personalhistorik visar att hon tidigare hette Karin Kajsa Andersson och är biologisk dotter till Elisabeth Holm.
-  - Utskriftsloggar från Karins konto visar dokumenten `Bod_4_kopia.pdf`, `Tips62_redigering.docx` och `Nora_Noren_schema.jpg`.
-  - Karins bil hittas tom vid Holmsbodarna.
-  - I bilen hittas kassettbandet märkt “Erik / Elisabeth”.
-  - Vid bod fyra hittas en dold plastpåse med papper, diktafon och trolig vigselring.
-  - En observation placerar Karin på strandpromenaden på väg mot gamla kallbadhuset.
-- Nya kontinuitetspunkter:
-  - Karin Holm är bekräftad som Karin Kajsa Andersson, dotter till Elisabeth Holm.
-  - Margareta Andersson var kopplad till Karin/Kajsa som familjehemsmamma eller kontaktperson.
-  - Karins konto har öppnat och skrivit ut Noras schema, vilket förklarar hur Nora kunde riktas in.
-  - Karins bils ljusa rektangel är ett gammalt tillståndskort från kommunarkivet.
-  - Kassettbandet som saknades från fodralet i bod fyra hittas i Karins bil.
-  - En plastpåse i bod fyra innehåller sannolikt avgörande bevis: dokument, diktafon och vigselring.
-- Relationsförändringar:
-  - Helena litar på Adam som skyddande vuxen för Nora.
-  - Nora ser Helena passera skolan och svarar med ett litet nick, vilket visar ökad men fortfarande skör tillit.
-  - Johan fungerar tydligt som Helenas balanspunkt när hon är nära att drivas av modersrädsla.
-- Öppna frågor:
-  - Vad innehåller kassettbandet och diktafonen?
-  - Är ringen i plastpåsen Eriks vigselring?
-  - Vad bär Karin med sig på väg mot kallbadhuset?
-  - Kommer Karin att erkänna, förstöra bevis eller försöka skada sig själv eller någon annan?
-

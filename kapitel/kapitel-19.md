@@ -964,35 +964,3 @@ Hon tänkte på Karin vid skrivaren, på hur hon alltid höll papperen med höge
 Inte ännu.
 
 Men för första gången kändes Elisabeth Holm inte som ett gammalt namn i ett arkiv. Hon kändes som någon som fortfarande påverkade rummet.
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser:
-  - Fynden från bod fyra börjar analyseras: foto, lapp och kassettfodral utan kassettband.
-  - Fotot visar Elisabeth Holm vid bod fyra sommaren 1996 och en flicka med initialen K.
-  - Lars visar övervakningsbilder från kommunarkivets läsesal där en kvinna tog ut Holm-/bod 4-handlingar under namnet M. Andersson tre veckor före mordet.
-  - Socialtjänstens äldre index visar dottern Kajsa Holm och kontaktpersonen Margareta Andersson, född Holm.
-  - Nora berättar att hon hörde en person säga “De har hittat det” och möjligen “Hon skulle ha låtit det vara dött”.
-  - Karin försöker föra in kommunhandlingar i ärendet och ser troligen sitt namn på tavlan.
-  - En mörk bil med ljus rektangel på bakrutan syns igen vid polishuset/hamngatan.
-- Nya kontinuitetspunkter:
-  - Elisabeth Holm hade en dotter, Kajsa Holm, född 1988.
-  - Margareta Andersson, född Holm, var kontaktperson i Elisabeths överklagande 2009.
-  - M. Andersson-uttaget i kommunarkivet kan vara kopplat till Margareta Andersson eller någon som använt hennes identitet/initial.
-  - Övervakningsbilden från kommunarkivet visar en kvinna med något ljust runt höger tumme och en brun mapp märkt Holm/bod 4/överenskommelse.
-  - Nora minns ljudet av tejp eller plåster i samband med personen vid boden.
-  - Karin vet eller antar snabbt saker om “flickorna” och försöker hantera material innan åtkomst är beslutad.
-- Relationsförändringar:
-  - Helena accepterar att Johan tar formella delar kring Nora som vittne.
-  - Helena säger tydligt till Nora att hon tror henne.
-  - Nora litar fortsatt delvis på Adam som trygg vuxen, vilket Helena måste acceptera.
-  - Lars, Johan och Helena börjar agera mer samlat kring internspåret.
-- Öppna frågor:
-  - Vem är kvinnan på kommunarkivets övervakningsbilder?
-  - Var finns Kajsa Holm nu, och är hon relevant för Karins motiv?
-  - Är Margareta Andersson verklig aktör, täcknamn eller använd identitet?
-  - Vem flyttade Noras halsduk och visste att ungdomarna hittat materialet?
-  - Vad betyder formuleringen “Hon skulle ha låtit det vara dött”?
-  - Är den mörka bilen vid polishuset samma bil som tidigare observerats?
-

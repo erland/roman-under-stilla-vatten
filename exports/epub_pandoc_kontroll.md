@@ -4,8 +4,8 @@
 **Projekt:** Under stilla vatten  
 **Undertitel:** En Kallviksdeckare  
 **Författare:** Erland Lindmark  
-**Verktyg:** Pandoc 3.1.11.1  
-**Format:** EPUB  
+**Verktyg:** pandoc 3.1.11.1  
+**Format:** EPUB 3  
 **EPUB-fil:** `exports/Under_stilla_vatten_Erland_Lindmark.epub`  
 **Manusunderlag:** `exports/manus_under_stilla_vatten_v2_1_ren.md`  
 **Omslag:** `exports/omslag_under_stilla_vatten_apple_books.png`
@@ -16,9 +16,10 @@
 - Kapitel inkluderade: 1–24
 - Innehållsförteckning skapad: Ja
 - Kapitelnoteringar inkluderade: Nej
+- Kapitelnoteringar i källkapitlen: Nej, flyttade till `kapitel/kapitelnoteringar.md`
 - Omslagsbild inkluderad: Ja
 - Metadata angiven vid Pandoc-export: Ja
-- Filstorlek: 3,319,548 byte
+- Filstorlek: 3,319,310 byte
 
 ## Metadata
 
@@ -28,6 +29,8 @@
 - Språk: sv-SE
 - Omslag: högupplöst Apple Books-version
 
-## Viktig valideringsnotering
+## Kontroll
 
-EPUB-filen har återskapats med Pandoc efter mindre textkorrigeringar i kapitel 2, 6, 15, 20, 21 och 24. Full EPUBCheck-validering bör fortfarande göras innan uppladdning till Apple Books.
+- EPUB:en har skapats från den rena manusfilen efter att kapitelnoteringarna flyttats till separat fil.
+- Sökning i EPUB-innehållet efter `Kapitelnotering` gav ingen träff.
+- Full EPUBCheck-validering behöver fortfarande göras innan uppladdning till Apple Books.

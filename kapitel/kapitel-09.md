@@ -1095,11 +1095,3 @@ En repa, kanske.
 Eller bara regn.
 
 Nora märkte att vuxna ofta såg tonåringar som brus runt de riktiga händelserna. Vid busshållplatsen blev det tvärtom. Det var i bruset – Linns avbrutna meningar, Albins rädsla, en bil som nästan försvann i regnet – som något viktigt låg kvar.
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser: Nora möter Linn Persson vid busshållplatsen på Norra Strandvägen. Linn berättar att hennes styvbror Albin såg Viktor Sahls bil lämna servicevägen runt 20.07 mordkvällen och senare såg en mindre mörk bil samt en kvinna vid staketet som tycktes leta efter något. Nora kontaktar Helena, som möter henne vid centrumhållplatsen. Helena pratar varsamt med Linn på kafé och får mer detaljer om Albin, bilen och ett skyddat samtal som skrämt honom. Karin ringer och säger att hon hittat ett ärendenummer där Elisabeth Holm förekommer, trots att Helena och Johan tänkt kontrollera Holm-spåret diskret.
-- Nya kontinuitetspunkter: Linn Persson är ett nytt ungdomsvittne. Albin Persson, 17, kan ha sett Viktor lämna området tidigare än mordtidpunkten och senare sett en mörk bil med repa/buckla vid höger bakdörr, något gult/orange på instrumentbrädan och en kvinna med ljus hand/tejp/bandage vid staketet. Albin har fått ett skyddat samtal där han sagt att han inte sett något och inte pratar med polisen. En möjlig registreringsfragment från en grå bil är “73K” eller möjligen “738”. Karin Holm hittar Elisabeth Holm-spåret oväntat snabbt.
-- Relationsförändringar: Nora agerar självständigt och visar att hon kan bidra utan att vilja bli en del av fallet. Helena lyckas delvis bemöta Nora mer ärligt och mindre kontrollerande. Helena låter Nora hjälpa till att närma sig Linn mänskligt, vilket stärker förtroendet mellan dem.
-- Öppna frågor: Vem var kvinnan vid staketet? Vad tappade eller letade hon efter? Är den mörka bilen samma som den grå bil Nora såg? Varför har Albin skrämts till tystnad? Hur fick Karin så snabbt fram Elisabeth Holm när Helena och Johan försökte hålla spåret utanför hennes system? Vad betyder den ljusa handen, tejpen eller bandaget?

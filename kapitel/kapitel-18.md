@@ -1109,11 +1109,3 @@ Allt hade börjat med att hitta Nora.
 Det gjorde det fortfarande.
 
 Men spåren från boden ledde längre tillbaka än Helena velat tro, till ännu en kvinna som Kallvik hade låtit försvinna.
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser: Helena och Johan rusar till Holmsbodarna efter Noras meddelande och döda platsdelning. Bod fyra står till synes stängd men olåst. Noras halsduk hittas inne i boden, trots att Nora senare säger att hon lämnat den utanför på ryggsäcken. En lapp med texten “Hon ljög också” och ett dolt gammalt kassettfodral med papper hittas i golvspringan. Noras spruckna mobil hittas vid badstigen. Nora hittas oskadd vid kioskparkeringen efter nästan två timmar. Linn och Albin hittas också oskadda hos Albin.
-- Nya kontinuitetspunkter: Nora och Linn lockades till Holmsbodarna via ett meddelande som påstods komma från Albin. Albin säger senare att hans telefon försvann kvällen före och dök upp i brevlådan på morgonen. Meddelandet uppmanade dem att lämna fyndet till “den snälla kvinnan som hjälpte Helena”, vilket Nora och Linn kopplar till Karin. Nora såg en hand med vitt plåster eller vit tejp runt höger tumme i den mörka kombin. Kamera vid återvinningen visar mörk kombi 10.07 och 10.19 med ljus rektangel på bakrutan och möjlig registreringsslutsekvens K73. Nora såg även namnet Elisabeth på något foto/vykort inne i boden.
-- Relationsförändringar: Helena visar öppet sin rädsla för Nora och erkänner att hon ibland blir polis när Nora behöver en mamma. Nora väljer Adam som trygg vuxen på stationen när Helena måste fortsätta arbeta, vilket knyter ihop familje- och romance-spåret. Johan fungerar som stabil motvikt när Helenas panik hotar att ta över.
-- Öppna frågor: Vem skickade meddelandena från Albins telefon? Vem flyttade Noras halsduk in i boden? Vad finns i kassettfodralet? Vem skrev “Hon ljög också” och vem syftar “hon” på? Vad visar fotot/vykortet med namnet Elisabeth? Är den mörka kombin med K73 kopplad till Karin eller till någon hon manipulerar?

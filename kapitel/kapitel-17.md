@@ -804,11 +804,3 @@ Inte Linns hus.
 Närmare Holmsbodarna.
 
 Hon sprang.
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser: Karin kommer med kaffe och ny information om Holmsbodarnas nyckelregister. Hon säger “dotter” och nämner kaffespåret på ett sätt som antyder kunskap hon inte borde ha. Ewa Nylander ger preliminär bedömning att Eriks vigselring sannolikt togs mycket sent, efter att han var medvetslös eller död. Adam får en bild på bod fyra med ett inristat K. Lars godkänner en begränsad kontroll av Elisabeth Holms historiska anhörigkopplingar utanför Karins åtkomst. Helena bromsar Karins hantering av tips och äldre kopior. Nora skickar ett oroande meddelande och en kort platsdelning nära Norra Strandvägen/Holmsbodarna.
-- Nya kontinuitetspunkter: Karin har ett nytt vitt plåster med blå kant på tummen. Karin säger spontant “dotter” om Elisabeth Holms anhörig och associerar till kaffekokning/servering innan det är tydligt öppet i materialet. Hotlappens “henne” diskuteras som potentiellt syftande på Elisabeth, källan, Karin eller Nora. Bilden på bod fyra skickas till Adam 02.13 från okänt/tillfälligt nummer. På bilden syns ett gammalt K, inristat i den blå dörren.
-- Relationsförändringar: Helena och Johan samarbetar tystare och mer försiktigt kring internspåret. Lars börjar skydda både ärendet och Helena genom att begränsa åtkomsten. Helena och Adam får ett kortare, mer sårbart samtal efter hotet mot honom.
-- Öppna frågor: Är Karin Elisabeth Holms dotter eller på annat sätt anhörig? Vem skickade bilden till Adam och varför? Vad betyder K på boddörren? Vart är Nora på väg eller var befinner hon sig? Är Noras plats vid Norra Strandvägen en fälla, ett misstag eller ett försök att hjälpa?

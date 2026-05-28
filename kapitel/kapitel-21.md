@@ -382,29 +382,3 @@ Helena höll räcket så hårt att handen värkte.
 Karin svarade inte.
 
 Hon öppnade dörren och gick ut i det bleka morgonljuset.
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser:
-  - Helena, Johan och Lars säkrar preliminära IT-spår som visar att Karins sammanställningar systematiskt styrt tips mot Maria och Viktor.
-  - Tips 47 visar sig ha ändrats från “okänd kvinna” till “Maria Lind”, trots att vittnet uttryckligen inte såg ansiktet.
-  - Tips 31 och tips 62 visar liknande styrning: mörk bil görs till Viktor-spår och formuleringen “hon skulle ha låtit det vara” kortas/omtolkas.
-  - Karin kommer in med kommunarkivsmaterial, ser serverexporten och förstår att hon granskas.
-  - En ljudfil kopplad till tips 62 innehåller en röst som Helena och Johan känner igen som Karin.
-  - Karin lämnar polishuset med sin väska innan hon hinner säkras.
-- Nya kontinuitetspunkter:
-  - Tips 47: inkommet 09.18, registrerat 09.14, ändrat 09.31 av K.H.
-  - Tips 31: mörk bil/oklar registrering styrdes mot Viktor.
-  - Tips 62: ursprungsformuleringen “hon skulle ha låtit det vara” kopplas till Nora-spåret och en äldre ljudfil.
-  - Ljudfilen är inte ensam tillräcklig som bevis men stark nog att göra Karin farlig och akut.
-- Relationsförändringar:
-  - Helena säger ärligare till Nora att läget fortfarande är farligt men att Nora inte är ensam.
-  - Nora accepterar Adams hjälp till skolan, vilket fördjupar Adams roll som trygg vuxen i Helenas privatliv.
-  - Lars och Johan accepterar öppet att Karin nu är huvudriktningen.
-- Öppna frågor:
-  - Vart är Karin på väg?
-  - Vilket bevis försöker hon undanröja eller flytta?
-  - Kan rösten på ljudfilen säkras tekniskt?
-  - Hur kopplas Karin slutligt till Elisabeth/Kajsa Holm och mordet på Erik Lind?
-

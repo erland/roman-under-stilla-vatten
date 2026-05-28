@@ -1,6 +1,6 @@
 # Exportförberedelsekontroll v2.1
 
-**Datum:** 2026-05-28  
+**Datum:** 2026-05-28
 **Projekt:** Under stilla vatten  
 **Undertitel:** En Kallviksdeckare  
 **Författare:** Erland Lindmark  
@@ -10,7 +10,7 @@
 
 - Kapitel inkluderade: 1–24.
 - Antal saknade kapitelnummer: 0.
-- Kapitelnoteringar: borttagna ur exportunderlaget.
+- Kapitelnoteringar: borttagna ur exportunderlaget och flyttade från kapitelfilerna till `kapitel/kapitelnoteringar.md`.
 - Exportunderlaget har återskapats efter användarens mindre textjusteringar och rekommenderade korrigeringar i kapitel 2, 6, 15, 20, 21 och 24.
 - EPUB har återskapats med Pandoc: `exports/Under_stilla_vatten_Erland_Lindmark.epub`.
 - Omslag inkluderat i EPUB: `exports/omslag_under_stilla_vatten_apple_books.png`.
@@ -18,7 +18,7 @@
 
 ## Ordstatistik
 
-- Ungefärligt antal ord i ren manusfil: 91,944 ord.
+- Ungefärligt antal ord i ren manusfil: 92,113 ord.
 - Antal tecken i ren manusfil: 548,916 tecken.
 
 ## Kapitelinventering i exportunderlag

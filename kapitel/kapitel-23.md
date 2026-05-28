@@ -437,12 +437,3 @@ Karin svalde.
 "Ja."
 
 Johan rörde sig inte bakom Helena. Havet slog mot pålarna under dem. Diktafonen i Karins hand fångade varje paus, varje andetag, varje val hon inte längre kunde ta tillbaka.
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser: Helena och Johan konfronterar Karin vid gamla kallbadhuset. Karin avslöjar sin identitet som Kajsa, sin koppling till Elisabeth Holm, hur mötet med Erik gick till och hur hon slog honom, tog kuvertet och ringen samt lämnade honom i vattnet. Diktafonen säkras och Karin grips.
-- Nya kontinuitetspunkter: Erik levde efter slaget och lämnades vid/ner mot vattnet. Mordet består av slag/skada följt av att Karin lämnade honom i en situation där han inte kunde rädda sig. Ringen togs mycket sent av Karin. Diktafonen innehåller det sista samtalet mellan Karin och Erik. Karins erkännande spelas in och kompletteras av beviskedjan.
-- Relationsförändringar: Helena behåller kontrollen trots att Nora dragits in och visar sin utveckling genom att inte låta vreden styra. Adam fortsätter skydda Nora praktiskt utan att ta över fallet.
-- Öppna frågor: Hur Helena, Nora och Adam ska mötas efter gripandet. Hur Elisabeth Holms historia ska ges offentlig upprättelse. Hur Helena ska landa efter fallet.
-

@@ -777,11 +777,3 @@ Nora nickade.
 Helena mötte hennes blick.
 
 “Som Nora,” sa hon. “Det räcker.”
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser: Helena ringer Adam efter hotet och hindrar honom från att åka hem ensam. Johan säkrar Adams vandaliserade bil och lappen med texten “Fråga inte mer om henne”. Karin har ringt Johan om kvällens teknikerbeställning, vilket stärker misstanken om att hon ser informationsflöden för tidigt. Nora och Linns meddelande om Kevins observation gör att Adam inte skickas till pensionatet vid södra infarten, där en mörk kombi kan ha setts.
-- Nya kontinuitetspunkter: Hotlappen är handskriven med stora bokstäver och fäst med två remsor genomskinlig tejp. Adam har tidigare sett en mörk kombi vid torget. Kevin uppger via Linn och Nora att en mörk kombi med dekal eller ljus markering i bakrutan synts vid pensionatet vid södra infarten. Helena ber Johan hålla hotspåret, Holm-spåret och interna tidsloggar utanför Karins åtkomst tills Lars kan besluta formellt.
-- Relationsförändringar: Helena erkänner indirekt inför Johan och Nora att hon bryr sig om Adam. Nora får vara delaktig på ett kontrollerat sätt och bidrar med information som skyddar Adam, vilket stärker tilliten mellan henne och Helena.
-- Öppna frågor: Hur visste Karin om teknikerbeställningen? Är den mörka kombin samma bil i alla observationer? Syftar “henne” på Elisabeth Holm, Karin, Adams källa, Nora eller någon annan? Varför fanns bilen vid pensionatet precis när Adam kunde ha skickats dit?

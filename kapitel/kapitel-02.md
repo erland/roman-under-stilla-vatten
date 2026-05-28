@@ -511,12 +511,3 @@ Men halv fem skulle hon sitta på en stol i Noras skola och försöka vara mer �
 Hon släckte kökslampan.
 
 I mörkret syntes hennes egen spegelbild i fönstret, blek och genomskinlig mot regnet. Bakom den, bortom radhusen och gatorna, låg havet osynligt men närvarande. Stilla på ytan. Kallt under.
-
----
-
-## Kapitelnotering
-
-- Viktiga händelser: Helena kommer hem sent efter mordplatsarbetet. Nora är vaken och avvisande. Helena försöker återknyta men blir avbruten av Johans samtal om den tidiga pressläckan. Kallviksbladet har publicerat en försiktig notis med Adam Nyström som byline. Helena och Nora bråkar om Helenas frånvaro, men når ett litet ögonblick av ärlighet. Helena lovar att gå på Noras utvecklingssamtal nästa dag.
-- Nya kontinuitetspunkter: Helena och Nora bor i ett radhus några kvarter från havet. Nora har ett skolarbete/fotoprojekt om platser i Kallvik som vuxna går förbi, vilket etablerar hennes egen blick och intresse för miljöer. Noras utvecklingssamtal är nästa dag kl. 16.30. Adam Nyström har publicerat en tidig notis om mordet utan att namnge Erik men med formuleringen “lokal företagsprofil”. Helena lägger till ordet “Närhet” i sina anteckningar som möjlig tolkningsnyckel.
-- Relationsförändringar: Helena och Nora går från kyla och anklagelse till en liten, skör öppning. Nora uttrycker att hon är rädd för att Helena inte ska komma hem eller förändras av jobbet. Helena erkänner att hon också är rädd ibland.
-- Öppna frågor: Kan Noras fotoblick eller sociala kontakter ge en relevant iakttagelse utan att hon dras för långt in i fallet? Hur fick Adam Nyström information så tidigt? Kommer Helena kunna hålla löftet om utvecklingssamtalet? Vad betyder “närhet” i mordfallet: nära Erik, nära platsen eller nära utredningen?

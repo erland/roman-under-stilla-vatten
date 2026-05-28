@@ -665,11 +665,3 @@ Hon vek den en gång, stoppade den i fickan och såg på Johan.
 Hon såg på pärmen.
 
 “Det spår hon ger oss. Och det spår hon inte vill att vi ska se.”
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser: Helena och Johan bygger om tidslinjen från bekräftade tider i stället för misstänktas berättelser. Viktor-spåret börjar spricka eftersom kuvertet kan ha saknats före Viktors möte med Erik och vigselringen enligt Viktor satt kvar när han lämnade Erik levande. Lars godkänner diskret begränsad åtkomst till hotspåret, Holm-spåret, tidsloggar och material kring tejp/lappar/bilobservationer. Karin dyker upp med kaffe och en pärm om bodnycklar, och råkar visa att hon känner till både tidslinjearbetet och att Lars kopplats in.
-- Nya kontinuitetspunkter: En möjlig system-/ärendelogg visar ett förhandsutkast till tipslista med tidsstämpeln 22.41 mordkvällen, vilket måste kontrolleras. Ewa Nylander ska återkomma med preliminär bedömning om vigselringen togs före eller efter döden. Karin har sagt “Har journalisten fått sova något?” trots att Adams vistelse på stationen inte skulle vara allmänt spridd. Karin lämnar en nyckellista för Holmsbodarna där Elisabeth Holm markerats och en gammal anteckning säger att en nyckel inte återlämnades 2009.
-- Relationsförändringar: Helena ber Nora om ursäkt snabbare och tydligare än tidigare, och Nora väljer att vara hos Linn i stället för att gå till skolan. Johan och Helena blir mer samspelta kring behovet att skydda spårkedjan, även när misstanken gäller någon intern.
-- Öppna frågor: Är tidsstämpeln 22.41 ett systemfel, en gammal mall eller ett verkligt spår av förberedelse? Hur visste Karin att Adam sov på stationen? Hur visste hon att Helena och Johan arbetade med tidslinjen och Lars? Varför ger Karin dem nyckellistan just nu? Är Elisabeth Holms ej återlämnade nyckel ett verkligt spår eller ännu en styrd riktning?

@@ -6,7 +6,7 @@
 - Undertitel: En Kallviksdeckare
 - Författare: Erland Lindmark
 - Senast uppdaterad: 2026-05-28
-- Nuvarande fas: EPUB återskapad med Pandoc efter mindre textkorrigeringar; Apple Books-publiceringspaket finns; validering/provläsning kvarstår
+- Nuvarande fas: Exportförberedelse v2.1; kapitelnoteringar flyttade till separat fil; EPUB återskapad
 - Senast godkända/reviderade kapitel: Kapitel 1–24 språk- och scenputsade v2.1; mindre korrigeringar gjorda i kapitel 2, 6, 15, 20, 21 och 24
 - Nästa kapitel: Inget planerat; nästa steg är EPUBCheck-validering och provläsning
 - Omslagsbild: Skapad (`exports/omslag_under_stilla_vatten.png`); högupplöst Apple Books-version skapad (`exports/omslag_under_stilla_vatten_apple_books.png`)
@@ -70,7 +70,7 @@
 - Senaste kapitel i `projektstatus.md`: Kapitel 1–24 språk- och scenputsade v2.1; exportförberedelse genomförd
 - Senaste kapitel i `arbetslogg.md`: Exportförberedelsepaket v2.1
 - Senaste export/omslagsfil: `exports/omslag_under_stilla_vatten_apple_books.png` sparad 2026-05-24
-- Resultat: Synkad
+- Resultat: Synkad; kapitelfilerna är rena från kapitelnoteringar och samlad noteringsfil finns.
 
 ## Exportförberedelsekontroll 2026-05-24
 
@@ -106,3 +106,10 @@
 - Kapitel: 1–24
 - Omslag inkluderat: `exports/omslag_under_stilla_vatten_apple_books.png`
 - Validering: Grundkontrollerad; full EPUBCheck kvarstår.
+
+
+## Extra arbetsfiler
+
+| Fil | Syfte | Status |
+|---|---|---|
+| `kapitel/kapitelnoteringar.md` | Samlade kapitelnoteringar flyttade från kapitelfilerna för att hålla källkapitlen rena inför export. | OK |

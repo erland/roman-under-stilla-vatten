@@ -566,11 +566,3 @@ Bakom henne startade Johan bilen.
 I dag skulle hon hinna till Noras utvecklingssamtal.
 
 Hon sa det tyst för sig själv, utan ljud, som om löftet behövde övas in innan det kunde hålla.
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser: Helena och Johan förhör Maria Lind i Eriks villa. Maria avslöjar att hon och Erik var på väg att skiljas, att hon följde efter honom mot hamnen mordkvällen och att hennes bil sannolikt är den mörka bilen Astrid Möller såg.
-- Nya kontinuitetspunkter: Maria ljög först om att hon stannade hemma hela kvällen. Erik beskrivs som kontrollerande och van att göra andras beslut ogiltiga. Hon såg Erik möta en okänd person vid gamla magasinet. Erik hade konflikt med Viktor Sahl om pengar, markköp och att någon skulle “hålla tyst”. Karin har haft direkt kontakt med Maria, använt hennes förnamn tidigt och uppmanat henne att inte röra Eriks arbetsdator eller papper.
-- Relationsförändringar: Helena ser Maria både som misstänkt och som en kvinna med rädsla, skam, kontrollskador och äktenskapliga sår. Johan lutar mer åt att Maria är skyldig, medan Helena skiljer mellan lögn och mord.
-- Öppna frågor: Vem mötte Erik vid gamla magasinet? Vad skulle Viktor hålla tyst om? Varför saknas Eriks vigselring? Varför är Karin så snabbt och precist involverad i Maria-spåret?

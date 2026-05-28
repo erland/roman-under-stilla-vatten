@@ -609,11 +609,3 @@ Inte ens nära.
 Men något att inte glömma.
 
 Det som skavde var inte att Karin hjälpte till. Det var att hon hjälpte till med exakt rätt sak innan Helena hunnit formulera den. En god samordnare kunde vara snabb. En människa med egen agenda kunde vara snabbare.
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser: Karin presenterar ett gammalt ärendematerial kring Elisabeth Holm, Holmsbodarna och Kallvik Norra Strand AB. Kopplingen mellan Erik, Viktor, äldre markaffärer och Elisabeth Holm stärks. Helena beslutar att hålla vissa kontroller på papper och utanför digital spridning. Ett nytt anonymt tips nämner ett ungt vittne och busshållplatsen. Helena börjar tydligare undra hur Karin vet vad hon ska hitta.
-- Nya kontinuitetspunkter: Elisabeth Holm hade äldre nyttjanderätt/anknytning till Holmsbodarna vid Norra Strandvägen. I senare handlingar ersätts hennes namn av formuleringen “överenskommelse separat”. Ett privat uttag av handlingar gjordes cirka tre veckor före mordet. Karin har en hudfärgad tejpremsa runt höger tum efter vad hon säger är ett pappersskärsår. Holmsbodarna ligger några hundra meter från de viktigaste mordplatsspåren.
-- Relationsförändringar: Helena begränsar för första gången Karins tillgång mer aktivt och låter Johan ta fram vissa uppgifter. Johan märker att Helena börjar misstänka Karin men de har ännu inga bevis. Helena försöker visa Nora mer tillit genom att svara lugnare på ett meddelande. Helena och Adam fortsätter ha friktion kring källskydd men behöver mötas igen.
-- Öppna frågor: Vem gjorde det privata uttaget ur kommunens läsesal tre veckor före mordet? Vem är personen i kanten av det gamla fotot? Vad hände egentligen med Elisabeth Holm och Holmsbodarna? Hur mycket visste Karin om Albin-/busshållplatsspåret? Är Karins tejpade tum relevant för Albins observation av något ljust vid kvinnans hand?

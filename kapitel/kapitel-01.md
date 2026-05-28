@@ -281,12 +281,3 @@ Bakom henne vaknade Kallvik långsamt. Lampor tändes i fönster, motorer starta
 Helena såg på den tomma randen efter ringen.
 
 Men någon hade känt honom tillräckligt väl för att ta just den.
-
----
-
-## Kapitelnotering
-
-- Viktiga händelser: Helena Norén kallas till Kallviks kallbadhus där Erik Lind hittas död. Mordplatsen etableras. Vigselringen saknas trots att plånbok och mobil finns kvar. Kroppen verkar möjligen flyttad. En pappersbit med fragmentet “...vik” hittas nära kroppen. Astrid Möller, morgonbadaren som hittade kroppen, nämner en mörk bil vid gamla magasinet och antyder att Erik Lind hade gamla konflikter.
-- Nya kontinuitetspunkter: Erik Lind har en synlig ringrand men ingen vigselring. Lågvatten och ett felvänt spår vid tångkanten noteras. En algstrimma på Eriks manschett antyder att kroppen eller armen varit närmare vatten än läget visar. Teknikern heter Ewa Nylander. Första patrullen inkluderar Patrik. Karin Holm etableras som snabb, hjälpsam samordnare på stationen. Helena ber Karin logga tips manuellt också. Helena har en pågående konflikt med Nora, som hör av sig under mordplatsarbetet.
-- Relationsförändringar: Helena och Johan etableras som kollegor med olika tempo. Helena och Nora visas genom kort sms-växling där Noras distans märks. Helena och Karin etableras professionellt, med en mycket svag störning i Karins paus när Helena nämner manuell loggning.
-- Öppna frågor: Vem tog Eriks vigselring? Varför finns alg på manschetten och ett felvänt spår vid tångkanten? Varför verkar kroppen ha flyttats? Vad betyder pappersfragmentet med “...vik”? Vem ägde eller körde den mörka bilen vid gamla magasinet? Vem kontaktade Kallviksbladet så tidigt? Vad syftade Astrid på när hon sa att många saker i Kallvik var länge sedan?

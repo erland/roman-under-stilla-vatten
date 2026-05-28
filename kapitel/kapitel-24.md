@@ -921,12 +921,3 @@ Nora såg ner i sin kopp. "Bra."
 Det var inte en förlåtelse. Inte hela. Men det var en dörr som inte stängdes.
 
 När Adam senare publicerade sin första text om Elisabeth Holm stod Karins namn inte i rubriken. Inte Eriks heller. Rubriken var lågmäld, nästan enkel: *Kvinnan som försvann ur handlingarna*. Helena läste den långsamt och kände något i bröstet släppa. Inte för att rättvisa kunde återställa ett liv, utan för att tystnaden äntligen hade fått ett motstånd.
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser: Helena återförenas med Nora efter gripandet. Beviskedjan gås igenom på polishuset. Helena, Nora och Adam får emotionell avrundning. Elisabeth Holms historia börjar få offentlig upprättelse genom Adams försiktiga artikel. Helena och Adam tar ett tydligt men varsamt romantiskt steg framåt.
-- Nya kontinuitetspunkter: Karin är häktad/misstänkt efter gripandet, men rättsprocessen är inte avslutad. Polisen säkrar beviskedjan med diktafon, ring, band, loggar, bilspår och manipulation. Nora och Helena beslutar att båda behöver stöd efter händelserna.
-- Relationsförändringar: Helena och Nora når en ärligare relation. Helena vågar erkänna känslor för Adam. Adam visar respekt för både utredningen och Nora.
-- Öppna frågor: Rättegången och den fulla juridiska processen ligger efter romanens slut. Elisabeth Holms upprättelse fortsätter offentligt och administrativt.
-

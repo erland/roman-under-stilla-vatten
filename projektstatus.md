@@ -8,7 +8,8 @@
 
 ## Nuvarande fas
 
-Exportförberedelse v2.1 är genomförd. Apple Books-publiceringspaket finns. Mindre användarjusteringar och rekommenderade formuleringar är införda i kapitel 2, 6, 15, 20, 21 och 24. Ren exportfil och EPUB har återskapats efter ändringarna.
+Exportförberedelse v2.1 är genomförd. Kapitelnoteringar har flyttats från kapitelfilerna till `kapitel/kapitelnoteringar.md`, så `kapitel/kapitel-01.md`–`kapitel/kapitel-24.md` nu är rena romantextfiler. Ren exportfil och EPUB ska/har återskapats efter städningen.
+
 
 ## Senast godkända/reviderade del
 
@@ -18,6 +19,7 @@ Exportförberedelse v2.1 är genomförd. Apple Books-publiceringspaket finns. Mi
 - Exportförberedelsepaket skapat 2026-05-24.
 - Kapitelövergångar kontrollerade och putsade 2026-05-24.
 - Kapitelomfång i projektet: 24 kapitel.
+- Kapitelnoteringar flyttade till `kapitel/kapitelnoteringar.md` 2026-05-28; kapitelfilerna är rensade från arbetsnoteringar.
 - Mindre textkorrigeringar införda 2026-05-28 i kapitel 2, 6, 15, 20, 21 och 24; exportunderlag och EPUB återskapade.
 
 ## Exportförberedelse genomförd

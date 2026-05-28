@@ -1013,11 +1013,3 @@ Hon vek papperet en gång och stoppade det i innerfickan.
 Ute slog vinden hårdare mot rutorna.
 
 Hon släckte lampan i rummet och gick hem genom polishusets korridor medan stormen kom in över Kallvik.
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser: Apotekets och kommunens kameror visar Viktor Sahl vid Kallviksbladets port dagen före mordet och hans bil vid Norra Strandvägen mordkvällen. Dashcam-material placerar en Viktor-liknande person nära Holmsbodarna. Viktor tas in till förhör, erkänner att han mötte Erik vid servicevägen och att han ljugit, men nekar mord. Han berättar att Erik var rädd för någon annan, att Erik inte längre hade kuvertet vid mötet och att en mörkklädd person rörde sig vid bodarna efteråt. Viktor anhålls. Karin nämner “kaffestugan” trots att Helena inte delat kaffeformuleringen internt.
-- Nya kontinuitetspunkter: Viktor var vid Kallviksbladets port dagen före mordet men säger att han aldrig gick upp till Adam. Han hade tänkt lämna en äldre bilaga men ångrade sig. Viktor var vid Norra Strandvägen/Holmsbodarna mordkvällen och mötte Erik levande. Erik saknade enligt Viktor kuvertet redan när de möttes. Viktor säger att Erik fortfarande bar vigselringen när Viktor lämnade honom. En mörkklädd person, möjligen kvinna, syntes enligt Viktor vid bodarna/staketet efter mötet. Elisabeth Holm kan ha arbetat med kaffe/servering vid Holmsbodarna och Erik brukade håna henne med att hon bar kaffe till dem som tog allt från henne. Karin känner till “kaffestugan”/kaffespåret för tidigt.
-- Relationsförändringar: Johan vill gå hårt mot Viktor medan Helena börjar lita mer på sin tvekan. Adam och Helena är oberoende överens om att Viktor-spåret känns för enkelt. Helena försöker välja ett ärligare hemfokus genom att lova Nora att faktiskt komma hem.
-- Öppna frågor: Vem lämnade brevet på redaktionen? Var fanns originalkuvertet när Erik mötte Viktor? Vem tog vigselringen efter att Viktor lämnade Erik? Hur kunde Karin känna till kaffespåret? Vem tjänar på att Viktor syns så tydligt i kameramaterialet? Var den mörkklädda personen vid bodarna Karin eller någon annan?

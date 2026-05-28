@@ -613,11 +613,3 @@ Hon visste inte än vem “hon” var.
 Men hon visste att någon var rädd för att de skulle fortsätta fråga.
 
 Och det betydde att de äntligen hade kommit nära något sant.
-
----
-
-Kort kapitelnotering:
-- Viktiga händelser: Stormen över Kallvik för Helena hem till Nora efter Viktors anhållande. Nora berättar om en mörk bil utanför skolan och erkänner att hon är rädd. Helena väljer att stanna hemma när Johan ringer om att Adams bil vandaliserats och ett hotfullt meddelande tejpats på vindrutan.
-- Nya kontinuitetspunkter: Karin har lämnat en post-it om “Viktor-spåret”. Nora kan ha sett samma typ av mörk bil igen, nu vid skolan. Hotet mot Adam lyder: “Fråga inte mer om henne.” Helena instruerar Johan att hålla det nya pappret utanför öppna mappar och Karins åtkomst.
-- Relationsförändringar: Helena och Nora får en ovanligt ärlig scen där Nora uttrycker rädsla snarare än bara irritation. Helena väljer för första gången tydligt att inte genast åka in, trots att Adam hotats.
-- Öppna frågor: Vem syftar “henne” på? Vem satte lappen på Adams bil? Är bilen vid Noras skola samma bil som vid industriområdet? Varför använder Karin formuleringen “Viktor-spåret” så prydligt?
