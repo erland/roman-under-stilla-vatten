@@ -66,3 +66,26 @@ Titelsidans undertitel centreras nu explicit i EPUB-CSS. Kapiteltexterna är of�
 ## EPUBCheck-korrigering 2026-05-28
 
 EPUBCheck-fel `RSC-011` i `nav.xhtml` är korrigerat. Den synliga innehållsförteckningen ligger fortfarande inte i läsflödet, men den tekniska EPUB-navigationen finns kvar.
+
+
+## Google Play Books-publiceringspaket
+
+Google Play Books-paketet finns i `exports/google_play_books/` och innehåller metadata, butikstexter, kategori-/prisförslag, publiceringschecklista och filrekommendationer.
+
+Rekommenderade uppladdningsfiler:
+- `exports/Under_stilla_vatten_Erland_Lindmark.epub`
+- `exports/omslag_under_stilla_vatten_google_play.png`
+
+
+| `omslag_under_stilla_vatten_kdp.jpg` | KDP-anpassad omslagsbild för Kindle eBook. JPEG, 1600 × 2560 px, RGB, 300 dpi. | Skapad 2026-05-28 |
+
+## Amazon KDP-publiceringspaket
+
+| Fil | Syfte | Status |
+|---|---|---|
+| `amazon_kdp/README.md` | Översikt för Kindle eBook-publicering via Amazon KDP. | Skapat 2026-05-28 |
+| `amazon_kdp/metadata_amazon_kdp.md` | Metadataförslag för KDP. | Skapat 2026-05-28 |
+| `amazon_kdp/beskrivningar_amazon_kdp.md` | KDP-anpassade bokbeskrivningar och säljtexter. | Skapat 2026-05-28 |
+| `amazon_kdp/kategori_nyckelord_prisforslag.md` | Kategori-, nyckelords- och prisförslag. | Skapat 2026-05-28 |
+| `amazon_kdp/publiceringschecklista.md` | Checklista inför uppladdning i KDP. | Skapat 2026-05-28 |
+| `amazon_kdp/filrekommendationer.md` | Rekommenderade filer och teknisk kontroll inför KDP. | Skapat 2026-05-28 |

@@ -4,6 +4,8 @@
 
 | Datum | Ändring | Kommentar |
 |---|---|---|
+| 2026-05-28 | Amazon KDP-publiceringspaket skapat | Metadata, beskrivningar, kategori-/prisförslag, 7 nyckelord, checklista, filrekommendationer och KDP-anpassad omslagsbild lades till i `exports/amazon_kdp/`; kapiteltexter och EPUB oförändrade. |
+| 2026-05-28 | Google Play Books-publiceringspaket skapat | Metadata, beskrivningar, kategori-/prisförslag, checklista och filrekommendationer lades till i `exports/google_play_books/`; kapiteltexter och EPUB oförändrade. |
 | 2026-05-28 | EPUBCheck-fel korrigerat | RSC-011 i `nav.xhtml` åtgärdat genom att ta bort TOC-landmark/guide-referens till icke-spine-lagd nav-fil; kapiteltexter oförändrade. |
 | 2026-05-28 | EPUB-layout justerad | Marginal ovanför kapitelrubriker halverad och marginal efter kapiteltitel minskad något; kapiteltexter oförändrade. |
 | 2026-05-28 | EPUB-export justerad | Copyrighttext ändrad till “Alla rättigheter reserverade”; EPUB-rubriker visas på två rader utan att nav-filen/toc-strukturen ändras. |

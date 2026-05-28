@@ -108,3 +108,12 @@ Detta är en exportkontroll efter mindre textkorrigeringar. Kapiteltexterna och 
 - Synlig innehållsförteckning är borttagen ur EPUB-läsordningen.
 - `nav.xhtml` finns kvar som teknisk navigationsfil enligt EPUB 3.
 - Kapiteltexterna är oförändrade.
+
+
+## Amazon KDP-publiceringspaket
+
+- KDP-paket skapat: `exports/amazon_kdp/`
+- KDP-omslag skapat: `exports/omslag_under_stilla_vatten_kdp.jpg`
+- EPUB oförändrad i detta steg: `exports/Under_stilla_vatten_Erland_Lindmark.epub`
+- Kapiteltexter oförändrade.
+- Rekommenderad extern kontroll: öppna EPUB i Kindle Previewer före uppladdning.

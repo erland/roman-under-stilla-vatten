@@ -8,8 +8,7 @@
 
 ## Nuvarande fas
 
-Exportförberedelse v2.1 är genomförd. Kapitelnoteringar har flyttats från kapitelfilerna till `kapitel/kapitelnoteringar.md`, så `kapitel/kapitel-01.md`–`kapitel/kapitel-24.md` nu är rena romantextfiler. Ren exportfil och EPUB ska/har återskapats efter städningen.
-
+Exportförberedelse v2.1 är genomförd. EPUBCheck har enligt användaren gått igenom efter korrigering. Apple Books-, Google Play Books- och Amazon KDP-publiceringspaket finns i `exports/apple_books/`, `exports/google_play_books/` respektive `exports/amazon_kdp/`.
 
 ## Senast godkända/reviderade del
 
@@ -22,6 +21,8 @@ Exportförberedelse v2.1 är genomförd. Kapitelnoteringar har flyttats från ka
 - Kapitelnoteringar flyttade till `kapitel/kapitelnoteringar.md` 2026-05-28; kapitelfilerna är rensade från arbetsnoteringar.
 - Mindre textkorrigeringar införda 2026-05-28 i kapitel 2, 6, 15, 20, 21 och 24; exportunderlag och EPUB återskapade.
 - EPUB-export justerad 2026-05-28: en egen titelsida med copyright, ingen synlig innehållsförteckning och ingen extra Pandoc-titelsida.
+
+- Amazon KDP-publiceringspaket skapat 2026-05-28 med metadata, beskrivningar, kategori-/prisförslag, 7 nyckelord, checklista, filrekommendationer och KDP-anpassad JPEG-omslagsbild.
 
 ## Exportförberedelse genomförd
 
@@ -52,9 +53,10 @@ Exportförberedelse v2.1 är genomförd. Kapitelnoteringar har flyttats från ka
 
 ## Nästa rekommenderade steg
 
-- Provläs den återskapade EPUB-filen, särskilt titelsidan och övergången från omslag till kapitel 1.
-- Kör EPUBCheck innan uppladdning till Apple Books.
-- Skapa PDF endast om läsexemplar eller parallell export behövs.
+- Provläs slutlig EPUB i Apple Books och Google Play Books.
+- Ladda upp EPUB och separat omslagsbild i vald publiceringsplattform.
+- Bestäm ISBN, pris, regioner och publiceringsdatum.
+- Skapa PDF endast om den behövs som extraformat eller korrekturfil.
 
 ## Apple Books
 
@@ -132,3 +134,11 @@ Nästa rekommenderade steg: granska den nya EPUB:en i Apple Books eller annan EP
 ## Senaste exportjustering
 
 EPUB: Synlig innehållsförteckning är borttagen ur läsflödet. Teknisk navigationsfil finns kvar. Kapiteltexterna är oförändrade.
+
+
+## Amazon KDP
+
+- KDP-paket: `exports/amazon_kdp/`.
+- Rekommenderad EPUB: `exports/Under_stilla_vatten_Erland_Lindmark.epub`.
+- Rekommenderat KDP-omslag: `exports/omslag_under_stilla_vatten_kdp.jpg`.
+- Nästa steg för KDP: kontrollera EPUB i Kindle Previewer före uppladdning.

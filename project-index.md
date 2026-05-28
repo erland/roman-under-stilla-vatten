@@ -6,10 +6,10 @@
 - Undertitel: En Kallviksdeckare
 - Författare: Erland Lindmark
 - Senast uppdaterad: 2026-05-28
-- Nuvarande fas: Exportförberedelse v2.1; EPUB-layout finjusterad och EPUBCheck RSC-011 korrigerat
+- Nuvarande fas: Exportförberedelse v2.1; EPUBCheck godkänd och Apple Books-/Google Play Books-/Amazon KDP-paket skapade
 - Senast godkända/reviderade kapitel: Kapitel 1–24 språk- och scenputsade v2.1; mindre korrigeringar gjorda i kapitel 2, 6, 15, 20, 21 och 24
-- Nästa kapitel: Inget planerat; nästa steg är omkörning av EPUBCheck och provläsning av korrigerad EPUB
-- Omslagsbild: Skapad (`exports/omslag_under_stilla_vatten.png`); högupplöst Apple Books-version skapad (`exports/omslag_under_stilla_vatten_apple_books.png`)
+- Nästa kapitel: Inget planerat; nästa steg är slutlig provläsning och uppladdning till vald plattform
+- Omslagsbild: Skapad (`exports/omslag_under_stilla_vatten.png`); högupplöst Apple Books-version skapad (`exports/omslag_under_stilla_vatten_apple_books.png`); KDP-version skapad (`exports/omslag_under_stilla_vatten_kdp.jpg`)
 
 ## Kapitelinventering
 
@@ -142,3 +142,22 @@
 ## Exportnotering
 
 - EPUB: synlig innehållsförteckning borttagen ur läsflödet; teknisk `nav.xhtml` behållen.
+
+
+## Google Play Books-filer
+
+| Fil | Syfte | Status |
+|---|---|---|
+| exports/google_play_books/README.md | Google Play Books-publiceringspaket | OK |
+| exports/google_play_books/metadata_google_play_books.md | Metadata för Google Play Books | OK |
+| exports/google_play_books/beskrivningar_google_play_books.md | Butikstexter för Google Play Books | OK |
+| exports/google_play_books/kategori_prisforslag.md | Kategori- och prisförslag för Google Play Books | OK |
+| exports/google_play_books/publiceringschecklista.md | Publiceringschecklista för Google Play Books | OK |
+| exports/google_play_books/filrekommendationer.md | Filrekommendationer för Google Play Books | OK |
+
+## Amazon KDP-status
+
+- Publiceringspaket: `exports/amazon_kdp/`
+- KDP-omslag: `exports/omslag_under_stilla_vatten_kdp.jpg` (1600 × 2560 px JPEG, RGB, 300 dpi)
+- EPUB för uppladdning: `exports/Under_stilla_vatten_Erland_Lindmark.epub`
+- Kapiteltexter: Oförändrade vid KDP-paketet.
