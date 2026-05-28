@@ -456,7 +456,7 @@ Helena fortsatte innan hon hann ångra sig. “Inte hela tiden. Inte så att jag
 
 “För att jag trodde att det hjälpte dig om jag verkade säker.”
 
-Nora rörde med fingret över smulorna på bordet. “Det gör det inte alltid.”
+Nora rörde med fingret över smulorna på bordet. “Det gör inte alltid det.”
 
 “Nej,” sa Helena. “Jag börjar förstå det.”
 
@@ -503,10 +503,6 @@ Hon skrev ett nytt ord i marginalen.
 Närhet.
 
 Det kunde betyda allt möjligt. Någon nära Erik. Någon nära platsen. Någon nära utredningen. Någon som hade stått tillräckligt nära för att veta vad som skulle tas, vad som skulle lämnas och när staden skulle börja prata.
-
-Ovanför henne hördes Noras dörr gå igen.
-
-Den här gången var ljudet mjukare, men det var fortfarande en stängd dörr.
 
 Helena lade pennan ifrån sig och lät handen vila över anteckningarna. I morgon skulle hon träffa Maria Lind, kvinnan som förlorat sin man och kanske dolde sanningen om honom. I morgon skulle Adam Nyström säkert hinna göra henne arg. I morgon skulle fallet dra i henne från alla håll.
 

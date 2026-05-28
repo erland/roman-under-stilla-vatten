@@ -62,7 +62,7 @@ Helena tog en klunk kaffe. Det smakade bränt trots allt.
 
 ”Alla känslor”, sade hon. ”Men inga genvägar.”
 
-*
+---
 
 Maria Lind kom in i förhörsrummet med en halsduk hårt virad runt halsen.
 
@@ -320,7 +320,7 @@ Maria tvekade.
 
 ”Kajsa.”
 
-*
+---
 
 Viktor Sahl hade slutat försöka se oberörd ut.
 
@@ -590,7 +590,7 @@ Viktor skakade på huvudet.
 
 ”Nej. Men hon arbetade med någon form av samordning. Erik kallade henne duktig. Det gjorde han när han inte mindes vad kvinnor hette.”
 
-*
+---
 
 Adam ville inte komma in i förhörsrummet.
 
@@ -868,7 +868,7 @@ Hon borde ha rest sig då. Samtalet var över som polisärende, åtminstone för
 
 Adam såg det.
 
-”Hur är Nora?”
+”Hur är det med Nora?”
 
 Frågan var försiktig. Inte journalistisk. Inte strategisk.
 
@@ -898,7 +898,7 @@ Det borde ha gjort henne arg.
 
 I stället gjorde det henne tyst.
 
-*
+---
 
 Klockan var 19.46 när Helena kom tillbaka till utredningsrummet.
 
@@ -1074,7 +1074,7 @@ Höger tumme?
 
 Johan stod bakom henne.
 
-”Det här är kapitel tjugoett”, sade han trött.
+”Det här är nästa kapitel”, sade han trött.
 
 Helena såg på tavlan, på alla lögner som inte längre dolde mordet utan människorna runt det.
 

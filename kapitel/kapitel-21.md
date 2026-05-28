@@ -239,7 +239,7 @@ Noras röst var låg, lite hes av morgon. Helena blundade och lät den landa nå
 
 Helena vände sig bort från de andra. "Hur är det med dig?"
 
-"Tante Evas frukost är typ ett straff, men annars okej." Nora pausade. "Adam skrev att han kunde köra mig till skolan om du inte kan."
+"Tanten Evas frukost är typ ett straff, men annars okej." Nora pausade. "Adam skrev att han kunde köra mig till skolan om du inte kan."
 
 Helena kände både tacksamhet och skuld, tätt sammanflätade. Adam hade inte frågat henne först. Det borde ha irriterat henne. I stället gjorde det henne nästan gråtfärdig.
 
@@ -325,6 +325,28 @@ Hon hade föreställt sig att genombrottet skulle kännas som lättnad. Som en d
 
 "Nej", sade Lars. "Men det räcker för att göra henne farlig."
 
+"Vi behöver skala bort allt som låter dramatiskt", sade Helena.
+
+Johan såg på väggen där utskrifterna nästan täckte varandra.
+
+"Det här är inte dramatiskt?"
+
+"Jo. Därför är det farligt."
+
+Hon reste sig och tog ner två av papperen. Sedan ett tredje. Till slut lät hon bara serverexporten och ursprungstipset sitta kvar.
+
+"En sak", sade hon. "Inte fem. En."
+
+Lars vek armarna över bröstet. "Att registreringstiden ligger före inkommandet?"
+
+"Ja. Och att ändringen inte bara är fel tid. Den ger tipset en riktning."
+
+Hon pekade på raden där "okänd kvinna" blivit "Maria Lind".
+
+"Den som gjorde det här visste inte bara hur systemet fungerade. Hon visste vad hon ville att vi skulle tro."
+
+Rummet blev stilla på ett nytt sätt. Inte chockat. Inte ens högtidligt. Bara avskalat, som när vatten drar sig undan och lämnar något vasst synligt på botten.
+
 Det var då larmet från receptionen kom genom Lars telefon. En kort signal, följd av en röst som försökte vara lugn och inte lyckades helt.
 
 "Lars? Karin Holm gick precis. Hon tog sin väska och sa att hon skulle till arkivet. Ska hon vara—"
@@ -360,28 +382,6 @@ Helena höll räcket så hårt att handen värkte.
 Karin svarade inte.
 
 Hon öppnade dörren och gick ut i det bleka morgonljuset.
-
-"Vi behöver skala bort allt som låter dramatiskt", sade Helena.
-
-Johan såg på väggen där utskrifterna nästan täckte varandra.
-
-"Det här är inte dramatiskt?"
-
-"Jo. Därför är det farligt."
-
-Hon reste sig och tog ner två av papperen. Sedan ett tredje. Till slut lät hon bara serverexporten och ursprungstipset sitta kvar.
-
-"En sak", sade hon. "Inte fem. En."
-
-Lars vek armarna över bröstet. "Att registreringstiden ligger före inkommandet?"
-
-"Ja. Och att ändringen inte bara är fel tid. Den ger tipset en riktning."
-
-Hon pekade på raden där "okänd kvinna" blivit "Maria Lind".
-
-"Den som gjorde det här visste inte bara hur systemet fungerade. Hon visste vad hon ville att vi skulle tro."
-
-Rummet blev stilla på ett nytt sätt. Inte chockat. Inte ens högtidligt. Bara avskalat, som när vatten drar sig undan och lämnar något vasst synligt på botten.
 
 ---
 

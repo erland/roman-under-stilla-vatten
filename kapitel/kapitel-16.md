@@ -351,7 +351,7 @@ Han zoomade in på vägen från Norra Strandvägen till kallbadhuset.
 
 “Han kan ljuga om allt.”
 
-“Men då ljuger han på ett sätt som försämrar hans egen position konstigt.”
+“Men då ljuger han på ett sätt som försämrar hans egen position, vilket känns konstigt.”
 
 Helena tog upp pennan igen.
 
@@ -478,7 +478,7 @@ När hon vände sig om hade han markerat en ny punkt på kartan.
 
 “Och Adam?”
 
-“Vaknade för tjugo minuter sedan. Han ville kaffe. Jag sa nej.”
+“Vaknade för tjugo minuter sedan. Han ville ha kaffe. Jag sa nej.”
 
 “Varför?”
 

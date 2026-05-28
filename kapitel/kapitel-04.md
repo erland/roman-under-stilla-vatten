@@ -164,7 +164,7 @@ Det var första gången hon såg honom bli överraskad. Bara en skiftning över 
 
 “Min notis.”
 
-“Den var för väl avvägd för att vara skriven på bara rykten.”
+“Den var för väl avvägd för att vara baserad bara på rykten.”
 
 Adam sänkte blicken mot kameran och drog tummen över kanten på objektivlocket. Inte nervöst. Mer som om han behövde ge handen något att göra medan han valde vilket svar som var minst farligt.
 

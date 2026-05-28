@@ -275,9 +275,9 @@ Helena skrev nu. Höll tyst. Markköp. Viktor. Hon kände hur fallet rörde sig,
 
 “Han var Erik.”
 
-“Det är också inget svar.”
+“Det är inget svar.”
 
-“Då ja. Han var arg.”
+“Han var arg.”
 
 “På dig?”
 

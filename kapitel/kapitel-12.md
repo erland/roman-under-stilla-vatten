@@ -376,7 +376,7 @@ Det var den sortens fråga man inte skulle ställa i ett rum fullt av utrednings
 
 “Gör inte det.”
 
-“Frågar?”
+“Fråga?”
 
 “Gör det inte lättare för mig att göra fel.”
 

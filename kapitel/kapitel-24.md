@@ -226,9 +226,9 @@ På bordet låg en preliminär sammanställning: Karins erkännande, diktafonen,
 
 Allt som hade legat utspritt över Kallvik som trasiga bitar av ett gammalt glas hade börjat bilda en form.
 
-Inte hel. Aldrig hel.
+Inte helt. Aldrig helt.
 
-Men synlig.
+Men synligt.
 
 "Bra jobbat", sade Lars när Helena kom in.
 
@@ -848,7 +848,7 @@ Adam log, men lät sedan blicken vila på vattnet. "Hur mår du?"
 
 Helena följde hans blick. Frågan var enkel. Svaret kunde inte vara det.
 
-"Jag mår inte bra", sade hon. "Men jag mår inte ensam."
+"Jag mår inte bra", sade hon. "Men jag är inte ensam."
 
 Han nickade långsamt.
 

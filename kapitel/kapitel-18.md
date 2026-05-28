@@ -4,7 +4,7 @@ Helena mindes inte trappan.
 
 Så gjorde paniken med henne: den tog bort allt som inte var Nora. Inte yrket, inte rutinen, inte den noggranna rösten hon brukade använda när andra föll sönder. Bara Nora. Namnet slog i henne som steg mot betong.
 
-Efteråt skulle hon veta att hon måste ha tagit trapporna, eftersom hissen på polishuset varit trasig i två dagar och någon satt upp en lapp med röd spritpenna på dörren. Hon skulle minnas den lappen senare, så tydligt att den nästan blev löjlig: *Ur funktion. Felanmäld.*
+Efteråt skulle hon förstå att hon måste ha tagit trapporna, eftersom hissen på polishuset varit trasig i två dagar och någon satt upp en lapp med röd spritpenna på dörren. Hon skulle minnas den lappen senare, så tydligt att den nästan blev löjlig: *Ur funktion. Felanmäld.*
 
 Men själva trappan fanns inte.
 
@@ -12,7 +12,7 @@ Inte stegen.
 
 Inte räcket.
 
-Inte hur Johan ropade hennes namn bakom henne.
+Inte Johan som ropade hennes namn bakom henne.
 
 Bara telefonen i handen och den lilla kartpunkten som hunnit blinka till innan den dog.
 

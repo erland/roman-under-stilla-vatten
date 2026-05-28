@@ -252,7 +252,7 @@ Helena läste meningen två gånger. Sedan låste hon skärmen.
 
 Det var exakt vad Helena tänkte.
 
-*
+---
 
 Viktor Sahl kom inte frivilligt på det sätt oskyldiga människor ibland försökte göra. Han kom med advokat, halsduk, mörk rock och en ansiktsfärg som låg någonstans mellan ilska och rädsla.
 
@@ -646,7 +646,7 @@ Helena såg ned på mappen.
 
 “Vi tar paus.”
 
-*
+---
 
 Hon gick inte till sitt rum. Hon gick till kaffemaskinen längst bort i korridoren, den som alltid lät som om den höll på att ge upp. Där stod hon med en plastmugg i handen och såg brun vätska rinna ned i en tunn stråle.
 
@@ -708,7 +708,7 @@ Helena stod kvar med kaffet i handen tills det blev för varmt mot fingrarna.
 
 Sedan gick hon tillbaka till förhörsrummet.
 
-*
+---
 
 När hon kom in satt Viktor framåtlutad med armbågarna på bordet. Louise Bäckström hade en handskriven lista framför sig och ett ansikte som lovade invändningar mot nästan allt Helena kunde tänkas säga.
 
@@ -916,7 +916,7 @@ Det gjorde honom inte oskyldig.
 
 Men det gjorde honom mindre enkel.
 
-*
+---
 
 Åklagaren beslutade om anhållande innan kvällen.
 

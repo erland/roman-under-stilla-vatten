@@ -556,7 +556,7 @@ Nora nickade mot Adam.
 
 Bakom dem hostade Johan för att dölja ett skratt.
 
-Adam höjde ögonbrynen. “Otreffande, men inte helt fel.”
+Adam höjde ögonbrynen. “Olämpligt, men inte helt fel.”
 
 Nora tittade tillbaka på Helena.
 

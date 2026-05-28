@@ -135,7 +135,7 @@ Klockan var 10.12.
 
 Än så länge fanns det tid. Det var så hon brukade lura sig själv. Än så länge.
 
-*
+---
 
 Bengt Arvidsson bodde i ett lågt tegelhus där gatan slutade och det gamla varvsområdet tog vid. Havet syntes mellan två magasiner, grått och ihoptryckt under himlen. Det luktade tång, diesel och blöt betong.
 
@@ -179,7 +179,7 @@ Bengt nickade.
 
 “Maria Linds bil?”
 
-“Jag känner inte hennes bil. Men ja, om ni säger det.”
+“Jag känner inte till hennes bil. Men ja, om ni säger det.”
 
 “Vi säger inget än,” sa Helena.
 
@@ -359,7 +359,7 @@ Bengt såg på Helena, inte på Johan.
 
 Helena trodde honom inte helt. Men det var inte samma sak som att tro honom skyldig till mord.
 
-*
+---
 
 När de kom ut stod regnet tätare. Det slog små ringar i pölarna längs trottoaren. Johan drog upp jackkragen och gick fort mot bilen.
 
@@ -485,7 +485,7 @@ Inte för att det var brottsligt.
 
 För att nära människor alltid visste små saker.
 
-*
+---
 
 Tillbaka på stationen luktade grupprummet av uppvärmd matlåda och kaffe som stått för länge. Karin hade skrivit ut en karta över gamla magasinsområdet och markerat tre punkter: där Maria sagt att hon parkerat, där Bengt sett mannen vid staketet och där Erik tidigare på dagen talat i telefon.
 
@@ -559,7 +559,7 @@ Karin rörde sig redan mot datorn.
 
 Helena hann nästan säga självklart åt henne, men bet sig i tungan.
 
-*
+---
 
 Kvinnan i receptionen hette Siv Ek. Hon var i femtioårsåldern, hade blött hår trots paraply och bar en röd plastpåse från apoteket i knät som om den innehöll något ömtåligt. Hon var nervös på ett sätt som fick henne att prata innan Helena ställt första frågan.
 

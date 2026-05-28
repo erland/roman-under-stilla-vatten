@@ -360,7 +360,7 @@ Det kom ett litet ljud från Nora. Inte ett skratt, men nära.
 
 “Jag vet.”
 
-“Nobody normal köper en panikgurka.”
+“Ingen normal köper en panikgurka.”
 
 “Det begreppet vill jag aldrig höra Adam använda.”
 

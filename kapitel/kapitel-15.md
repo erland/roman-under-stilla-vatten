@@ -118,11 +118,11 @@ Det var något i hans röst som fick henne att sluta hålla i handtaget.
 
 Hon blev stående med handen kvar mot metallen.
 
-I Noras rum knarrade golvet. Dottern rörde sig där inne, kanske lyssnade hon, kanske inte. Helena tänkte på hur Nora hade sagt att hon var rädd för telefonen. För att Helena inte skulle svara. För att någon skulle stå utanför huset.
+I Noras rum knarrade golvet. Hon rörde sig där inne, kanske lyssnade hon, kanske inte. Helena tänkte på hur Nora hade sagt att hon var rädd för telefonen. För att Helena inte skulle svara. För att någon skulle stå utanför huset.
 
 “Johan tar dig till stationen eller hem till någon säker plats,” sa Helena. “Du lämnar inte platsen förrän teknikerna är klara och patrullen säger till.”
 
-“Jag följer det.”
+“Det kan jag stå ut med.”
 
 “Du skickar mig inte något material nu. Inga bilder, inga egna analyser, ingenting som kan hamna fel.”
 
@@ -372,7 +372,7 @@ Helena väntade.
 
 “Be dem kontrollera tejpkanten. Fingeravtryck, fibrer, hudflagor, allt. Och jämför med tejp-/plåsterspåret från Adams kuvert när vi får materialet.”
 
-“Du tänker på Karins tum.”
+“Du tänker på Karins tumme.”
 
 Nora såg upp igen, snabbare den här gången.
 
@@ -702,7 +702,7 @@ Nora stirrade på henne.
 
 Helena la händerna på Noras axlar. Hon ville säga aldrig, men det var ett ord vuxna använde när de försökte trolla bort världen.
 
-“Inte av mig,” sa hon. “Och inte av någon som betyder något.”
+“Inte jag,” sa hon. “Och inte någon som betyder något.”
 
 Nora stod kvar en stund. Sedan lutade hon pannan mot Helenas axel.
 

@@ -228,7 +228,7 @@ Hennes telefon vibrerade igen. Den här gången var det inte Karin. Det var Nora
 
 *Var är du?*
 
-Två ord. Inget mer. Helena stirrade på skärmen medan vågorna slog mot pålarna under badhuset. Hon såg framför sig Noras rum, den halvt stängda dörren, skolväskan som brukade ligga som en protest mitt i hallen. Hon såg sin dotters ansikte när hon försökte låtsas att hon inte brydde sig.
+Tre ord. Inget mer. Helena stirrade på skärmen medan vågorna slog mot pålarna under badhuset. Hon såg framför sig Noras rum, den halvt stängda dörren, skolväskan som brukade ligga som en protest mitt i hallen. Hon såg sin dotters ansikte när hon försökte låtsas att hon inte brydde sig.
 
 Helena skrev: *På jobb. Mordfall. Jag ringer så fort jag kan.*
 
@@ -258,7 +258,7 @@ Helena böjde sig närmare. Pappersbiten bar också en tunn mörk linje, som fr�
 
 “Redan gjort,” sa Ewa.
 
-Helena såg från pappersbiten till Eriks tomma ringfinger. Plånboken fanns kvar, mobilen låg enligt patrullen i rockfickan, men ringen var borta och något hade rivits sönder. En kropp flyttad några decimeter. En bil vid magasinet. Ett gammalt ont som Astrid inte ville förklara.
+Helena såg från pappersbiten till Eriks tomma ringfinger. Plånboken fanns kvar, mobilen låg enligt patrullen i rockfickan, men ringen var borta och något hade rivits sönder. En kropp flyttad några decimeter. En bil vid magasinet. Något gammalt som Astrid inte ville förklara.
 
 Och någon hade ringt tidningen innan namnet borde vara ute.
 
