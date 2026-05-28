@@ -27,3 +27,7 @@ Exporter är inte romanens kanoniska källtext. De kan återskapas från `kapite
 ## Viktigt
 
 Kapitelfilerna i `kapitel/` är fortsatt kanoniska källor. Den rena manusfilen i `exports/` är ett exportunderlag och ska återskapas om kapiteltexterna ändras.
+
+## Senaste exportstatus 2026-05-28
+
+Ren manusfil och EPUB har återskapats efter mindre textkorrigeringar i kapitel 2, 6, 15, 20, 21 och 24. Full EPUBCheck-validering återstår före Apple Books-uppladdning.

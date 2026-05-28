@@ -239,7 +239,7 @@ Noras röst var låg, lite hes av morgon. Helena blundade och lät den landa nå
 
 Helena vände sig bort från de andra. "Hur är det med dig?"
 
-"Tanten Evas frukost är typ ett straff, men annars okej." Nora pausade. "Adam skrev att han kunde köra mig till skolan om du inte kan."
+"Tant Evas frukost är typ ett straff, men annars okej." Nora pausade. "Adam skrev att han kunde köra mig till skolan om du inte kan."
 
 Helena kände både tacksamhet och skuld, tätt sammanflätade. Adam hade inte frågat henne först. Det borde ha irriterat henne. I stället gjorde det henne nästan gråtfärdig.
 

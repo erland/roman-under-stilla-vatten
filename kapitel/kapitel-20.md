@@ -1074,7 +1074,7 @@ Höger tumme?
 
 Johan stod bakom henne.
 
-”Det här är nästa kapitel”, sade han trött.
+”Det här är nästa steg”, sade han trött.
 
 Helena såg på tavlan, på alla lögner som inte längre dolde mordet utan människorna runt det.
 

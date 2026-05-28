@@ -456,7 +456,7 @@ Helena fortsatte innan hon hann ångra sig. “Inte hela tiden. Inte så att jag
 
 “För att jag trodde att det hjälpte dig om jag verkade säker.”
 
-Nora rörde med fingret över smulorna på bordet. “Det gör inte alltid det.”
+Nora rörde med fingret över smulorna på bordet. “Det gör det inte alltid.”
 
 “Nej,” sa Helena. “Jag börjar förstå det.”
 

@@ -40,6 +40,8 @@
 
 | 2026-05-24 | Högupplöst Apple Books-omslag skapat | Befintlig omslagsbild skalades upp till `1400 × 1979` px och lades till som `exports/omslag_under_stilla_vatten_apple_books.png`. Ingen ny bild/design genererades. Kapiteltexter oförändrade. |
 
+| 2026-05-28 | Mindre textkorrigeringar och ny EPUB | Rekommenderade formuleringar införda i kapitel 2, 6, 15, 20, 21 och 24. Ren exportfil och EPUB återskapade. |
+
 ## Nästa rekommenderade steg
 
 - Välj om nästa leverans ska vara PDF, EPUB eller båda.

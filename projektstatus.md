@@ -8,7 +8,7 @@
 
 ## Nuvarande fas
 
-Exportförberedelse v2.1 är genomförd. Apple Books-publiceringspaket är skapat. Romanen har 24 kapitel, samtliga språk- och scenputsade v2.1. Kapitelövergångar är kontrollerade och en mindre övergångsputs har gjorts i kapitel 10 och 14.
+Exportförberedelse v2.1 är genomförd. Apple Books-publiceringspaket finns. Mindre användarjusteringar och rekommenderade formuleringar är införda i kapitel 2, 6, 15, 20, 21 och 24. Ren exportfil och EPUB har återskapats efter ändringarna.
 
 ## Senast godkända/reviderade del
 
@@ -18,6 +18,7 @@ Exportförberedelse v2.1 är genomförd. Apple Books-publiceringspaket är skapa
 - Exportförberedelsepaket skapat 2026-05-24.
 - Kapitelövergångar kontrollerade och putsade 2026-05-24.
 - Kapitelomfång i projektet: 24 kapitel.
+- Mindre textkorrigeringar införda 2026-05-28 i kapitel 2, 6, 15, 20, 21 och 24; exportunderlag och EPUB återskapade.
 
 ## Exportförberedelse genomförd
 
@@ -26,7 +27,7 @@ Exportförberedelse v2.1 är genomförd. Apple Books-publiceringspaket är skapa
 - Exportkontroll skapad: `exports/exportkontroll_v2_1.md`.
 - Exportlogg uppdaterad: `exports/exportlogg.md`.
 - `exports/README.md` uppdaterad med exportstatus.
-- EPUB har skapats med Pandoc: `exports/Under_stilla_vatten_Erland_Lindmark.epub`. PDF har ännu inte skapats.
+- EPUB har återskapats med Pandoc efter textkorrigeringar: `exports/Under_stilla_vatten_Erland_Lindmark.epub`. PDF har ännu inte skapats.
 
 ## Omslagsbild
 
@@ -45,10 +46,9 @@ Exportförberedelse v2.1 är genomförd. Apple Books-publiceringspaket är skapa
 
 ## Nästa rekommenderade steg
 
-Nästa steg är att validera EPUB med EPUBCheck, provläsa EPUB i Apple Books/Books-appen och därefter besluta om PDF även ska skapas.
-
-Omslagsbild/framsida finns nu i projektzipen och kan användas i exportpaketet.
-
+- Provläs den återskapade EPUB-filen.
+- Kör EPUBCheck innan uppladdning till Apple Books.
+- Skapa PDF endast om läsexemplar eller parallell export behövs.
 
 ## Apple Books
 

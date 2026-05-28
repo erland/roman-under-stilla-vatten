@@ -5,10 +5,10 @@
 - Titel: Under stilla vatten
 - Undertitel: En Kallviksdeckare
 - Författare: Erland Lindmark
-- Senast uppdaterad: 2026-05-24
-- Nuvarande fas: EPUB skapad med Pandoc; Apple Books-publiceringspaket finns; validering/provläsning kvarstår
-- Senast godkända/reviderade kapitel: Kapitel 1–24 språk- och scenputsade v2.1; kapitel 10 och 14 övergångsputsade
-- Nästa kapitel: Inget planerat; EPUB skapad, nästa steg är EPUBCheck-validering och provläsning
+- Senast uppdaterad: 2026-05-28
+- Nuvarande fas: EPUB återskapad med Pandoc efter mindre textkorrigeringar; Apple Books-publiceringspaket finns; validering/provläsning kvarstår
+- Senast godkända/reviderade kapitel: Kapitel 1–24 språk- och scenputsade v2.1; mindre korrigeringar gjorda i kapitel 2, 6, 15, 20, 21 och 24
+- Nästa kapitel: Inget planerat; nästa steg är EPUBCheck-validering och provläsning
 - Omslagsbild: Skapad (`exports/omslag_under_stilla_vatten.png`); högupplöst Apple Books-version skapad (`exports/omslag_under_stilla_vatten_apple_books.png`)
 
 ## Kapitelinventering
@@ -16,11 +16,11 @@
 | Kapitel | Fil | Titel | Status |
 |---|---|---|---|
 | 1 | kapitel/kapitel-01.md | Kroppen vid kallbadhuset | Språk- och scenputsad v2.1 |
-| 2 | kapitel/kapitel-02.md | Nora stänger dörren | Språk- och scenputsad v2.1 |
+| 2 | kapitel/kapitel-02.md | Nora stänger dörren | Språk- och scenputsad v2.1; mindre korrigering 2026-05-28 |
 | 3 | kapitel/kapitel-03.md | Änkan vid panoramafönstret | Språk- och scenputsad v2.1 |
 | 4 | kapitel/kapitel-04.md | Mannen med kameran | Språk- och scenputsad v2.1 |
 | 5 | kapitel/kapitel-05.md | Det saknade kuvertet | Språk- och scenputsad v2.1 |
-| 6 | kapitel/kapitel-06.md | Första lögnen faller | Språk- och scenputsad v2.1 |
+| 6 | kapitel/kapitel-06.md | Första lögnen faller | Språk- och scenputsad v2.1; mindre korrigering 2026-05-28 |
 | 7 | kapitel/kapitel-07.md | Viktor Sahls kontor | Språk- och scenputsad v2.1 |
 | 8 | kapitel/kapitel-08.md | Artikeln Adam inte publicerade | Språk- och scenputsad v2.1 |
 | 9 | kapitel/kapitel-09.md | Flickan på busshållplatsen | Språk- och scenputsad v2.1 |
@@ -29,16 +29,16 @@
 | 12 | kapitel/kapitel-12.md | En kväll på redaktionen | Språk- och scenputsad v2.1 |
 | 13 | kapitel/kapitel-13.md | Fel man i rätt ljus | Språk- och scenputsad v2.1 |
 | 14 | kapitel/kapitel-14.md | När havet slår mot rutorna | Språk- och scenputsad v2.1; övergångsputsad |
-| 15 | kapitel/kapitel-15.md | Hotet mot Adam | Språk- och scenputsad v2.1 |
+| 15 | kapitel/kapitel-15.md | Hotet mot Adam | Språk- och scenputsad v2.1; mindre korrigering 2026-05-28 |
 | 16 | kapitel/kapitel-16.md | Tidslinjen som inte håller | Språk- och scenputsad v2.1 |
 | 17 | kapitel/kapitel-17.md | Karin kokar kaffe | Språk- och scenputsad v2.1 |
 | 18 | kapitel/kapitel-18.md | Nora försvinner i två timmar | Språk- och scenputsad v2.1 |
 | 19 | kapitel/kapitel-19.md | Det andra offret som aldrig dog | Språk- och scenputsad v2.1 |
-| 20 | kapitel/kapitel-20.md | Alla ljuger av olika skäl | Språk- och scenputsad v2.1 |
-| 21 | kapitel/kapitel-21.md | Den felvända detaljen | Språk- och scenputsad v2.1 |
+| 20 | kapitel/kapitel-20.md | Alla ljuger av olika skäl | Språk- och scenputsad v2.1; mindre korrigering 2026-05-28 |
+| 21 | kapitel/kapitel-21.md | Den felvända detaljen | Språk- och scenputsad v2.1; mindre korrigering 2026-05-28 |
 | 22 | kapitel/kapitel-22.md | Kallvik håller andan | Språk- och scenputsad v2.1 |
 | 23 | kapitel/kapitel-23.md | Under stilla vatten | Språk- och scenputsad v2.1 |
-| 24 | kapitel/kapitel-24.md | Morgon över Kallvik | Språk- och scenputsad v2.1 |
+| 24 | kapitel/kapitel-24.md | Morgon över Kallvik | Språk- och scenputsad v2.1; mindre korrigering 2026-05-28 |
 
 ## Kanoniska projektfiler
 

@@ -122,7 +122,7 @@ I Noras rum knarrade golvet. Hon rörde sig där inne, kanske lyssnade hon, kans
 
 “Johan tar dig till stationen eller hem till någon säker plats,” sa Helena. “Du lämnar inte platsen förrän teknikerna är klara och patrullen säger till.”
 
-“Det kan jag stå ut med.”
+“Det kan jag göra.”
 
 “Du skickar mig inte något material nu. Inga bilder, inga egna analyser, ingenting som kan hamna fel.”
 

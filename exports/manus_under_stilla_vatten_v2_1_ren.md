@@ -236,7 +236,7 @@ Hennes telefon vibrerade igen. Den här gången var det inte Karin. Det var Nora
 
 *Var är du?*
 
-Två ord. Inget mer. Helena stirrade på skärmen medan vågorna slog mot pålarna under badhuset. Hon såg framför sig Noras rum, den halvt stängda dörren, skolväskan som brukade ligga som en protest mitt i hallen. Hon såg sin dotters ansikte när hon försökte låtsas att hon inte brydde sig.
+Tre ord. Inget mer. Helena stirrade på skärmen medan vågorna slog mot pålarna under badhuset. Hon såg framför sig Noras rum, den halvt stängda dörren, skolväskan som brukade ligga som en protest mitt i hallen. Hon såg sin dotters ansikte när hon försökte låtsas att hon inte brydde sig.
 
 Helena skrev: *På jobb. Mordfall. Jag ringer så fort jag kan.*
 
@@ -266,7 +266,7 @@ Helena böjde sig närmare. Pappersbiten bar också en tunn mörk linje, som fr�
 
 “Redan gjort,” sa Ewa.
 
-Helena såg från pappersbiten till Eriks tomma ringfinger. Plånboken fanns kvar, mobilen låg enligt patrullen i rockfickan, men ringen var borta och något hade rivits sönder. En kropp flyttad några decimeter. En bil vid magasinet. Ett gammalt ont som Astrid inte ville förklara.
+Helena såg från pappersbiten till Eriks tomma ringfinger. Plånboken fanns kvar, mobilen låg enligt patrullen i rockfickan, men ringen var borta och något hade rivits sönder. En kropp flyttad några decimeter. En bil vid magasinet. Något gammalt som Astrid inte ville förklara.
 
 Och någon hade ringt tidningen innan namnet borde vara ute.
 
@@ -798,10 +798,6 @@ Närhet.
 
 Det kunde betyda allt möjligt. Någon nära Erik. Någon nära platsen. Någon nära utredningen. Någon som hade stått tillräckligt nära för att veta vad som skulle tas, vad som skulle lämnas och när staden skulle börja prata.
 
-Ovanför henne hördes Noras dörr gå igen.
-
-Den här gången var ljudet mjukare, men det var fortfarande en stängd dörr.
-
 Helena lade pennan ifrån sig och lät handen vila över anteckningarna. I morgon skulle hon träffa Maria Lind, kvinnan som förlorat sin man och kanske dolde sanningen om honom. I morgon skulle Adam Nyström säkert hinna göra henne arg. I morgon skulle fallet dra i henne från alla håll.
 
 Men halv fem skulle hon sitta på en stol i Noras skola och försöka vara mer än någon som märkte när människor var döda.
@@ -1089,9 +1085,9 @@ Helena skrev nu. Höll tyst. Markköp. Viktor. Hon kände hur fallet rörde sig,
 
 “Han var Erik.”
 
-“Det är också inget svar.”
+“Det är inget svar.”
 
-“Då ja. Han var arg.”
+“Han var arg.”
 
 “På dig?”
 
@@ -1549,7 +1545,7 @@ Det var första gången hon såg honom bli överraskad. Bara en skiftning över 
 
 “Min notis.”
 
-“Den var för väl avvägd för att vara skriven på bara rykten.”
+“Den var för väl avvägd för att vara baserad bara på rykten.”
 
 Adam sänkte blicken mot kameran och drog tummen över kanten på objektivlocket. Inte nervöst. Mer som om han behövde ge handen något att göra medan han valde vilket svar som var minst farligt.
 
@@ -2028,7 +2024,7 @@ Klockan var 10.12.
 
 Än så länge fanns det tid. Det var så hon brukade lura sig själv. Än så länge.
 
-*
+---
 
 Bengt Arvidsson bodde i ett lågt tegelhus där gatan slutade och det gamla varvsområdet tog vid. Havet syntes mellan två magasiner, grått och ihoptryckt under himlen. Det luktade tång, diesel och blöt betong.
 
@@ -2072,7 +2068,7 @@ Bengt nickade.
 
 “Maria Linds bil?”
 
-“Jag känner inte hennes bil. Men ja, om ni säger det.”
+“Jag känner inte till hennes bil. Men ja, om ni säger det.”
 
 “Vi säger inget än,” sa Helena.
 
@@ -2252,7 +2248,7 @@ Bengt såg på Helena, inte på Johan.
 
 Helena trodde honom inte helt. Men det var inte samma sak som att tro honom skyldig till mord.
 
-*
+---
 
 När de kom ut stod regnet tätare. Det slog små ringar i pölarna längs trottoaren. Johan drog upp jackkragen och gick fort mot bilen.
 
@@ -2378,7 +2374,7 @@ Inte för att det var brottsligt.
 
 För att nära människor alltid visste små saker.
 
-*
+---
 
 Tillbaka på stationen luktade grupprummet av uppvärmd matlåda och kaffe som stått för länge. Karin hade skrivit ut en karta över gamla magasinsområdet och markerat tre punkter: där Maria sagt att hon parkerat, där Bengt sett mannen vid staketet och där Erik tidigare på dagen talat i telefon.
 
@@ -2452,7 +2448,7 @@ Karin rörde sig redan mot datorn.
 
 Helena hann nästan säga självklart åt henne, men bet sig i tungan.
 
-*
+---
 
 Kvinnan i receptionen hette Siv Ek. Hon var i femtioårsåldern, hade blött hår trots paraply och bar en röd plastpåse från apoteket i knät som om den innehöll något ömtåligt. Hon var nervös på ett sätt som fick henne att prata innan Helena ställt första frågan.
 
@@ -2830,7 +2826,7 @@ Johan var tyst en sekund.
 
 “Beklagar.”
 
-Helena log trots sig själv. Det gjorde nästan ont.
+Helena log ändå. Det gjorde nästan ont. Det gjorde nästan ont.
 
 “Jag är på väg.”
 
@@ -4893,7 +4889,7 @@ Nora nickade mot Adam.
 
 Bakom dem hostade Johan för att dölja ett skratt.
 
-Adam höjde ögonbrynen. “Otreffande, men inte helt fel.”
+Adam höjde ögonbrynen. “Olämpligt, men inte helt fel.”
 
 Nora tittade tillbaka på Helena.
 
@@ -7749,7 +7745,7 @@ Det var den sortens fråga man inte skulle ställa i ett rum fullt av utrednings
 
 “Gör inte det.”
 
-“Frågar?”
+“Fråga?”
 
 “Gör det inte lättare för mig att göra fel.”
 
@@ -8499,7 +8495,7 @@ Helena läste meningen två gånger. Sedan låste hon skärmen.
 
 Det var exakt vad Helena tänkte.
 
-*
+---
 
 Viktor Sahl kom inte frivilligt på det sätt oskyldiga människor ibland försökte göra. Han kom med advokat, halsduk, mörk rock och en ansiktsfärg som låg någonstans mellan ilska och rädsla.
 
@@ -8893,7 +8889,7 @@ Helena såg ned på mappen.
 
 “Vi tar paus.”
 
-*
+---
 
 Hon gick inte till sitt rum. Hon gick till kaffemaskinen längst bort i korridoren, den som alltid lät som om den höll på att ge upp. Där stod hon med en plastmugg i handen och såg brun vätska rinna ned i en tunn stråle.
 
@@ -8955,7 +8951,7 @@ Helena stod kvar med kaffet i handen tills det blev för varmt mot fingrarna.
 
 Sedan gick hon tillbaka till förhörsrummet.
 
-*
+---
 
 När hon kom in satt Viktor framåtlutad med armbågarna på bordet. Louise Bäckström hade en handskriven lista framför sig och ett ansikte som lovade invändningar mot nästan allt Helena kunde tänkas säga.
 
@@ -9163,7 +9159,7 @@ Det gjorde honom inte oskyldig.
 
 Men det gjorde honom mindre enkel.
 
-*
+---
 
 Åklagaren beslutade om anhållande innan kvällen.
 
@@ -9625,7 +9621,7 @@ Det kom ett litet ljud från Nora. Inte ett skratt, men nära.
 
 “Jag vet.”
 
-“Nobody normal köper en panikgurka.”
+“Ingen normal köper en panikgurka.”
 
 “Det begreppet vill jag aldrig höra Adam använda.”
 
@@ -10001,11 +9997,11 @@ Det var något i hans röst som fick henne att sluta hålla i handtaget.
 
 Hon blev stående med handen kvar mot metallen.
 
-I Noras rum knarrade golvet. Dottern rörde sig där inne, kanske lyssnade hon, kanske inte. Helena tänkte på hur Nora hade sagt att hon var rädd för telefonen. För att Helena inte skulle svara. För att någon skulle stå utanför huset.
+I Noras rum knarrade golvet. Hon rörde sig där inne, kanske lyssnade hon, kanske inte. Helena tänkte på hur Nora hade sagt att hon var rädd för telefonen. För att Helena inte skulle svara. För att någon skulle stå utanför huset.
 
 “Johan tar dig till stationen eller hem till någon säker plats,” sa Helena. “Du lämnar inte platsen förrän teknikerna är klara och patrullen säger till.”
 
-“Jag följer det.”
+“Det kan jag göra.”
 
 “Du skickar mig inte något material nu. Inga bilder, inga egna analyser, ingenting som kan hamna fel.”
 
@@ -10255,7 +10251,7 @@ Helena väntade.
 
 “Be dem kontrollera tejpkanten. Fingeravtryck, fibrer, hudflagor, allt. Och jämför med tejp-/plåsterspåret från Adams kuvert när vi får materialet.”
 
-“Du tänker på Karins tum.”
+“Du tänker på Karins tumme.”
 
 Nora såg upp igen, snabbare den här gången.
 
@@ -10585,7 +10581,7 @@ Nora stirrade på henne.
 
 Helena la händerna på Noras axlar. Hon ville säga aldrig, men det var ett ord vuxna använde när de försökte trolla bort världen.
 
-“Inte av mig,” sa hon. “Och inte av någon som betyder något.”
+“Inte jag,” sa hon. “Och inte någon som betyder något.”
 
 Nora stod kvar en stund. Sedan lutade hon pannan mot Helenas axel.
 
@@ -11016,7 +11012,7 @@ Han zoomade in på vägen från Norra Strandvägen till kallbadhuset.
 
 “Han kan ljuga om allt.”
 
-“Men då ljuger han på ett sätt som försämrar hans egen position konstigt.”
+“Men då ljuger han på ett sätt som försämrar hans egen position, vilket känns konstigt.”
 
 Helena tog upp pennan igen.
 
@@ -11143,7 +11139,7 @@ När hon vände sig om hade han markerat en ny punkt på kartan.
 
 “Och Adam?”
 
-“Vaknade för tjugo minuter sedan. Han ville kaffe. Jag sa nej.”
+“Vaknade för tjugo minuter sedan. Han ville ha kaffe. Jag sa nej.”
 
 “Varför?”
 
@@ -12148,7 +12144,7 @@ Helena mindes inte trappan.
 
 Så gjorde paniken med henne: den tog bort allt som inte var Nora. Inte yrket, inte rutinen, inte den noggranna rösten hon brukade använda när andra föll sönder. Bara Nora. Namnet slog i henne som steg mot betong.
 
-Efteråt skulle hon veta att hon måste ha tagit trapporna, eftersom hissen på polishuset varit trasig i två dagar och någon satt upp en lapp med röd spritpenna på dörren. Hon skulle minnas den lappen senare, så tydligt att den nästan blev löjlig: *Ur funktion. Felanmäld.*
+Efteråt skulle hon förstå att hon måste ha tagit trapporna, eftersom hissen på polishuset varit trasig i två dagar och någon satt upp en lapp med röd spritpenna på dörren. Hon skulle minnas den lappen senare, så tydligt att den nästan blev löjlig: *Ur funktion. Felanmäld.*
 
 Men själva trappan fanns inte.
 
@@ -12156,7 +12152,7 @@ Inte stegen.
 
 Inte räcket.
 
-Inte hur Johan ropade hennes namn bakom henne.
+Inte Johan som ropade hennes namn bakom henne.
 
 Bara telefonen i handen och den lilla kartpunkten som hunnit blinka till innan den dog.
 
@@ -14289,7 +14285,7 @@ Helena tog en klunk kaffe. Det smakade bränt trots allt.
 
 ”Alla känslor”, sade hon. ”Men inga genvägar.”
 
-*
+---
 
 Maria Lind kom in i förhörsrummet med en halsduk hårt virad runt halsen.
 
@@ -14547,7 +14543,7 @@ Maria tvekade.
 
 ”Kajsa.”
 
-*
+---
 
 Viktor Sahl hade slutat försöka se oberörd ut.
 
@@ -14817,7 +14813,7 @@ Viktor skakade på huvudet.
 
 ”Nej. Men hon arbetade med någon form av samordning. Erik kallade henne duktig. Det gjorde han när han inte mindes vad kvinnor hette.”
 
-*
+---
 
 Adam ville inte komma in i förhörsrummet.
 
@@ -15095,7 +15091,7 @@ Hon borde ha rest sig då. Samtalet var över som polisärende, åtminstone för
 
 Adam såg det.
 
-”Hur är Nora?”
+”Hur är det med Nora?”
 
 Frågan var försiktig. Inte journalistisk. Inte strategisk.
 
@@ -15125,7 +15121,7 @@ Det borde ha gjort henne arg.
 
 I stället gjorde det henne tyst.
 
-*
+---
 
 Klockan var 19.46 när Helena kom tillbaka till utredningsrummet.
 
@@ -15301,7 +15297,7 @@ Höger tumme?
 
 Johan stod bakom henne.
 
-”Det här är kapitel tjugoett”, sade han trött.
+”Det här är nästa steg”, sade han trött.
 
 Helena såg på tavlan, på alla lögner som inte längre dolde mordet utan människorna runt det.
 
@@ -15570,7 +15566,7 @@ Noras röst var låg, lite hes av morgon. Helena blundade och lät den landa nå
 
 Helena vände sig bort från de andra. "Hur är det med dig?"
 
-"Tante Evas frukost är typ ett straff, men annars okej." Nora pausade. "Adam skrev att han kunde köra mig till skolan om du inte kan."
+"Tant Evas frukost är typ ett straff, men annars okej." Nora pausade. "Adam skrev att han kunde köra mig till skolan om du inte kan."
 
 Helena kände både tacksamhet och skuld, tätt sammanflätade. Adam hade inte frågat henne först. Det borde ha irriterat henne. I stället gjorde det henne nästan gråtfärdig.
 
@@ -15656,6 +15652,28 @@ Hon hade föreställt sig att genombrottet skulle kännas som lättnad. Som en d
 
 "Nej", sade Lars. "Men det räcker för att göra henne farlig."
 
+"Vi behöver skala bort allt som låter dramatiskt", sade Helena.
+
+Johan såg på väggen där utskrifterna nästan täckte varandra.
+
+"Det här är inte dramatiskt?"
+
+"Jo. Därför är det farligt."
+
+Hon reste sig och tog ner två av papperen. Sedan ett tredje. Till slut lät hon bara serverexporten och ursprungstipset sitta kvar.
+
+"En sak", sade hon. "Inte fem. En."
+
+Lars vek armarna över bröstet. "Att registreringstiden ligger före inkommandet?"
+
+"Ja. Och att ändringen inte bara är fel tid. Den ger tipset en riktning."
+
+Hon pekade på raden där "okänd kvinna" blivit "Maria Lind".
+
+"Den som gjorde det här visste inte bara hur systemet fungerade. Hon visste vad hon ville att vi skulle tro."
+
+Rummet blev stilla på ett nytt sätt. Inte chockat. Inte ens högtidligt. Bara avskalat, som när vatten drar sig undan och lämnar något vasst synligt på botten.
+
 Det var då larmet från receptionen kom genom Lars telefon. En kort signal, följd av en röst som försökte vara lugn och inte lyckades helt.
 
 "Lars? Karin Holm gick precis. Hon tog sin väska och sa att hon skulle till arkivet. Ska hon vara—"
@@ -15691,28 +15709,6 @@ Helena höll räcket så hårt att handen värkte.
 Karin svarade inte.
 
 Hon öppnade dörren och gick ut i det bleka morgonljuset.
-
-"Vi behöver skala bort allt som låter dramatiskt", sade Helena.
-
-Johan såg på väggen där utskrifterna nästan täckte varandra.
-
-"Det här är inte dramatiskt?"
-
-"Jo. Därför är det farligt."
-
-Hon reste sig och tog ner två av papperen. Sedan ett tredje. Till slut lät hon bara serverexporten och ursprungstipset sitta kvar.
-
-"En sak", sade hon. "Inte fem. En."
-
-Lars vek armarna över bröstet. "Att registreringstiden ligger före inkommandet?"
-
-"Ja. Och att ändringen inte bara är fel tid. Den ger tipset en riktning."
-
-Hon pekade på raden där "okänd kvinna" blivit "Maria Lind".
-
-"Den som gjorde det här visste inte bara hur systemet fungerade. Hon visste vad hon ville att vi skulle tro."
-
-Rummet blev stilla på ett nytt sätt. Inte chockat. Inte ens högtidligt. Bara avskalat, som när vatten drar sig undan och lämnar något vasst synligt på botten.
 
 ---
 
@@ -17421,7 +17417,7 @@ Adam log, men lät sedan blicken vila på vattnet. "Hur mår du?"
 
 Helena följde hans blick. Frågan var enkel. Svaret kunde inte vara det.
 
-"Jag mår inte bra", sade hon. "Men jag mår inte ensam."
+"Jag mår inte bra", sade hon. "Men jag är inte ensam."
 
 Han nickade långsamt.
 

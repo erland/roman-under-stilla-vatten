@@ -226,9 +226,9 @@ På bordet låg en preliminär sammanställning: Karins erkännande, diktafonen,
 
 Allt som hade legat utspritt över Kallvik som trasiga bitar av ett gammalt glas hade börjat bilda en form.
 
-Inte helt. Aldrig helt.
+Inte hel. Aldrig hel.
 
-Men synligt.
+Men synlig.
 
 "Bra jobbat", sade Lars när Helena kom in.
 

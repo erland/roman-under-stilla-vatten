@@ -195,7 +195,7 @@ Johan var tyst en sekund.
 
 “Beklagar.”
 
-Helena log trots vad hon kände. Det gjorde nästan ont.
+Helena log ändå. Det gjorde nästan ont. Det gjorde nästan ont.
 
 “Jag är på väg.”
 
