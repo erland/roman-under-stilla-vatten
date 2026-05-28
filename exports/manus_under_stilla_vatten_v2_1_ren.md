@@ -7,6 +7,8 @@
 
 **Erland Lindmark**
 
+**Copyright © 2026 Erland Lindmark. Alla rättigheter reserverade.**
+
 \newpage
 
 # Kapitel 1 – Kroppen vid kallbadhuset

@@ -20,6 +20,7 @@ Exporter är inte romanens kanoniska källtext. De kan återskapas från `kapite
 | `omslag_under_stilla_vatten.png` | Omslagsbild/framsida med titel, undertitel och författarnamn. | Skapad och sparad 2026-05-24 |
 | `omslag_under_stilla_vatten_apple_books.png` | Högupplöst RGB-version av befintligt omslag för Apple Books/butikspresentation. Kortaste sidan: 1400 px. | Skapad 2026-05-24 |
 | `Under_stilla_vatten_Erland_Lindmark.epub` | EPUB 3 skapad med Pandoc från ren manusfil och högupplöst omslag. | Skapad 2026-05-24 |
+- Senaste EPUB-versionen har ingen synlig innehållsförteckning i läsflödet; teknisk EPUB-navigation finns kvar.
 | `epub_pandoc_kontroll.md` | Grundläggande kontrollrapport för Pandoc-EPUB. | Skapad 2026-05-24 |
 
 | `apple_books/README.md` | Apple Books-publiceringspaket med metadata, butikstexter, kategori-/prisförslag och checklista. | Skapat 2026-05-24 |
@@ -36,3 +37,28 @@ Ren manusfil och EPUB har återskapats efter mindre textkorrigeringar i kapitel 
 ## Kapitelnoteringar
 
 Kapitelnoteringar har flyttats till `kapitel/kapitelnoteringar.md` 2026-05-28. Kapitelfilerna innehåller nu endast romantext och kan användas säkrare som källa för framtida EPUB/PDF-exporter.
+
+
+## Senaste EPUB-justering 2026-05-28
+
+EPUB-filen `Under_stilla_vatten_Erland_Lindmark.epub` har återskapats med Pandoc efter följande exportjusteringar:
+
+- endast en egen titelsida i läsordningen
+- copyrightnotis tillagd på titelsidan
+- Pandocs automatiska titelsida avstängd
+- synlig innehållsförteckning borttagen ur läsordningen
+- teknisk EPUB-navigering (`nav.xhtml`) finns kvar eftersom den hör till EPUB-formatet
+- full EPUBCheck-validering återstår före Apple Books-uppladdning
+
+
+## EPUB-justering: en titelsida
+
+Senaste EPUB-exporten använder en enda titelsida med copyrightnotis. Den synliga innehållsförteckningen är borttagen från läsordningen, men EPUB:ens tekniska navigationsfiler finns kvar. Kapitelrubriker visas på två rader med reducerat avstånd.
+
+## EPUB-layoutjustering 2026-05-28
+
+Kapitelrubrikerna visas fortsatt på två rader, men marginalen ovanför rubriken och marginalen efter kapiteltiteln har minskats för ett tätare och mer balanserat intryck i EPUB-läsare.
+
+## EPUB-layoutjustering 2026-05-28: titelsida
+
+Titelsidans undertitel centreras nu explicit i EPUB-CSS. Kapiteltexterna är oförändrade.

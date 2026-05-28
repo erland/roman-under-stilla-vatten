@@ -6,9 +6,9 @@
 - Undertitel: En Kallviksdeckare
 - Författare: Erland Lindmark
 - Senast uppdaterad: 2026-05-28
-- Nuvarande fas: Exportförberedelse v2.1; kapitelnoteringar flyttade till separat fil; EPUB återskapad
+- Nuvarande fas: Exportförberedelse v2.1; EPUB-layout finjusterad med tätare kapitelrubriker
 - Senast godkända/reviderade kapitel: Kapitel 1–24 språk- och scenputsade v2.1; mindre korrigeringar gjorda i kapitel 2, 6, 15, 20, 21 och 24
-- Nästa kapitel: Inget planerat; nästa steg är EPUBCheck-validering och provläsning
+- Nästa kapitel: Inget planerat; nästa steg är provläsning av EPUB och EPUBCheck-validering
 - Omslagsbild: Skapad (`exports/omslag_under_stilla_vatten.png`); högupplöst Apple Books-version skapad (`exports/omslag_under_stilla_vatten_apple_books.png`)
 
 ## Kapitelinventering
@@ -61,7 +61,8 @@
 | exports/README.md | Exportinformation | Uppdaterad |
 | exports/exportlogg.md | Exportlogg | Uppdaterad |
 | exports/manus_under_stilla_vatten_v2_1_ren.md | Ren manusfil utan kapitelnoteringar | Skapad |
-| exports/exportkontroll_v2_1.md | Kontrollrapport inför export | Skapad |
+| exports/exportkontroll_v2_1.md | Kontrollrapport inför export | Uppdaterad |
+| exports/Under_stilla_vatten_Erland_Lindmark.epub | EPUB 3 skapad med Pandoc | Uppdaterad 2026-05-28 |
 
 ## Synkkontroll
 
@@ -101,10 +102,12 @@
 ## EPUB-export
 
 - EPUB-fil: `exports/Under_stilla_vatten_Erland_Lindmark.epub`
-- Skapad: 2026-05-24
+- Återskapad: 2026-05-28
 - Verktyg: Pandoc 3.1.11.1
 - Kapitel: 1–24
 - Omslag inkluderat: `exports/omslag_under_stilla_vatten_apple_books.png`
+- Titelsida: En egen titelsida med copyrightnotis; ingen extra Pandoc-genererad titelsida
+- Synlig innehållsförteckning: Borttagen ur läsordningen (`nav.xhtml` finns endast som teknisk EPUB-navigering)
 - Validering: Grundkontrollerad; full EPUBCheck kvarstår.
 
 
@@ -113,3 +116,29 @@
 | Fil | Syfte | Status |
 |---|---|---|
 | `kapitel/kapitelnoteringar.md` | Samlade kapitelnoteringar flyttade från kapitelfilerna för att hålla källkapitlen rena inför export. | OK |
+
+## Senaste exportstatus
+
+- EPUB-rubriker två rader: Klart
+- Copyrighttext: Alla rättigheter reserverade
+- Synlig innehållsförteckning i läsordning: Borttagen
+
+
+## Senaste EPUB-export
+
+- Fil: `exports/Under_stilla_vatten_Erland_Lindmark.epub`
+- Datum: 2026-05-28
+- Status: Justerad EPUB med en titelsida, ingen synlig TOC, två-radiga kapitelrubriker med minskat avstånd.
+- EPUBCheck: Återstår.
+
+## Senaste EPUB-layoutjustering
+
+- Fil: `exports/Under_stilla_vatten_Erland_Lindmark.epub`
+- Datum: 2026-05-28
+- Status: Titelsidans undertitel centreras explicit via CSS.
+- Kapiteltexter: Oförändrade.
+- EPUBCheck: Återstår.
+
+## Exportnotering
+
+- EPUB: synlig innehållsförteckning borttagen ur läsflödet; teknisk `nav.xhtml` behållen.

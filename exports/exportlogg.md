@@ -2,6 +2,8 @@
 
 | Datum | Format | Filnamn | Inkluderade kapitel | Kommentar |
 |---|---|---|---|---|
+| 2026-05-28 | EPUB 3 | `Under_stilla_vatten_Erland_Lindmark.epub` | Kapitel 1–24 | Kapitelrubrikernas marginaler justerade: mindre utrymme ovanför kapitelnummer och något mindre utrymme efter kapiteltitel. |
+| 2026-05-28 | EPUB | Under_stilla_vatten_Erland_Lindmark.epub | Kapitel 1–24 | Copyrighttext uppdaterad; kapitelrubriker visuellt tvådelade; ingen synlig innehållsförteckning i läsordningen. |
 | 2026-05-24 | Markdown exportunderlag | `manus_under_stilla_vatten_v2_1_ren.md` | Kapitel 1–24 | Ren manusfil skapad utan kapitelnoteringar. PDF/EPUB ännu ej skapade. |
 | 2026-05-24 | Exportkontroll | `exportkontroll_v2_1.md` | Kapitel 1–24 | Kontroll inför framtida PDF/EPUB-export. |
 | 2026-05-24 | Markdown kontroll | manus_under_stilla_vatten_v2_1_ren.md | Kapitel 1–24 | Ren exportfil verifierad; kapitelnoteringar saknas; version 1/2-formulering justerad i exportunderlaget. |
@@ -16,3 +18,9 @@
 | 2026-05-28 | Projektstäd/exportunderlag | `kapitel/kapitelnoteringar.md`, `manus_under_stilla_vatten_v2_1_ren.md` | Kapitel 1–24 | Kapitelnoteringar flyttade till separat fil; kapitelfiler rensade och ren exportfil återskapad. |
 
 | 2026-05-28 | EPUB | `Under_stilla_vatten_Erland_Lindmark.epub` | Kapitel 1–24 | EPUB återskapad efter att kapitelnoteringarna flyttats till separat fil; kapitelnoteringar ingår inte. |
+
+| 2026-05-28 | EPUB | `Under_stilla_vatten_Erland_Lindmark.epub` | Kapitel 1–24 | Återskapad med Pandoc utan synlig innehållsförteckning i läsordningen, utan Pandoc-genererad extra titelsida och med copyrightnotis på egen titelsida. EPUBCheck återstår. |
+| 2026-05-28 | EPUB 3 | `Under_stilla_vatten_Erland_Lindmark.epub` | Kapitel 1–24 | Justerad EPUB: en titelsida, copyright kvar, ingen synlig TOC, titelsidan borttagen ur intern TOC, minskat avstånd i två-radiga kapitelrubriker. |
+
+| 2026-05-28 | EPUB 3 | `Under_stilla_vatten_Erland_Lindmark.epub` | Kapitel 1–24 | CSS justerad så undertiteln på titelsidan centreras explicit. Kapiteltexterna är oförändrade. EPUBCheck återstår. |
+| 2026-05-28 | EPUB | Under_stilla_vatten_Erland_Lindmark.epub | Kapitel 1–24 | Synlig innehållsförteckning borttagen ur EPUB-läsflödet; teknisk nav.xhtml behållen för EPUB-navigation. |

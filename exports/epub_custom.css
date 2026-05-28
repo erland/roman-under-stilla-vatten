@@ -1,0 +1,53 @@
+body {
+  font-family: serif;
+  line-height: 1.45;
+}
+
+.title-page {
+  text-align: center;
+  margin-top: 20%;
+}
+
+.chapter-heading {
+  text-align: center;
+  margin-top: 1.25em;
+  margin-bottom: 1.3em;
+  line-height: 1.08;
+}
+
+.chapter-heading .chapter-number {
+  display: block;
+  font-size: 0.78em;
+  letter-spacing: 0.06em;
+  text-transform: none;
+  margin-bottom: 0.05em;
+}
+
+.chapter-heading .chapter-title-text {
+  display: block;
+  font-size: 1.0em;
+  font-weight: normal;
+}
+
+.titlepage, .title-page {
+  text-align: center;
+  margin-top: 22%;
+}
+
+.titlepage h1, .title-page h1,
+.titlepage h2, .title-page h2,
+.titlepage p, .title-page p,
+.titlepage .level2, .title-page .level2 {
+  text-align: center;
+}
+
+.titlepage h1, .title-page h1 {
+  margin-bottom: 0.3em;
+}
+
+.titlepage h2, .title-page h2 {
+  margin-top: 0.2em;
+  margin-bottom: 1.2em;
+  font-weight: normal;
+}
+

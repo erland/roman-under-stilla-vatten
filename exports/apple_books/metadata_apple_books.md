@@ -21,7 +21,7 @@ Senast uppdaterad: 2026-05-24
 | Manusfil för export | `exports/manus_under_stilla_vatten_v2_1_ren.md` |
 | Omslagsbild | `exports/omslag_under_stilla_vatten.png` |
 | Apple Books-omslag, högupplöst | `exports/omslag_under_stilla_vatten_apple_books.png` |
-| EPUB-status | Ej skapad |
+| EPUB-status | Skapad med Pandoc; exportjusterad 2026-05-28 |
 | PDF-status | Ej skapad |
 | ISBN | Ej beslutat |
 | Utgivare/förlag | Ej beslutat |
@@ -29,6 +29,7 @@ Senast uppdaterad: 2026-05-24
 | Pris | Ej beslutat |
 | Regioner/länder | Ej beslutat |
 | Explicit innehåll | Behöver slutkontrolleras före publicering |
+| Copyrightnotis | Copyright © 2026 Erland Lindmark. Alla rättigheter reserverade. |
 
 ## Kort kategorisering
 

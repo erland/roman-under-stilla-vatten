@@ -4,6 +4,8 @@
 
 | Datum | Ändring | Kommentar |
 |---|---|---|
+| 2026-05-28 | EPUB-layout justerad | Marginal ovanför kapitelrubriker halverad och marginal efter kapiteltitel minskad något; kapiteltexter oförändrade. |
+| 2026-05-28 | EPUB-export justerad | Copyrighttext ändrad till “Alla rättigheter reserverade”; EPUB-rubriker visas på två rader utan att nav-filen/toc-strukturen ändras. |
 | 2026-05-24 | Projekt skapat | Romanprojektet Under stilla vatten skapades med romanbibel, synopsis, kapitelplan och projektstruktur. |
 | 2026-05-24 | Kapitel 1 skrivet/sparat | Kapitel 1 – Kroppen vid kallbadhuset skapades. Kapitel lades in och projektstatus, kapitelplan, tidslinje och kontinuitet synkades. |
 | 2026-05-24 | Kapitel 2 skrivet/sparat | Kapitel 2 – Nora stänger dörren skapades. Kapitel lades in och projektstatus, kapitelplan, tidslinje och kontinuitet synkades. |
@@ -52,3 +54,9 @@
 | 2026-05-24 | Omslagsbild sparad i projektzip | Omslagsbilden lades till som `exports/omslag_under_stilla_vatten.png`. Kapiteltexter oförändrade. |
 | 2026-05-24 | EPUB skapad med Pandoc | EPUB 3 skapad: `exports/Under_stilla_vatten_Erland_Lindmark.epub`. Innehåller kapitel 1–24 och högupplöst Apple Books-omslag. Full EPUBCheck-validering kvarstår. |
 
+
+| 2026-05-28 | EPUB-export justerad | EPUB återskapad utan synlig innehållsförteckning, utan extra Pandoc-titelsida och med copyrightnotis på titelsidan. |
+| 2026-05-28 | EPUB-export justerad | En extra titelsida togs bort, titelsidan togs bort ur intern TOC, copyright behölls, och avståndet i två-radiga kapitelrubriker minskades. Kapiteltexterna ändrades inte. |
+
+| 2026-05-28 | EPUB-layout justerad | Titelsidans undertitel centreras explicit via CSS. Kapiteltexterna ändrades inte. |
+| 2026-05-28 | EPUB justerad | Synlig innehållsförteckning borttagen ur läsflödet; kapiteltexterna oförändrade. |

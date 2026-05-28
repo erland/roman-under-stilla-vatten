@@ -4,7 +4,7 @@
 - Titel: Under stilla vatten
 - Undertitel: En Kallviksdeckare
 - Författare: Erland Lindmark
-- Omslagsbild: Skapad och sparad i `exports/omslag_under_stilla_vatten.png`
+- Omslagsbild: Skapad och uppskalad för Apple Books
 
 ## Nuvarande fas
 
@@ -21,15 +21,18 @@ Exportförberedelse v2.1 är genomförd. Kapitelnoteringar har flyttats från ka
 - Kapitelomfång i projektet: 24 kapitel.
 - Kapitelnoteringar flyttade till `kapitel/kapitelnoteringar.md` 2026-05-28; kapitelfilerna är rensade från arbetsnoteringar.
 - Mindre textkorrigeringar införda 2026-05-28 i kapitel 2, 6, 15, 20, 21 och 24; exportunderlag och EPUB återskapade.
+- EPUB-export justerad 2026-05-28: en egen titelsida med copyright, ingen synlig innehållsförteckning och ingen extra Pandoc-titelsida.
 
 ## Exportförberedelse genomförd
+
+- EPUB-layout justerad 2026-05-28: kapitelrubrikernas marginaler minskade för tätare rubriksättning.
 
 - Ren manusfil skapad: `exports/manus_under_stilla_vatten_v2_1_ren.md`.
 - Kapitelnoteringar har tagits bort i exportunderlaget, men källkapitlen i `kapitel/` är oförändrade.
 - Exportkontroll skapad: `exports/exportkontroll_v2_1.md`.
 - Exportlogg uppdaterad: `exports/exportlogg.md`.
 - `exports/README.md` uppdaterad med exportstatus.
-- EPUB har återskapats med Pandoc efter textkorrigeringar: `exports/Under_stilla_vatten_Erland_Lindmark.epub`. PDF har ännu inte skapats.
+- EPUB har återskapats med Pandoc efter textkorrigeringar och exportjusteringar: `exports/Under_stilla_vatten_Erland_Lindmark.epub`. Den har en enda egen titelsida med copyrightnotis, ingen synlig innehållsförteckning i läsordningen och ingen extra Pandoc-genererad titelsida. PDF har ännu inte skapats.
 
 ## Omslagsbild
 
@@ -48,7 +51,7 @@ Exportförberedelse v2.1 är genomförd. Kapitelnoteringar har flyttats från ka
 
 ## Nästa rekommenderade steg
 
-- Provläs den återskapade EPUB-filen.
+- Provläs den återskapade EPUB-filen, särskilt titelsidan och övergången från omslag till kapitel 1.
 - Kör EPUBCheck innan uppladdning till Apple Books.
 - Skapa PDF endast om läsexemplar eller parallell export behövs.
 
@@ -101,3 +104,30 @@ Innehåll:
 - Kapitel: 1–24
 - Omslag: `exports/omslag_under_stilla_vatten_apple_books.png`
 - Full EPUBCheck-validering kvarstår inför Apple Books-publicering.
+
+## Senaste exportjustering
+
+EPUB-exporten har uppdaterats med copyrighttexten “Alla rättigheter reserverade” och kapitelrubriker som visas på två rader i bokens läsning. Kapiteltexterna är oförändrade.
+
+
+## Exportjustering 2026-05-28
+
+EPUB-exporten har justerats efter läsarkontroll:
+- endast en titelsida i läsordningen
+- copyrightnotis på titelsidan
+- ingen synlig innehållsförteckning i läsordningen
+- titelsidan är inte längre listad i EPUB:ens interna TOC
+- kapitelrubriker visas på två rader med mindre avstånd
+- kapiteltexterna är oförändrade
+
+Nästa rekommenderade steg: granska den nya EPUB:en i Apple Books eller annan EPUB-läsare och därefter köra EPUBCheck inför publicering.
+
+## Exportjustering 2026-05-28: titelsidans undertitel
+
+EPUB-exportens CSS har uppdaterats så undertiteln på titelsidan centreras explicit. Kapiteltexterna är oförändrade.
+
+Nästa rekommenderade steg: granska den nya EPUB:en i Apple Books eller annan EPUB-läsare och därefter köra EPUBCheck inför publicering.
+
+## Senaste exportjustering
+
+EPUB: Synlig innehållsförteckning är borttagen ur läsflödet. Teknisk navigationsfil finns kvar. Kapiteltexterna är oförändrade.

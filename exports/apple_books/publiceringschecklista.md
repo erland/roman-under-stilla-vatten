@@ -10,8 +10,10 @@ Senast uppdaterad: 2026-05-24
 - [x] Kapitelnoteringar är borttagna från exportunderlaget.
 - [x] Skapa EPUB-fil: `exports/Under_stilla_vatten_Erland_Lindmark.epub`.
 - [x] Kontrollera EPUB-metadata: titel, författare, språk. Undertitel finns i projektmetadata och butikspaket.
-- [x] Kontrollera innehållsförteckning.
+- [x] Synlig innehållsförteckning borttagen ur EPUB-läsordningen; teknisk EPUB-navigering finns kvar.
 - [x] Kontrollera att alla kapitel 1–24 finns i rätt ordning.
+- [x] Copyrightnotis finns på titelsidan.
+- [x] Endast en egen titelsida i EPUB-läsordningen.
 - [x] Grundkontrollera att svenska tecken finns i EPUB/XHTML.
 - [x] Grundkontrollera att inga råa markdownrubriker syns i EPUB.
 - [ ] Validera EPUB med EPUBCheck före Apple Books-uppladdning.
@@ -74,3 +76,19 @@ Aktuell omslagsnotering: den ursprungliga omslagsbilden är 1055 × 1491 px. En 
 - [ ] Kontrollera att bokens beskrivning inte innehåller spoilers.
 - [ ] Spara slutlig EPUB och eventuell PDF i `exports/`.
 - [ ] Uppdatera `exports/exportlogg.md`.
+
+
+## Uppdatering 2026-05-28
+
+- EPUB-exporten är justerad för Apple Books-läsning:
+  - en titelsida
+  - copyrightnotis på titelsidan
+  - ingen synlig innehållsförteckning i läsordningen
+  - titelsidan inte listad i intern TOC
+  - högupplöst omslag ingår
+- Kvar före uppladdning:
+  - kör full EPUBCheck
+  - provläs EPUB i Apple Books
+  - kontrollera metadata/pris/länder i Apple Books-publiceringsflödet
+
+- [ ] EPUB-layout kontrollerad i Apple Books/Förhandsvisning efter rubrikmarginaljustering.
