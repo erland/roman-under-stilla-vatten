@@ -92,3 +92,8 @@ Aktuell omslagsnotering: den ursprungliga omslagsbilden är 1055 × 1491 px. En 
   - kontrollera metadata/pris/länder i Apple Books-publiceringsflödet
 
 - [ ] EPUB-layout kontrollerad i Apple Books/Förhandsvisning efter rubrikmarginaljustering.
+
+## EPUBCheck
+
+- EPUBCheck-fel `RSC-011` i `nav.xhtml` korrigerades 2026-05-28.
+- Kör EPUBCheck på nytt innan uppladdning till Apple Books.

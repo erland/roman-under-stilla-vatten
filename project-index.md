@@ -6,9 +6,9 @@
 - Undertitel: En Kallviksdeckare
 - Författare: Erland Lindmark
 - Senast uppdaterad: 2026-05-28
-- Nuvarande fas: Exportförberedelse v2.1; EPUB-layout finjusterad med tätare kapitelrubriker
+- Nuvarande fas: Exportförberedelse v2.1; EPUB-layout finjusterad och EPUBCheck RSC-011 korrigerat
 - Senast godkända/reviderade kapitel: Kapitel 1–24 språk- och scenputsade v2.1; mindre korrigeringar gjorda i kapitel 2, 6, 15, 20, 21 och 24
-- Nästa kapitel: Inget planerat; nästa steg är provläsning av EPUB och EPUBCheck-validering
+- Nästa kapitel: Inget planerat; nästa steg är omkörning av EPUBCheck och provläsning av korrigerad EPUB
 - Omslagsbild: Skapad (`exports/omslag_under_stilla_vatten.png`); högupplöst Apple Books-version skapad (`exports/omslag_under_stilla_vatten_apple_books.png`)
 
 ## Kapitelinventering

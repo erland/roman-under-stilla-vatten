@@ -62,3 +62,7 @@ Kapitelrubrikerna visas fortsatt på två rader, men marginalen ovanför rubrike
 ## EPUB-layoutjustering 2026-05-28: titelsida
 
 Titelsidans undertitel centreras nu explicit i EPUB-CSS. Kapiteltexterna är oförändrade.
+
+## EPUBCheck-korrigering 2026-05-28
+
+EPUBCheck-fel `RSC-011` i `nav.xhtml` är korrigerat. Den synliga innehållsförteckningen ligger fortfarande inte i läsflödet, men den tekniska EPUB-navigationen finns kvar.

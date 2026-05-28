@@ -23,7 +23,7 @@
 - Kapitelnoteringar i källkapitlen: Nej, flyttade till `kapitel/kapitelnoteringar.md`
 - Omslagsbild inkluderad: Ja
 - Metadata angiven vid Pandoc-export: Ja
-- Filstorlek: 3,319,186 byte
+- Filstorlek: 3,319,166 byte
 
 ## Pandoc-inställningar
 
@@ -80,3 +80,13 @@ Kapitelrubrikerna har postprocessats i EPUB-XHTML så de visas visuellt två rad
 
 - `<itemref idref="nav" />` har tagits bort från `spine` i EPUB-paketet så innehållsförteckningen inte visas som en egen sida i läsflödet.
 - `nav.xhtml` ligger kvar i manifestet med `properties="nav"`.
+
+
+## EPUBCheck-korrigering 2026-05-28
+
+- EPUBCheck rapporterade `ERROR(RSC-011)` i `EPUB/nav.xhtml`: en landmark-länk till `#toc` pekade på `nav.xhtml`, som inte ligger i spine/läsordningen.
+- Korrigering: landmark-posten för synlig innehållsförteckning togs bort ur `nav.xhtml`.
+- Korrigering: legacy-guide-referensen till `nav.xhtml` togs bort ur `content.opf`.
+- Den tekniska `nav.xhtml` finns fortfarande kvar enligt EPUB 3-krav och innehåller länkar till kapitel 1–24.
+- Synlig innehållsförteckning ligger fortsatt inte i EPUB:ens läsordning.
+- Lokal strukturell kontroll: `nav.xhtml` länkar nu bara kapitelposter till faktiska spine-kapitel; full EPUBCheck behöver köras igen i användarens EPUBCheck-miljö.

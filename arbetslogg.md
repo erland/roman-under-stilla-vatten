@@ -4,6 +4,7 @@
 
 | Datum | Ändring | Kommentar |
 |---|---|---|
+| 2026-05-28 | EPUBCheck-fel korrigerat | RSC-011 i `nav.xhtml` åtgärdat genom att ta bort TOC-landmark/guide-referens till icke-spine-lagd nav-fil; kapiteltexter oförändrade. |
 | 2026-05-28 | EPUB-layout justerad | Marginal ovanför kapitelrubriker halverad och marginal efter kapiteltitel minskad något; kapiteltexter oförändrade. |
 | 2026-05-28 | EPUB-export justerad | Copyrighttext ändrad till “Alla rättigheter reserverade”; EPUB-rubriker visas på två rader utan att nav-filen/toc-strukturen ändras. |
 | 2026-05-24 | Projekt skapat | Romanprojektet Under stilla vatten skapades med romanbibel, synopsis, kapitelplan och projektstruktur. |

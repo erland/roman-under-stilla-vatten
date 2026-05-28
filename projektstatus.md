@@ -25,6 +25,7 @@ Exportförberedelse v2.1 är genomförd. Kapitelnoteringar har flyttats från ka
 
 ## Exportförberedelse genomförd
 
+- EPUBCheck-fel RSC-011 i `nav.xhtml` korrigerat 2026-05-28; ny EPUB bör valideras igen i EPUBCheck.
 - EPUB-layout justerad 2026-05-28: kapitelrubrikernas marginaler minskade för tätare rubriksättning.
 
 - Ren manusfil skapad: `exports/manus_under_stilla_vatten_v2_1_ren.md`.

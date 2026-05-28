@@ -18,6 +18,7 @@
 - Synlig innehållsförteckning i EPUB-läsordningen är borttagen; teknisk navigationsfil finns kvar enligt EPUB-formatet.
 - Omslag inkluderat i EPUB: `exports/omslag_under_stilla_vatten_apple_books.png`.
 - PDF: ännu inte skapad.
+- EPUBCheck-fel `RSC-011` i `nav.xhtml` har korrigerats genom att ta bort landmark-/guide-referens till den icke-spine-lagda navigationssidan; teknisk EPUB-navigation finns kvar.
 
 ## Ordstatistik
 

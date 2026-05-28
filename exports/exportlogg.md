@@ -2,6 +2,7 @@
 
 | Datum | Format | Filnamn | Inkluderade kapitel | Kommentar |
 |---|---|---|---|---|
+| 2026-05-28 | EPUB 3 korrigering | `Under_stilla_vatten_Erland_Lindmark.epub` | Kapitel 1–24 | EPUBCheck-fel RSC-011 i `nav.xhtml` korrigerat: landmark/guide-referens till icke-spine-lagd TOC togs bort. Synlig innehållsförteckning är fortfarande borttagen ur läsflödet. |
 | 2026-05-28 | EPUB 3 | `Under_stilla_vatten_Erland_Lindmark.epub` | Kapitel 1–24 | Kapitelrubrikernas marginaler justerade: mindre utrymme ovanför kapitelnummer och något mindre utrymme efter kapiteltitel. |
 | 2026-05-28 | EPUB | Under_stilla_vatten_Erland_Lindmark.epub | Kapitel 1–24 | Copyrighttext uppdaterad; kapitelrubriker visuellt tvådelade; ingen synlig innehållsförteckning i läsordningen. |
 | 2026-05-24 | Markdown exportunderlag | `manus_under_stilla_vatten_v2_1_ren.md` | Kapitel 1–24 | Ren manusfil skapad utan kapitelnoteringar. PDF/EPUB ännu ej skapade. |
