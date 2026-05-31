@@ -2,6 +2,8 @@
 
 | Datum | Format | Filnamn | Inkluderade kapitel | Kommentar |
 |---|---|---|---|---|
+| 2026-05-31 | EPUB 3 och ren Markdown | `exports/Under_stilla_vatten_Erland_Lindmark.epub`, `exports/manus_under_stilla_vatten_v2_1_ren.md` | Kapitel 1–24 | Kapitel 19: formuleringen `Det skulle kunna stämma med 1979.` ändrad till `Det skulle kunna stämma med Karin.`; EPUB återskapad/synkad. |
+| 2026-05-31 | EPUB 3 och ren Markdown | `exports/Under_stilla_vatten_Erland_Lindmark.epub`, `exports/manus_under_stilla_vatten_v2_1_ren.md` | Kapitel 1–24 | Kapitel 19 ersatt med användarens reviderade version och ålderspassage justerad till född 1979-logik; EPUB återskapad. |
 | 2026-05-28 | Amazon KDP-paket | `exports/amazon_kdp/` och `exports/omslag_under_stilla_vatten_kdp.jpg` | Kapitel 1–24 indirekt via EPUB | Metadata, butikstexter, kategori-/prisförslag, 7 nyckelord, checklista, filrekommendationer och KDP-anpassad JPEG-omslagsbild skapade. EPUB och kapiteltexter oförändrade. |
 | 2026-05-28 | Google Play Books-paket | `exports/google_play_books/` | Kapitel 1–24 | Metadata, butikstexter, kategori-/prisförslag, checklista och filrekommendationer skapade. EPUB och kapiteltexter oförändrade. |
 | 2026-05-28 | EPUB 3 korrigering | `Under_stilla_vatten_Erland_Lindmark.epub` | Kapitel 1–24 | EPUBCheck-fel RSC-011 i `nav.xhtml` korrigerat: landmark/guide-referens till icke-spine-lagd TOC togs bort. Synlig innehållsförteckning är fortfarande borttagen ur läsflödet. |
@@ -27,3 +29,9 @@
 
 | 2026-05-28 | EPUB 3 | `Under_stilla_vatten_Erland_Lindmark.epub` | Kapitel 1–24 | CSS justerad så undertiteln på titelsidan centreras explicit. Kapiteltexterna är oförändrade. EPUBCheck återstår. |
 | 2026-05-28 | EPUB | Under_stilla_vatten_Erland_Lindmark.epub | Kapitel 1–24 | Synlig innehållsförteckning borttagen ur EPUB-läsflödet; teknisk nav.xhtml behållen för EPUB-navigation. |
+| 2026-05-30 | EPUB/ren manusfil | `exports/Under_stilla_vatten_Erland_Lindmark.epub` | Kapitel 1–24 | Kontinuitetskorrigering: Kajsa/Karin-spåret synkat genom att Kajsas födelseår är ändrat till 1979 och kapitel 19/resonemanget justerats. |
+| 2026-05-31 | EPUB/Markdown | Under_stilla_vatten_Erland_Lindmark.epub | Kapitel 1–24 | Återskapad efter kontinuitetsjustering i kapitel 19 kring Kajsa/Karin och fotots ålder. |
+
+| 2026-05-31 | EPUB | Under_stilla_vatten_Erland_Lindmark.epub | Kapitel 1–24 | Titelsidans titel, undertitel, författare och copyright centrerade via EPUB-CSS. |
+
+| 2026-05-31 | EPUB | Under_stilla_vatten_Erland_Lindmark.epub | Kapitel 1–24 | Teknisk EPUB-navigation återställd utan synlig innehållsförteckning i läsflödet. |

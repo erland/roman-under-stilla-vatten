@@ -435,8 +435,8 @@ Affärspartner/rival. I kapitel 6 erkänner han konflikt kring gamla markavtal o
 ## Kapitel 19 – Det andra offret som aldrig dog
 
 - Fynden från bod fyra består av ett kassettfodral utan kassettband, ett gammalt foto, en lapp och en tunn plast-/limremsa.
-- Fotot visar Elisabeth Holm vid bod fyra sommaren 1996 och en flicka med initialen K. På baksidan står: “Elisabeth, bod fyra, sommaren -96. K. ville inte vara med på bild men var med ändå.”
-- Socialtjänstens äldre index visar att Elisabeth Holm hade dottern Kajsa Holm, född 1988.
+- Fotot visar Elisabeth Holm vid bod fyra sommaren 1996 och en tonårsflicka med initialen K. På baksidan står: “Elisabeth, bod fyra, sommaren -96. K. ville inte vara med på bild men var med ändå.”
+- Socialtjänstens äldre index visar att Elisabeth Holm hade dottern Kajsa Holm, född 1979.
 - Margareta Andersson, född Holm, var kontaktperson i Elisabeths överklagande 2009.
 - K. Andersson-uttaget i kommunarkivet kan vara kopplat till Margareta Andersson eller någon som använt hennes identitet/initial.
 - Övervakningsbild från kommunarkivets läsesal visar en kvinna med något ljust runt höger tumme och en brun mapp märkt Holm/bod 4/överenskommelse.

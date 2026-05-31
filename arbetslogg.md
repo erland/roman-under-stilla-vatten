@@ -4,6 +4,8 @@
 
 | Datum | Ändring | Kommentar |
 |---|---|---|
+| 2026-05-31 | Kapitel 19 och EPUB synkade | Frasen `Det skulle kunna stämma med 1979.` ändrad till `Det skulle kunna stämma med Karin.` eftersom Karins födelseår inte avslöjas före repliken. Ren exportfil och EPUB uppdaterade. |
+| 2026-05-31 | Kapitel 19 uppdaterat | Användarens reviderade kapitel 19 infördes med justerad ålderspassage för Kajsa/Karin-spåret; ren exportfil och EPUB återskapades. |
 | 2026-05-28 | Amazon KDP-publiceringspaket skapat | Metadata, beskrivningar, kategori-/prisförslag, 7 nyckelord, checklista, filrekommendationer och KDP-anpassad omslagsbild lades till i `exports/amazon_kdp/`; kapiteltexter och EPUB oförändrade. |
 | 2026-05-28 | Google Play Books-publiceringspaket skapat | Metadata, beskrivningar, kategori-/prisförslag, checklista och filrekommendationer lades till i `exports/google_play_books/`; kapiteltexter och EPUB oförändrade. |
 | 2026-05-28 | EPUBCheck-fel korrigerat | RSC-011 i `nav.xhtml` åtgärdat genom att ta bort TOC-landmark/guide-referens till icke-spine-lagd nav-fil; kapiteltexter oförändrade. |
@@ -63,3 +65,9 @@
 
 | 2026-05-28 | EPUB-layout justerad | Titelsidans undertitel centreras explicit via CSS. Kapiteltexterna ändrades inte. |
 | 2026-05-28 | EPUB justerad | Synlig innehållsförteckning borttagen ur läsflödet; kapiteltexterna oförändrade. |
+| 2026-05-30 | Kontinuitetskorrigering Karin/Kajsa | Kajsas födelseår ändrat till 1979, kapitel 19 justerat, ren manusfil och EPUB synkade. |
+| 2026-05-31 | Kontinuitetsjustering Kapitel 19 | Justerade åldersbeskrivning för Kajsa/Karin: fotot visar nu tonåring, inte barn, och EPUB/exportfil återskapad. |
+
+| 2026-05-31 | EPUB-justering | Centrerade titel, undertitel, författare och copyright på EPUB-titelsidan. Kapiteltexter oförändrade. |
+
+| 2026-05-31 | EPUB-navigation korrigerad | `nav.xhtml` och `toc.ncx` uppdaterade så kapitel 1–24 finns i EPUB-navigationen utan synlig innehållsförteckning i boken. |

@@ -178,7 +178,7 @@ Helena tog den översta.
 
 Det var en utskrift av fotografiet Nora hittat i boden. Teknik hade hunnit ta en snabb dokumentationsbild innan de förseglade allt.
 
-Fotot var gammalt, blekt av fukt och tid. Det visade ett bord utanför en låg byggnad med panelvägg och sneda sommarskuggor. En kaffekanna stod på en bricka. Bredvid den låg bullar under en handduk. Tre människor syntes tydligt: en kvinna i fyrtioårsåldern med mörkt hår uppsatt i en slarvig knut, en äldre man med keps och en liten flicka som satt på bordskanten och kisade mot solen.
+Fotot var gammalt, blekt av fukt och tid. Det visade ett bord utanför en låg byggnad med panelvägg och sneda sommarskuggor. En kaffekanna stod på en bricka. Bredvid den låg bullar under en handduk. Tre människor syntes tydligt: en kvinna i fyrtioårsåldern med mörkt hår uppsatt i en slarvig knut, en äldre man med keps och en flicka som satt på bordskanten och kisade mot solen.
 
 På baksidan, fotograferad separat, stod text med blå kulspetspenna:
 
@@ -197,17 +197,19 @@ Hon pekade på flickan.
 
 Johan lutade sig över bilden.
 
-”Sju? Åtta? Svårt att säga.”
+”Sexton? Sjutton? Svårt att säga. Fotot är suddigt.”
 
-”Om hon var åtta 1996 är hon trettioåtta nu.”
-
-”Karin är äldre.”
+”Det skulle kunna stämma med Karin.”
 
 ”Ja.”
 
-”Då är det inte hon.”
+Johan såg upp från fotot.
 
-Helena sade inget först. Hon tog nästa utskrift.
+”Men det bevisar ingenting.”
+
+”Inte än.”
+
+Helena tog nästa utskrift.
 
 Det var lappen Nora hittat i kassettfodralet.
 
@@ -232,7 +234,7 @@ Hon tog nästa dokument.
 Det var inte från boden. Det var en träff Lars fått fram i det gamla kommunarkivets personregister, kopplat till Elisabeth Holm. Inte sekretessfritt i alla delar, men tillräckligt för att visa att Elisabeth inte levt ensam.
 
 Närstående angivna i äldre ärenden:  
-Dotter: Kajsa Holm, född 1988.  
+Dotter: Kajsa Holm, född 1979.  
 Syster: Margareta Holm, född 1964.  
 Kontaktperson i överklagande 2009: M. Andersson.
 
@@ -254,7 +256,7 @@ Elisabeth. Kajsa. Margareta. M. Andersson.
 
 Hon ville inte göra språnget. Inte än.
 
-Karin Holm var född 1979 enligt personalregistret. Hon kunde inte vara den lilla flickan på bilden, om flickan var född 1988. Men hon kunde vara systerdotter, kusin, halvsyster, fosterplacering, ingift, någon som burit namnet av andra skäl. Hon kunde vara Margareta Holm. Nej, fel ålder. Margareta var född 1964. Men människor bytte namn. Människor bytte efternamn, flyttade, dolde, skapade avstånd till det som gjort ont.
+Karin Holm var född 1979 enligt personalregistret. Kajsa Holm också, om akten stämde. Det var ingen motsägelse. Det var värre än så. Det var en möjlighet som låg för nära för att hon skulle våga ta i den utan mer än ett födelseår, ett namn och ett foto från en sommar då någon redan hade förlorat allt.
 
 Och ibland fanns två offer.
 
@@ -272,7 +274,7 @@ Kaffe.
 
 Sommar.
 
-Ett barn som inte ville vara med på bild.
+En flicka som inte ville vara med på bild.
 
 Helena tänkte på Karin som nyss kommit med brickan. Kaffe, koppar, kex. Rörelserna så självklara att ingen såg dem.
 

@@ -1,6 +1,6 @@
 # EPUB-export med Pandoc
 
-**Datum:** 2026-05-28  
+**Datum:** 2026-05-31  
 **Projekt:** Under stilla vatten  
 **Undertitel:** En Kallviksdeckare  
 **Författare:** Erland Lindmark  
@@ -23,7 +23,7 @@
 - Kapitelnoteringar i källkapitlen: Nej, flyttade till `kapitel/kapitelnoteringar.md`
 - Omslagsbild inkluderad: Ja
 - Metadata angiven vid Pandoc-export: Ja
-- Filstorlek: 3,319,166 byte
+- Filstorlek: 3,319,055 byte
 
 ## Pandoc-inställningar
 
@@ -90,3 +90,41 @@ Kapitelrubrikerna har postprocessats i EPUB-XHTML så de visas visuellt två rad
 - Den tekniska `nav.xhtml` finns fortfarande kvar enligt EPUB 3-krav och innehåller länkar till kapitel 1–24.
 - Synlig innehållsförteckning ligger fortsatt inte i EPUB:ens läsordning.
 - Lokal strukturell kontroll: `nav.xhtml` länkar nu bara kapitelposter till faktiska spine-kapitel; full EPUBCheck behöver köras igen i användarens EPUBCheck-miljö.
+
+## Kontinuitetskorrigering 2026-05-30
+
+EPUB-filen har uppdaterats efter korrigeringen av Karin/Kajsa-spåret:
+- Kajsas tidigare felaktiga födelseår är ändrat till 1979.
+- Kapitel 19 förtydligar nu att födelseåret inte motsäger kopplingen mellan Karin och Kajsa.
+- Sökning i EPUB-innehållet efter `1988` gav ingen träff.
+
+## Kontinuitetsjustering 2026-05-31
+
+- Kapitel 19 uppdaterat: Kajsas/Karins ålder på fotot från 1996 är konsekvent med födelseåret 1979.
+- Ren exportfil och EPUB är uppdaterade efter ändringen.
+
+## Kapitel 19-uppdatering 2026-05-31
+
+- Kapitel 19 ersatt med användarens reviderade version.
+- Ålderspassagen om fotot är synkad med Kajsa/Karin född 1979.
+- Ren exportfil och EPUB återskapade efter ändringen.
+
+## Senaste mindre textjustering
+
+- Kapitel 19: `Det skulle kunna stämma med 1979.` ändrat till `Det skulle kunna stämma med Karin.` i kapitelkälla, ren manusfil och EPUB.
+- Kontroll: den äldre frasen förekommer inte längre i EPUB-innehållet.
+
+## Titelsidekontroll
+
+- Titel, undertitel, författare och copyright centreras nu via CSS-regler riktade mot `section#under-stilla-vatten`.
+- Kapiteltexterna är oförändrade.
+- EPUB:ens tekniska navigation är oförändrad.
+
+## EPUB-navigation korrigerad 2026-05-31
+
+- Synlig innehållsförteckning ligger inte i spine/läsflödet.
+- `nav.xhtml` finns kvar som teknisk EPUB 3-navigation.
+- `nav.xhtml` innehåller länkar till kapitel 1–24.
+- `nav.xhtml` länkar endast till resurser som ligger i spine.
+- Legacy-filen `toc.ncx` har uppdaterats med kapitel 1–24.
+- Kapiteltexterna är oförändrade.

@@ -250,7 +250,7 @@ Johan och Helena samarbetar tystare och mer försiktigt kring Karin. Han ser sam
 
 ### Kajsa Holm
 
-- Elisabeth Holms dotter, född 1988. Hennes nuvarande plats och eventuella betydelse är öppen.
+- Elisabeth Holms dotter, född 1979. Hennes nuvarande plats och eventuella betydelse är öppen.
 
 ### Margareta Andersson, född Holm
 

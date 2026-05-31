@@ -12,6 +12,10 @@ Exportförberedelse v2.1 är genomförd. EPUBCheck har enligt användaren gått 
 
 ## Senast godkända/reviderade del
 
+- Kapitel 19 justerat 2026-05-31: frasen om att fotot kan stämma med 1979 ändrades till att fotot kan stämma med Karin, eftersom födelseåret ännu inte avslöjas för läsaren.
+
+- Kapitel 19 uppdaterat 2026-05-31 med användarens reviderade version; Kajsa/Karin-spåret är synkat mot födelseår 1979.
+
 - Kapitel 1–24 är språk- och scenputsade v2.1.
 - Samtliga kapitel 1–24 är reviderade i version 2.
 - Synk- och kontinuitetsstädpaket genomfört 2026-05-24.
@@ -142,3 +146,19 @@ EPUB: Synlig innehållsförteckning är borttagen ur läsflödet. Teknisk naviga
 - Rekommenderad EPUB: `exports/Under_stilla_vatten_Erland_Lindmark.epub`.
 - Rekommenderat KDP-omslag: `exports/omslag_under_stilla_vatten_kdp.jpg`.
 - Nästa steg för KDP: kontrollera EPUB i Kindle Previewer före uppladdning.
+
+## Uppdatering 2026-05-30
+
+Karin/Kajsa-spåret är kontinuitetskorrigerat: Kajsas födelseår är ändrat till 1979, kapitel 19:s resonemang är justerat, och ren manusfil samt EPUB är synkade efter ändringen. Inga övriga kapitelintriger har ändrats.
+
+## Senaste kontinuitetsjustering
+
+- 2026-05-31: Kapitel 19 har justerats så Kajsa/Karin-spåret är konsekvent: fotot från 1996 beskriver K. som tonåring, inte som ett barn på sju–åtta år. Exportmanus och EPUB är uppdaterade.
+
+## Senaste exportjustering
+
+EPUB-titelsidan har justerats så titel, undertitel, författare och copyright är centrerade. Kapiteltexter oförändrade.
+
+## Senaste exportjustering 2026-05-31
+
+EPUB-navigationen är korrigerad: ingen synlig innehållsförteckning i läsflödet, men teknisk navigation till kapitel 1–24 finns kvar.

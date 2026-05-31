@@ -5,9 +5,9 @@
 - Titel: Under stilla vatten
 - Undertitel: En Kallviksdeckare
 - Författare: Erland Lindmark
-- Senast uppdaterad: 2026-05-28
+- Senast uppdaterad: 2026-05-31
 - Nuvarande fas: Exportförberedelse v2.1; EPUBCheck godkänd och Apple Books-/Google Play Books-/Amazon KDP-paket skapade
-- Senast godkända/reviderade kapitel: Kapitel 1–24 språk- och scenputsade v2.1; mindre korrigeringar gjorda i kapitel 2, 6, 15, 20, 21 och 24
+- Senast godkända/reviderade kapitel: Kapitel 19 frasjusterat 2026-05-31; kapitel 1–24 språk- och scenputsade v2.1
 - Nästa kapitel: Inget planerat; nästa steg är slutlig provläsning och uppladdning till vald plattform
 - Omslagsbild: Skapad (`exports/omslag_under_stilla_vatten.png`); högupplöst Apple Books-version skapad (`exports/omslag_under_stilla_vatten_apple_books.png`); KDP-version skapad (`exports/omslag_under_stilla_vatten_kdp.jpg`)
 
@@ -33,7 +33,7 @@
 | 16 | kapitel/kapitel-16.md | Tidslinjen som inte håller | Språk- och scenputsad v2.1 |
 | 17 | kapitel/kapitel-17.md | Karin kokar kaffe | Språk- och scenputsad v2.1 |
 | 18 | kapitel/kapitel-18.md | Nora försvinner i två timmar | Språk- och scenputsad v2.1 |
-| 19 | kapitel/kapitel-19.md | Det andra offret som aldrig dog | Språk- och scenputsad v2.1 |
+| 19 | kapitel/kapitel-19.md | Det andra offret som aldrig dog | Språk- och scenputsad v2.1; Kajsa/Karin-spår och fras justerade 2026-05-31 |
 | 20 | kapitel/kapitel-20.md | Alla ljuger av olika skäl | Språk- och scenputsad v2.1; mindre korrigering 2026-05-28 |
 | 21 | kapitel/kapitel-21.md | Den felvända detaljen | Språk- och scenputsad v2.1; mindre korrigering 2026-05-28 |
 | 22 | kapitel/kapitel-22.md | Kallvik håller andan | Språk- och scenputsad v2.1 |
@@ -161,3 +161,26 @@
 - KDP-omslag: `exports/omslag_under_stilla_vatten_kdp.jpg` (1600 × 2560 px JPEG, RGB, 300 dpi)
 - EPUB för uppladdning: `exports/Under_stilla_vatten_Erland_Lindmark.epub`
 - Kapiteltexter: Oförändrade vid KDP-paketet.
+
+## Senaste kontinuitetskorrigering 2026-05-30
+
+- Kajsas födelseår är korrigerat till 1979 i kapitel 19, projektfiler och exportmanus.
+- EPUB i `exports/Under_stilla_vatten_Erland_Lindmark.epub` är uppdaterad efter korrigeringen.
+
+## Senaste ändring
+
+- 2026-05-31: Kapitel 19, ren exportfil och EPUB uppdaterade efter Kajsa/Karin-kontinuitetsfix.
+
+## Senaste ändring
+- Kapitel 19 uppdaterat med reviderad användarversion och ålderspassage synkad mot Kajsa/Karin född 1979.
+
+## Senaste exportjustering
+
+- EPUB: Titelsidan centrerad.
+- Kapiteltexter: Oförändrade.
+- Senaste EPUB: `exports/Under_stilla_vatten_Erland_Lindmark.epub`.
+
+## Exportuppdatering 2026-05-31
+
+- Senaste EPUB: `exports/Under_stilla_vatten_Erland_Lindmark.epub`
+- Status: Navigation korrigerad. Synlig innehållsförteckning borttagen från läsflödet, teknisk kapitelmeny finns kvar.

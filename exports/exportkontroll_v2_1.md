@@ -1,6 +1,6 @@
 # Exportförberedelsekontroll v2.1
 
-**Datum:** 2026-05-28
+**Datum:** 2026-05-30
 **Projekt:** Under stilla vatten  
 **Undertitel:** En Kallviksdeckare  
 **Författare:** Erland Lindmark  
@@ -22,8 +22,8 @@
 
 ## Ordstatistik
 
-- Ungefärligt antal ord i ren manusfil: 92 165 ord.
-- Antal tecken i ren manusfil: 549 134 tecken.
+- Ungefärligt antal ord i ren manusfil: 92 114 ord.
+- Antal tecken i ren manusfil: 549 017 tecken.
 
 ## Kapitelinventering i exportunderlag
 
@@ -117,3 +117,38 @@ Detta är en exportkontroll efter mindre textkorrigeringar. Kapiteltexterna och 
 - EPUB oförändrad i detta steg: `exports/Under_stilla_vatten_Erland_Lindmark.epub`
 - Kapiteltexter oförändrade.
 - Rekommenderad extern kontroll: öppna EPUB i Kindle Previewer före uppladdning.
+
+## Kontinuitetskorrigering 2026-05-30
+
+- Kajsas tidigare felaktiga födelseår har ändrats till 1979 i kapitel 19 och relevanta projektfiler, så det stämmer med att Karin Holm/Karin Kajsa Andersson senare kan konstateras vara samma person.
+- Resonemanget i kapitel 19 har skrivits om så Helena ser en möjlig identitet utan att bekräfta den för tidigt.
+- Formuleringen kring fotot från 1996 har justerats från barn/flicka till tonåring/tonårsflicka där åldern annars kunde bli missvisande.
+- EPUB och ren manusfil är återskapade/synkade efter korrigeringen.
+
+## Kontinuitetsjustering 2026-05-31
+
+- Kapitel 19 uppdaterat: Kajsas/Karins ålder på fotot från 1996 är konsekvent med födelseåret 1979.
+- Ren exportfil och EPUB är uppdaterade efter ändringen.
+
+## Kapitel 19-uppdatering 2026-05-31
+
+- Kapitel 19 ersatt med användarens reviderade version.
+- Ålderspassagen om fotot är synkad med Kajsa/Karin född 1979.
+- Ren exportfil och EPUB återskapade efter ändringen.
+
+## Kapitel 19 frasjusterad 2026-05-31
+
+- Frasen `Det skulle kunna stämma med 1979.` är ändrad till `Det skulle kunna stämma med Karin.` i kapitel 19, ren exportfil och EPUB.
+- Syfte: undvika att läsaren får Karins födelseår innan det är etablerat.
+
+## Titelsida
+
+- Titelsidan har kontrollerats och CSS har uppdaterats så titel, undertitel, författare och copyright centreras.
+- Ingen synlig innehållsförteckning har lagts tillbaka i läsflödet.
+
+## Kontroll efter nav-fix 2026-05-31
+
+- Titelsidan är fortsatt centrerad.
+- Innehållsförteckningen är inte synlig som egen sida i läsordningen.
+- EPUB-navigationen innehåller kapitel 1–24 för läsarens navigationsmeny.
+- EPUBCheck-felet om referens till icke-spine-resurs bör inte återkomma.

@@ -215,7 +215,7 @@ Noras försvinnande gör konflikten mellan Helenas polisroll och modersroll akut
 
 ## Utvecklade ledtrådar efter kapitel 19
 
-- Elisabeth Holm hade dottern Kajsa Holm, född 1988.
+- Elisabeth Holm hade dottern Kajsa Holm, född 1979.
 - Margareta Andersson, född Holm, var kontaktperson i Elisabeths överklagande.
 - En kvinna tog ut Holm/bod 4-handlingar under namnet K. Andersson tre veckor före mordet.
 - Bodfyndet visar att Elisabeth-spåret även handlar om någon som levde vidare med skadan efter Elisabeths död.

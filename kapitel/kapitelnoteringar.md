@@ -158,14 +158,14 @@ Kort kapitelnotering:
 Kort kapitelnotering:
 - Viktiga händelser:
   - Fynden från bod fyra börjar analyseras: foto, lapp och kassettfodral utan kassettband.
-  - Fotot visar Elisabeth Holm vid bod fyra sommaren 1996 och en flicka med initialen K.
+  - Fotot visar Elisabeth Holm vid bod fyra sommaren 1996 och en tonårsflicka med initialen K.
   - Lars visar övervakningsbilder från kommunarkivets läsesal där en kvinna tog ut Holm-/bod 4-handlingar under namnet M. Andersson tre veckor före mordet.
   - Socialtjänstens äldre index visar dottern Kajsa Holm och kontaktpersonen Margareta Andersson, född Holm.
   - Nora berättar att hon hörde en person säga “De har hittat det” och möjligen “Hon skulle ha låtit det vara dött”.
   - Karin försöker föra in kommunhandlingar i ärendet och ser troligen sitt namn på tavlan.
   - En mörk bil med ljus rektangel på bakrutan syns igen vid polishuset/hamngatan.
 - Nya kontinuitetspunkter:
-  - Elisabeth Holm hade en dotter, Kajsa Holm, född 1988.
+  - Elisabeth Holm hade en dotter, Kajsa Holm, född 1979.
   - Margareta Andersson, född Holm, var kontaktperson i Elisabeths överklagande 2009.
   - M. Andersson-uttaget i kommunarkivet kan vara kopplat till Margareta Andersson eller någon som använt hennes identitet/initial.
   - Övervakningsbilden från kommunarkivet visar en kvinna med något ljust runt höger tumme och en brun mapp märkt Holm/bod 4/överenskommelse.

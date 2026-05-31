@@ -89,3 +89,11 @@ Rekommenderade uppladdningsfiler:
 | `amazon_kdp/kategori_nyckelord_prisforslag.md` | Kategori-, nyckelords- och prisförslag. | Skapat 2026-05-28 |
 | `amazon_kdp/publiceringschecklista.md` | Checklista inför uppladdning i KDP. | Skapat 2026-05-28 |
 | `amazon_kdp/filrekommendationer.md` | Rekommenderade filer och teknisk kontroll inför KDP. | Skapat 2026-05-28 |
+
+## Kontinuitetskorrigering 2026-05-30
+
+Ren manusfil och EPUB har uppdaterats efter korrigering av Karin/Kajsa-spåret. Kajsas födelseår är nu 1979 i romantext och projektfiler, och kapitel 19 planterar kopplingen utan att bekräfta den för tidigt.
+
+## Senaste exportstatus 2026-05-31
+
+Ren manusfil och EPUB har synkats efter frasjustering i kapitel 19: `Det skulle kunna stämma med Karin.`
