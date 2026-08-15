@@ -184,3 +184,17 @@
 
 - Senaste EPUB: `exports/Under_stilla_vatten_Erland_Lindmark.epub`
 - Status: Navigation korrigerad. Synlig innehållsförteckning borttagen från läsflödet, teknisk kapitelmeny finns kvar.
+
+## GitHub Actions och byggfiler
+
+- `.github/workflows/01-validate.yml` – Validerar projektet vid PR/push till main.
+- `.github/workflows/02-build-preview.yml` – Manuell preview-build av EPUB/PDF.
+- `.github/workflows/03-release.yml` – Release-build vid v*-taggar.
+- `scripts/validate_project.py` – Projekt- och manusvalidering.
+- `scripts/build_book.py` – Bygger EPUB/PDF från kanoniska kapitel.
+- `publishing/metadata.yaml` – Metadata för Pandoc/EPUB/PDF.
+- `publishing/epub.css` – EPUB-stil.
+- `publishing/fix-epub-after-pandoc.py` – Efterbearbetar EPUB-navigation och rubriker.
+- `publishing/pdf-template.tex` – PDF-mall.
+- `publishing/pdf-filter.lua` – PDF-filter.
+- `publishing/cover.png` – Omslagsbild för Actions-byggen.

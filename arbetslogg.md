@@ -71,3 +71,4 @@
 | 2026-05-31 | EPUB-justering | Centrerade titel, undertitel, författare och copyright på EPUB-titelsidan. Kapiteltexter oförändrade. |
 
 | 2026-05-31 | EPUB-navigation korrigerad | `nav.xhtml` och `toc.ncx` uppdaterade så kapitel 1–24 finns i EPUB-navigationen utan synlig innehållsförteckning i boken. |
+| 2026-08-15 | GitHub Actions-publicering införd | Lade till `.github/workflows`, `scripts/` och `publishing/` för validering, preview-build och release-build av EPUB/PDF. |

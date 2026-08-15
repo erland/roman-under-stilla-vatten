@@ -162,3 +162,13 @@ EPUB-titelsidan har justerats så titel, undertitel, författare och copyright �
 ## Senaste exportjustering 2026-05-31
 
 EPUB-navigationen är korrigerad: ingen synlig innehållsförteckning i läsflödet, men teknisk navigation till kapitel 1–24 finns kvar.
+
+## GitHub Actions
+
+GitHub Actions-publicering införd 2026-08-15:
+
+- `.github/workflows/01-validate.yml` validerar projektstruktur och kapitel.
+- `.github/workflows/02-build-preview.yml` bygger EPUB/PDF manuellt och laddar upp ett preview-artifact.
+- `.github/workflows/03-release.yml` bygger EPUB/PDF vid `v*`-taggar och laddar upp dem som GitHub Release-assets.
+- Bygglogik finns i `scripts/build_book.py` och `scripts/validate_project.py`.
+- Publiceringsmetadata och EPUB/PDF-stilar finns i `publishing/`.
