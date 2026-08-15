@@ -72,3 +72,4 @@
 
 | 2026-05-31 | EPUB-navigation korrigerad | `nav.xhtml` och `toc.ncx` uppdaterade så kapitel 1–24 finns i EPUB-navigationen utan synlig innehållsförteckning i boken. |
 | 2026-08-15 | GitHub Actions-publicering införd | Lade till `.github/workflows`, `scripts/` och `publishing/` för validering, preview-build och release-build av EPUB/PDF. |
+| 2026-08-15 | GitHub Actions PDF-bygge korrigerat | Bytte PDF-bygget från XeLaTeX/TeX Gyre till pdflatex/lmodern, lade till Pandoc-kommandot `\\tightlist` i PDF-mallen och lät PDF-omslaget använda `cover-image` från metadata. Lokal build av EPUB/PDF genomförd utan fel. |

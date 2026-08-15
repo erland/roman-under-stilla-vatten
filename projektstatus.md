@@ -172,3 +172,15 @@ GitHub Actions-publicering införd 2026-08-15:
 - `.github/workflows/03-release.yml` bygger EPUB/PDF vid `v*`-taggar och laddar upp dem som GitHub Release-assets.
 - Bygglogik finns i `scripts/build_book.py` och `scripts/validate_project.py`.
 - Publiceringsmetadata och EPUB/PDF-stilar finns i `publishing/`.
+
+## Senaste GitHub Actions-fix 2026-08-15
+
+Preview-bygget korrigerades efter PDF-fel där XeLaTeX inte hittade fonten `TeXGyrePagella`.
+
+Ändringar:
+- PDF-bygget använder nu `pdflatex` i stället för `xelatex`.
+- `publishing/pdf-template.tex` använder `inputenc`, `fontenc` och `lmodern` i stället för `fontspec`.
+- PDF-omslaget hämtas från metadatafältet `cover-image`.
+- Pandoc-hjälpkommandot `\tightlist` finns i PDF-mallen.
+- Preview- och release-workflows installerar nu `texlive-latex-extra`, `texlive-fonts-recommended` och `lmodern`.
+- Lokal testbuild av `python3 scripts/build_book.py --output-dir /mnt/data/test_github_fix_dist3` gav både EPUB och PDF.

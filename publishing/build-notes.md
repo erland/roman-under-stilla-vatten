@@ -70,4 +70,16 @@ Då byggs EPUB/PDF och publiceras som separata GitHub Release-assets.
 - Kapitelnoteringar ligger i `kapitel/kapitelnoteringar.md` och exporteras inte.
 - EPUB/PDF återskapas från kapitlen vid varje build.
 - Pandoc-versionen är låst till `3.1.11.1`.
-- PDF byggs med XeLaTeX och TeX Gyre-fontpaketet i GitHub Actions.
+- PDF byggs med pdflatex och lmodern i GitHub Actions för att undvika beroende av systeminstallerade TeX Gyre-fontnamn.
+
+## Felsökning: PDF-fontfel
+
+Om preview tidigare fallerade med `fontspec Error: The font "TeXGyrePagella" cannot be found` berodde det på att PDF-mallen använde XeLaTeX och ett fontnamn som inte var stabilt i GitHub Actions-miljön.
+
+Projektet är därför ändrat till:
+- `pdflatex`
+- `lmodern`
+- `inputenc`/`fontenc`
+- metadata-styrt omslag via `cover-image`
+
+Det minskar beroendet av systemets fontregister och gör preview/release-byggena mer reproducerbara.

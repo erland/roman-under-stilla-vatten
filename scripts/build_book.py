@@ -198,8 +198,8 @@ def main() -> int:
 
     if "pdf" in formats:
         pdf = output_dir / f"{base_name}.pdf"
-        if shutil.which("xelatex") is None:
-            print("ERROR: xelatex krävs för PDF-bygget.", file=sys.stderr)
+        if shutil.which("pdflatex") is None:
+            print("ERROR: pdflatex krävs för PDF-bygget.", file=sys.stderr)
             return 2
         with tempfile.TemporaryDirectory(prefix="roman-pdf-") as tmp:
             temp = Path(tmp)
@@ -219,7 +219,7 @@ def main() -> int:
                 "--metadata-file", str(root / "publishing/metadata.yaml"),
                 "--template", str(root / "publishing/pdf-template.tex"),
                 "--lua-filter", str(root / "publishing/pdf-filter.lua"),
-                "--pdf-engine=xelatex",
+                "--pdf-engine=pdflatex",
                 "--toc",
                 "--toc-depth=1",
             ]

@@ -1,19 +1,8 @@
 \documentclass[11pt,openany]{book}
 
-\usepackage{fontspec}
-\defaultfontfeatures{Ligatures=TeX}
-$if(pdf-font-dir)$
-\setmainfont[
-  Path=$pdf-font-dir$/,
-  Extension=.otf,
-  UprightFont=texgyrepagella-regular,
-  BoldFont=texgyrepagella-bold,
-  ItalicFont=texgyrepagella-italic,
-  BoldItalicFont=texgyrepagella-bolditalic
-]{texgyrepagella}
-$else$
-\setmainfont{TeXGyrePagella}
-$endif$
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
 
 \usepackage[
   paperwidth=140mm,
@@ -36,6 +25,11 @@ $endif$
 \usepackage{tocloft}
 \usepackage{ragged2e}
 \usepackage{xcolor}
+
+% Pandoc helper definitions.
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
 
 \setstretch{1.28}
 \setlength{\parindent}{0pt}
@@ -85,7 +79,7 @@ $endif$
 % Omslag - helsida, utan sidnummer.
 \thispagestyle{empty}
 \newgeometry{margin=0pt}
-\noindent\includegraphics[width=\paperwidth,height=\paperheight]{omslag/cover.jpg}
+\noindent\includegraphics[width=\paperwidth,height=\paperheight]{$cover-image$}
 \restoregeometry
 \clearpage
 

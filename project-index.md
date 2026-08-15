@@ -5,7 +5,7 @@
 - Titel: Under stilla vatten
 - Undertitel: En Kallviksdeckare
 - Författare: Erland Lindmark
-- Senast uppdaterad: 2026-05-31
+- Senast uppdaterad: 2026-08-15
 - Nuvarande fas: Exportförberedelse v2.1; EPUBCheck godkänd och Apple Books-/Google Play Books-/Amazon KDP-paket skapade
 - Senast godkända/reviderade kapitel: Kapitel 19 frasjusterat 2026-05-31; kapitel 1–24 språk- och scenputsade v2.1
 - Nästa kapitel: Inget planerat; nästa steg är slutlig provläsning och uppladdning till vald plattform
@@ -198,3 +198,11 @@
 - `publishing/pdf-template.tex` – PDF-mall.
 - `publishing/pdf-filter.lua` – PDF-filter.
 - `publishing/cover.png` – Omslagsbild för Actions-byggen.
+
+## Senaste GitHub Actions-fix 2026-08-15
+
+- `scripts/build_book.py`: PDF-motor ändrad till `pdflatex`.
+- `publishing/pdf-template.tex`: borttaget beroende till `fontspec`/TeX Gyre-fontnamn; tillagt `lmodern`, `inputenc`, `fontenc`, `\tightlist` och metadata-styrt omslag.
+- `.github/workflows/02-build-preview.yml`: LaTeX-installation uppdaterad för pdflatex/lmodern.
+- `.github/workflows/03-release.yml`: samma PDF-fix som preview.
+- Lokal testbuild: EPUB och PDF skapades utan fel.
