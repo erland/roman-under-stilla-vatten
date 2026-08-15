@@ -24,11 +24,8 @@ jobs:
         with:
           version: "3.1.11.1"
 
-      - name: Install XeLaTeX
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y --no-install-recommends             texlive-xetex texlive-latex-extra texlive-fonts-recommended fonts-texgyre
-          fc-cache -f
+      - name: Install Python PDF dependencies
+        run: python3 -m pip install --upgrade reportlab
 
       - name: Build EPUB and PDF
         run: python3 scripts/build_book.py --output-dir "${RUNNER_TEMP}/book-dist"

@@ -105,6 +105,288 @@ def validate_epub(path: Path, expected_chapters: int, title: str) -> None:
                 f"EPUB-fel: {split_headings} formaterade kapitelrubriker, väntat {expected_chapters}."
             )
 
+
+def chapter_info(path: Path) -> tuple[int, str, str]:
+    """Returnera kapitelnummer, kapiteltitel och brödtext utan H1-rubrik."""
+    raw = path.read_text(encoding="utf-8").strip()
+    lines = raw.splitlines()
+    if not lines:
+        raise RuntimeError(f"Tom kapitelfil: {path}")
+    heading = lines[0].strip()
+    match = re.match(r"^#\s*Kapitel\s+(\d+)\s+[–-]\s+(.+?)\s*$", heading)
+    if not match:
+        raise RuntimeError(f"Kapitlet saknar väntad rubrik: {path}")
+    number = int(match.group(1))
+    title = match.group(2).strip()
+    body = "\n".join(lines[1:]).strip()
+    return number, title, body
+
+def markdown_inline_to_reportlab(text: str) -> str:
+    """Minimal Markdown-inlinekonvertering för romanprosa i ReportLab-paragrafer."""
+    import html
+    escaped = html.escape(text, quote=False)
+    escaped = escaped.replace("  \n", "<br/>").replace("\n", "<br/>")
+    # Fetstil före kursiv.
+    escaped = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", escaped)
+    escaped = re.sub(r"(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)", r"<i>\1</i>", escaped)
+    escaped = re.sub(r"__(.+?)__", r"<b>\1</b>", escaped)
+    escaped = re.sub(r"(?<!_)_(?!_)(.+?)(?<!_)_(?!_)", r"<i>\1</i>", escaped)
+    return escaped
+
+def markdown_blocks(body: str) -> list[tuple[str, str]]:
+    """Dela kapiteltext i enkla block: paragraph eller scene_break."""
+    blocks: list[tuple[str, str]] = []
+    current: list[str] = []
+    for line in body.splitlines():
+        stripped = line.strip()
+        if stripped in {"---", "***", "* * *"}:
+            if current:
+                blocks.append(("paragraph", "\n".join(current).strip()))
+                current = []
+            blocks.append(("scene_break", stripped))
+            continue
+        if not stripped:
+            if current:
+                blocks.append(("paragraph", "\n".join(current).strip()))
+                current = []
+            continue
+        current.append(line.rstrip())
+    if current:
+        blocks.append(("paragraph", "\n".join(current).strip()))
+    return blocks
+
+def build_pdf_reportlab(
+    pdf: Path,
+    chapters: list[Path],
+    *,
+    title: str,
+    subtitle: str,
+    author: str,
+    rights: str,
+    cover: Path,
+) -> None:
+    """Bygg tryckbar preview-PDF utan LaTeX, med korrekt omslag, titelsida, TOC och kapitelrubriker."""
+    try:
+        from reportlab.lib import colors
+        from reportlab.lib.enums import TA_CENTER, TA_LEFT
+        from reportlab.lib.pagesizes import mm
+        from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
+        from reportlab.platypus import (
+            BaseDocTemplate,
+            Frame,
+            PageTemplate,
+            PageBreak,
+            Paragraph,
+            Spacer,
+            Image,
+            KeepTogether,
+            Flowable,
+            NextPageTemplate,
+        )
+        from reportlab.platypus.tableofcontents import TableOfContents
+        from reportlab.pdfbase.pdfmetrics import stringWidth
+    except Exception as exc:  # pragma: no cover - miljöberoende
+        raise RuntimeError("ReportLab krävs för PDF-bygget. Installera med: pip install reportlab") from exc
+
+    page_width, page_height = 140 * mm, 216 * mm
+    left_margin, right_margin = 18 * mm, 16 * mm
+    top_margin, bottom_margin = 18 * mm, 20 * mm
+
+    class FullPageCover(Flowable):
+        def __init__(self, image_path: Path):
+            super().__init__()
+            self.image_path = str(image_path)
+            self.width = page_width
+            self.height = page_height
+
+        def wrap(self, avail_width, avail_height):
+            return page_width, page_height
+
+        def draw(self):
+            self.canv.drawImage(
+                self.image_path,
+                0,
+                0,
+                width=page_width,
+                height=page_height,
+                preserveAspectRatio=False,
+                mask="auto",
+            )
+
+    class TitlePage(Flowable):
+        def wrap(self, avail_width, avail_height):
+            return avail_width, avail_height
+
+        def draw(self):
+            canv = self.canv
+            text_width = page_width - left_margin - right_margin
+            y = page_height * 0.62
+
+            def centered_line(value: str, font: str, size: float, leading: float, dy_after: float):
+                nonlocal y
+                canv.setFont(font, size)
+                x = (page_width - stringWidth(value, font, size)) / 2
+                canv.drawString(x, y, value)
+                y -= dy_after
+
+            centered_line(title, "Times-Bold", 25, 30, 18)
+            if subtitle:
+                centered_line(subtitle, "Times-Roman", 13, 16, 58)
+            else:
+                y -= 58
+            centered_line(author, "Times-Roman", 13, 16, 42)
+            # Copyright närmare sidans nederdel, centrerad och radbruten vid behov.
+            from reportlab.platypus import Paragraph
+            copyright_style = ParagraphStyle(
+                "Copyright",
+                fontName="Times-Roman",
+                fontSize=8.5,
+                leading=10.5,
+                alignment=TA_CENTER,
+                textColor=colors.black,
+            )
+            p = Paragraph(markdown_inline_to_reportlab(rights), copyright_style)
+            w, h = p.wrap(text_width, 30 * mm)
+            p.drawOn(canv, left_margin, page_height * 0.21)
+
+    class RomanDocTemplate(BaseDocTemplate):
+        def beforeDocument(self):
+            self._first_chapter_page = None
+
+        def afterFlowable(self, flowable):
+            bookmark = getattr(flowable, "_bookmarkName", None)
+            toc_entry = getattr(flowable, "_tocEntry", None)
+            if bookmark and toc_entry:
+                self.canv.bookmarkPage(bookmark)
+                if self._first_chapter_page is None:
+                    self._first_chapter_page = self.page
+                printed_page = self.page - self._first_chapter_page + 1
+                self.notify("TOCEntry", (0, toc_entry, printed_page, bookmark))
+
+    doc = RomanDocTemplate(
+        str(pdf),
+        pagesize=(page_width, page_height),
+        leftMargin=left_margin,
+        rightMargin=right_margin,
+        topMargin=top_margin,
+        bottomMargin=bottom_margin,
+        title=title,
+        author=author,
+    )
+    frame = Frame(
+        left_margin,
+        bottom_margin,
+        page_width - left_margin - right_margin,
+        page_height - top_margin - bottom_margin,
+        id="normal",
+    )
+
+    def page_number(canv, document):
+        first_chapter_page = getattr(document, "_first_chapter_page", None)
+        if first_chapter_page is None or document.page < first_chapter_page:
+            return
+        canv.setFont("Times-Roman", 8)
+        canv.drawCentredString(page_width / 2, 8 * mm, str(document.page - first_chapter_page + 1))
+
+    full_frame = Frame(0, 0, page_width, page_height, id="full", leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0)
+    doc.addPageTemplates([
+        PageTemplate(id="cover", frames=[full_frame]),
+        PageTemplate(id="title", frames=[full_frame]),
+        PageTemplate(id="main", frames=[frame], onPageEnd=page_number),
+    ])
+
+    styles = getSampleStyleSheet()
+    story = [
+        FullPageCover(cover),
+        NextPageTemplate("title"),
+        PageBreak(),
+        TitlePage(),
+        NextPageTemplate("main"),
+        PageBreak(),
+    ]
+
+    toc_title = ParagraphStyle(
+        "TOCTitle",
+        parent=styles["Title"],
+        fontName="Times-Bold",
+        fontSize=20,
+        leading=24,
+        alignment=TA_CENTER,
+        spaceAfter=12 * mm,
+    )
+    toc = TableOfContents()
+    toc.levelStyles = [
+        ParagraphStyle(
+            "TOCLevel0",
+            fontName="Times-Roman",
+            fontSize=10.5,
+            leading=15,
+            leftIndent=0,
+            firstLineIndent=0,
+            spaceBefore=2,
+        )
+    ]
+    story += [Paragraph("Innehåll", toc_title), toc, PageBreak()]
+
+    chapter_number_style = ParagraphStyle(
+        "ChapterNumber",
+        fontName="Times-Roman",
+        fontSize=12.2,
+        leading=15,
+        alignment=TA_CENTER,
+        spaceBefore=0,
+        spaceAfter=1.5 * mm,
+        keepWithNext=True,
+    )
+    chapter_title_style = ParagraphStyle(
+        "ChapterTitle",
+        fontName="Times-Roman",
+        fontSize=11,
+        leading=13,
+        alignment=TA_CENTER,
+        spaceBefore=0,
+        spaceAfter=8 * mm,
+        keepWithNext=True,
+    )
+    body_style = ParagraphStyle(
+        "Body",
+        fontName="Times-Roman",
+        fontSize=10.3,
+        leading=14.3,
+        alignment=TA_LEFT,
+        spaceBefore=0,
+        spaceAfter=4.5,
+        firstLineIndent=0,
+    )
+    scene_style = ParagraphStyle(
+        "SceneBreak",
+        fontName="Times-Roman",
+        fontSize=12,
+        leading=14,
+        alignment=TA_CENTER,
+        spaceBefore=8,
+        spaceAfter=8,
+    )
+
+    for idx, chapter in enumerate(chapters):
+        number, chapter_title, body = chapter_info(chapter)
+        if idx > 0:
+            story.append(PageBreak())
+        bookmark = f"chapter-{number:02d}"
+        heading = Paragraph(f"Kapitel {number}", chapter_number_style)
+        heading._bookmarkName = bookmark
+        heading._tocEntry = f"Kapitel {number}. {chapter_title}"
+        story.append(heading)
+        story.append(Paragraph(markdown_inline_to_reportlab(chapter_title), chapter_title_style))
+        for kind, value in markdown_blocks(body):
+            if kind == "scene_break":
+                story.append(Paragraph("•", scene_style))
+            else:
+                story.append(Paragraph(markdown_inline_to_reportlab(value), body_style))
+
+    # multiBuild krävs för att innehållsförteckningen ska få sidnummer.
+    doc.multiBuild(story)
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--root", default=".")
@@ -198,33 +480,16 @@ def main() -> int:
 
     if "pdf" in formats:
         pdf = output_dir / f"{base_name}.pdf"
-        if shutil.which("xelatex") is None:
-            print("ERROR: xelatex krävs för PDF-bygget.", file=sys.stderr)
-            return 2
-        with tempfile.TemporaryDirectory(prefix="roman-pdf-") as tmp:
-            temp = Path(tmp)
-            manuscript = temp / "manus.md"
-            parts = [
-                f"% {title}\n% {author}\n",
-                f"# {title}\n\n## {subtitle}\n\n**{author}**\n\n{rights}\n\n\\newpage\n",
-            ]
-            for chapter in chapters:
-                parts.append(chapter.read_text(encoding="utf-8").strip() + "\n")
-            manuscript.write_text("\n\n".join(parts), encoding="utf-8")
-            command = [
-                "pandoc",
-                str(manuscript),
-                "--from=markdown",
-                "--output", str(pdf),
-                "--metadata-file", str(root / "publishing/metadata.yaml"),
-                "--template", str(root / "publishing/pdf-template.tex"),
-                "--lua-filter", str(root / "publishing/pdf-filter.lua"),
-                "--pdf-engine=xelatex",
-                "--toc",
-                "--toc-depth=1",
-            ]
-            subprocess.run(command, cwd=root, check=True)
-        print(f"OK: PDF skapad: {pdf}")
+        build_pdf_reportlab(
+            pdf,
+            chapters,
+            title=title,
+            subtitle=subtitle,
+            author=author,
+            rights=rights,
+            cover=cover,
+        )
+        print(f"OK: PDF skapad och verifierad: {pdf}")
 
     return 0
 

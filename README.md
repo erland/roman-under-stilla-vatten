@@ -36,3 +36,4 @@ Detta är projektarkivet för romanen **Under stilla vatten**.
 ## GitHub Actions
 
 Projektet innehåller workflows för validering, manuell preview-build och release-build av EPUB/PDF. Se `publishing/build-notes.md`.
+PDF-bygget använder Python/ReportLab för att undvika LaTeX- och systemfontberoenden samt för att hålla omslag, titelsida, innehållsförteckning och kapitelrubriker stabila.

@@ -70,4 +70,19 @@ Då byggs EPUB/PDF och publiceras som separata GitHub Release-assets.
 - Kapitelnoteringar ligger i `kapitel/kapitelnoteringar.md` och exporteras inte.
 - EPUB/PDF återskapas från kapitlen vid varje build.
 - Pandoc-versionen är låst till `3.1.11.1`.
-- PDF byggs med XeLaTeX och TeX Gyre-fontpaketet i GitHub Actions.
+- PDF byggs med Python/ReportLab i GitHub Actions för att undvika LaTeX- och systemfontberoenden.
+
+## Felsökning: PDF-layout och fontfel
+
+PDF-bygget använder inte längre Pandoc/LaTeX för PDF:en. `scripts/build_book.py` bygger PDF:en med ReportLab och använder endast EPUB-grenen för Pandoc.
+
+Detta korrigerar tidigare PDF-problem:
+- ingen extra tom sida före omslaget
+- ingen extra tom sida före innehållsförteckningen
+- innehållsförteckningen fylls med kapitel 1–24
+- endast en titelsida efter omslaget
+- copyright finns på titelsidan
+- inga automatiska `0.x`-kapitelnummer
+- kapitelrubriker visas på två rader: `Kapitel X` och kapitelnamn
+
+GitHub Actions installerar därför Python-beroendet `reportlab` i stället för LaTeX-paket.
