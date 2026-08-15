@@ -32,3 +32,7 @@ Detta är projektarkivet för romanen **Under stilla vatten**.
 - `stilguide.md` håller språk, ton och perspektiv konsekvent.
 - `projektstatus.md` visar nästa rekommenderade steg.
 - `kontinuitetsanteckningar.md` fångar fakta, ledtrådar och öppna trådar.
+
+## GitHub Actions
+
+Projektet innehåller workflows för validering, manuell preview-build och release-build av EPUB/PDF. Se `publishing/build-notes.md`.
