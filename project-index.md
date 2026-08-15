@@ -206,3 +206,12 @@
 - `.github/workflows/02-build-preview.yml`: LaTeX-installation uppdaterad för pdflatex/lmodern.
 - `.github/workflows/03-release.yml`: samma PDF-fix som preview.
 - Lokal testbuild: EPUB och PDF skapades utan fel.
+
+
+## GitHub Actions PDF-layoutfix 2026-08-15
+
+- `scripts/build_book.py`: PDF-bygget görs nu med ReportLab i stället för Pandoc/LaTeX.
+- `.github/workflows/02-build-preview.yml`: installerar `reportlab`.
+- `.github/workflows/03-release.yml`: installerar `reportlab`.
+- `publishing/build-notes.md`: dokumentation uppdaterad.
+- Lokal testbuild: EPUB och PDF skapades; PDF renderades och kontrollerades visuellt på första sidorna.

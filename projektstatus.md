@@ -184,3 +184,17 @@ Preview-bygget korrigerades efter PDF-fel där XeLaTeX inte hittade fonten `TeXG
 - Pandoc-hjälpkommandot `\tightlist` finns i PDF-mallen.
 - Preview- och release-workflows installerar nu `texlive-latex-extra`, `texlive-fonts-recommended` och `lmodern`.
 - Lokal testbuild av `python3 scripts/build_book.py --output-dir /mnt/data/test_github_fix_dist3` gav både EPUB och PDF.
+
+
+## Senaste GitHub Actions PDF-layoutfix 2026-08-15
+
+PDF-bygget i `scripts/build_book.py` är ändrat från Pandoc/LaTeX till Python/ReportLab.
+
+Åtgärdat:
+- borttagna extra tomma sidor före omslag och innehållsförteckning
+- ifylld innehållsförteckning med kapitel 1–24
+- endast en titelsida efter omslaget
+- copyright på titelsidan
+- borttagna automatiska `0.x`-kapitelnummer
+- tvådelade kapitelrubriker i PDF: `Kapitel X` på första raden och kapitelnamn på andra raden
+- EPUB-bygget lämnat oförändrat, med teknisk navigation men utan synlig TOC i läsflödet

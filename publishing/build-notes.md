@@ -70,16 +70,19 @@ Då byggs EPUB/PDF och publiceras som separata GitHub Release-assets.
 - Kapitelnoteringar ligger i `kapitel/kapitelnoteringar.md` och exporteras inte.
 - EPUB/PDF återskapas från kapitlen vid varje build.
 - Pandoc-versionen är låst till `3.1.11.1`.
-- PDF byggs med pdflatex och lmodern i GitHub Actions för att undvika beroende av systeminstallerade TeX Gyre-fontnamn.
+- PDF byggs med Python/ReportLab i GitHub Actions för att undvika LaTeX- och systemfontberoenden.
 
-## Felsökning: PDF-fontfel
+## Felsökning: PDF-layout och fontfel
 
-Om preview tidigare fallerade med `fontspec Error: The font "TeXGyrePagella" cannot be found` berodde det på att PDF-mallen använde XeLaTeX och ett fontnamn som inte var stabilt i GitHub Actions-miljön.
+PDF-bygget använder inte längre Pandoc/LaTeX för PDF:en. `scripts/build_book.py` bygger PDF:en med ReportLab och använder endast EPUB-grenen för Pandoc.
 
-Projektet är därför ändrat till:
-- `pdflatex`
-- `lmodern`
-- `inputenc`/`fontenc`
-- metadata-styrt omslag via `cover-image`
+Detta korrigerar tidigare PDF-problem:
+- ingen extra tom sida före omslaget
+- ingen extra tom sida före innehållsförteckningen
+- innehållsförteckningen fylls med kapitel 1–24
+- endast en titelsida efter omslaget
+- copyright finns på titelsidan
+- inga automatiska `0.x`-kapitelnummer
+- kapitelrubriker visas på två rader: `Kapitel X` och kapitelnamn
 
-Det minskar beroendet av systemets fontregister och gör preview/release-byggena mer reproducerbara.
+GitHub Actions installerar därför Python-beroendet `reportlab` i stället för LaTeX-paket.
