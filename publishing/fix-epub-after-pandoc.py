@@ -204,7 +204,7 @@ def write_plain_ncx(epub_dir: Path, opf_rel: Path, ncx_href: str, chapters: list
     ncx_path.write_text("\n".join(lines), encoding="utf-8")
 
 def normalize_title_page(epub_dir: Path, opf_rel: Path, title: str, subtitle: str, author: str, rights: str) -> bool:
-    """Gör Action-titelsidan strukturellt lik den tidigare exports-EPUB:en."""
+    """Normaliserar Action-titelsidan till projektets fastställda EPUB-struktur."""
     opf_path = epub_dir / opf_rel
     ch001 = opf_path.parent / "text/ch001.xhtml"
     if not ch001.exists():

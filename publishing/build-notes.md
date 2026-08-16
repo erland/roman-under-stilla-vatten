@@ -20,9 +20,8 @@ publishing/
   metadata.yaml
   epub.css
   fix-epub-after-pandoc.py
-  pdf-template.tex
-  pdf-filter.lua
   cover.png
+  build-notes.md
 ```
 
 ## Workflows
@@ -64,41 +63,57 @@ git push origin v1.0.0
 
 Då byggs EPUB/PDF och publiceras som separata GitHub Release-assets.
 
-## Viktigt
+## Exportpolicy
 
 - Kapiteltexterna i `kapitel/kapitel-XX.md` är kanonisk källa.
 - Kapitelnoteringar ligger i `kapitel/kapitelnoteringar.md` och exporteras inte.
 - EPUB/PDF återskapas från kapitlen vid varje build.
+- `exports/` ska inte checkas in.
+- Lokalt genererade `*.epub` och `*.pdf` ignoreras via `.gitignore`.
+- Omslag, metadata och CSS som behövs för bygge ligger i `publishing/`.
+
+## Tekniska byggval
+
 - Pandoc-versionen är låst till `3.1.11.1`.
-- PDF byggs med Python/ReportLab i GitHub Actions för att undvika LaTeX- och systemfontberoenden.
+- EPUB byggs med Pandoc och efterbearbetas av `publishing/fix-epub-after-pandoc.py`.
+- Efterbearbetningen säkerställer teknisk navigation via `nav.xhtml` och `toc.ncx`, men ingen synlig innehållsförteckningssida i läsflödet.
+- Titelsidan normaliseras med titel, undertitel, författare och copyright.
+- Kapitelrubriker visas på två rader: `Kapitel X` och kapitelnamn.
+- PDF byggs med Python/ReportLab för att undvika LaTeX- och systemfontberoenden samt för stabil omslags-, titel-, TOC- och kapitelrubriklayout.
 
-## Felsökning: PDF-layout och fontfel
+## Felsökning
 
-PDF-bygget använder inte längre Pandoc/LaTeX för PDF:en. `scripts/build_book.py` bygger PDF:en med ReportLab och använder endast EPUB-grenen för Pandoc.
+Om EPUB-läsaren visar tom innehållsförteckning ska `nav.xhtml` och `toc.ncx` kontrolleras i den byggda EPUB:en. Byggskriptet validerar att båda innehåller 24 kapitelposter och att `nav.xhtml` inte ligger i spine/läsflödet.
 
-Detta korrigerar tidigare PDF-problem:
-- ingen extra tom sida före omslaget
-- ingen extra tom sida före innehållsförteckningen
-- innehållsförteckningen fylls med kapitel 1–24
-- endast en titelsida efter omslaget
-- copyright finns på titelsidan
-- inga automatiska `0.x`-kapitelnummer
-- kapitelrubriker visas på två rader: `Kapitel X` och kapitelnamn
-
-GitHub Actions installerar därför Python-beroendet `reportlab` i stället för LaTeX-paket.
+Om PDF-layouten avviker bör `scripts/build_book.py` kontrolleras, eftersom PDF:en byggs direkt där med ReportLab.
 
 
-## 2026-08-16 – EPUB/PDF stil- och navigationsfix
+## Plattformspublicering
 
-- Action-EPUB använder nu samma förenklade CSS-princip som den tidigare exports-EPUB:en.
-- `nav.xhtml` behålls tekniskt i manifestet med `properties="nav"`, men tas bort ur spine/läsflödet.
-- `toc.ncx` valideras med kapitel 1–24 för äldre läsare.
-- CSS-regeln som dolde `nav#toc` är borttagen så läsarnas tekniska innehållsförteckning inte blir tom.
-- PDF byggs fortsatt med ReportLab, med samma tvådelade kapitelrubriker och serifbaserade bokstil som EPUB:en.
+Plattformsspecifikt publiceringsstöd ligger i `publishing/platforms/`.
 
-## 2026-08-16 – EPUB-navigation och titelsida
+- `publishing/platforms/apple_books/`
+- `publishing/platforms/google_play_books/`
 
-- `fix-epub-after-pandoc.py` skriver nu om `nav.xhtml` och `toc.ncx` som rena, prefixfria filer efter Pandoc.
-- `nav.xhtml` tas bort ur spine/läsflödet men behålls i manifestet med `properties="nav"`.
-- `toc.ncx` innehåller 24 `navPoint`-poster och spine pekar på `toc="ncx"`.
-- Titelsidan normaliseras till samma XHTML-struktur som tidigare export: titel, undertitel, författare och copyright i `section#under-stilla-vatten`.
+Amazon KDP ingår inte längre i projektet eftersom den plattformen inte är aktuell.
+
+GitHub Actions bygger endast EPUB och PDF:
+
+- `under-stilla-vatten.epub`
+- `under-stilla-vatten.pdf`
+
+Inga separata publiceringspaket byggs i nuläget.
+
+## Omslagskontroll
+
+Den kanoniska omslagsbilden är `publishing/cover.png`.
+
+- Storlek: 1400 × 1979 px
+- Färgläge: RGB
+- Används i både EPUB och PDF
+
+`validate_project.py` kontrollerar att omslagets kortaste sida är minst 1400 px och att längsta sidan inte överstiger 7200 px.
+
+## PDF-navigation
+
+ReportLab-bygget skapar synlig innehållsförteckning och PDF-bokmärken för kapitel 1–24.

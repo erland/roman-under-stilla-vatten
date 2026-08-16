@@ -42,7 +42,7 @@ Lyckligt och hoppfullt.
 
 ## Omslagsbild
 
-Skapad och sparad i projektzipen som `exports/omslag_under_stilla_vatten.png`. Högupplöst Apple Books-version finns som `exports/omslag_under_stilla_vatten_apple_books.png` (1400 × 1979 px, RGB).
+Skapad och sparad som kanonisk byggfil i `publishing/cover.png`. Plattformsspecifika omslagsvarianter ska vid behov genereras från denna källa, inte checkas in som exporter.
 
 ## Kärnidé
 
