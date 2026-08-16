@@ -4,6 +4,8 @@
 
 | Datum | Ändring | Kommentar |
 |---|---|---|
+| 2026-08-16 | Återskapade publiceringsstöd för Apple Books och Google Play Books | Lades under `publishing/platforms/`; Amazon KDP utelämnad; EPUB/PDF byggs fortsatt via Actions. |
+| 2026-08-16 | Repository cleanup för GitHub Actions | `exports/` togs bort, genererade EPUB/PDF-filer ignoreras via `.gitignore`, och projektstatus/README/project-index uppdaterades så Actions är enda normala exportvägen. |
 | 2026-05-31 | Kapitel 19 och EPUB synkade | Frasen `Det skulle kunna stämma med 1979.` ändrad till `Det skulle kunna stämma med Karin.` eftersom Karins födelseår inte avslöjas före repliken. Ren exportfil och EPUB uppdaterade. |
 | 2026-05-31 | Kapitel 19 uppdaterat | Användarens reviderade kapitel 19 infördes med justerad ålderspassage för Kajsa/Karin-spåret; ren exportfil och EPUB återskapades. |
 | 2026-05-28 | Amazon KDP-publiceringspaket skapat | Metadata, beskrivningar, kategori-/prisförslag, 7 nyckelord, checklista, filrekommendationer och KDP-anpassad omslagsbild lades till i `exports/amazon_kdp/`; kapiteltexter och EPUB oförändrade. |

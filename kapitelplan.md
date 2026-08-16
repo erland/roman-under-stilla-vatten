@@ -45,8 +45,8 @@
 - Kapitel 19–24: Reviderade för beviskedja, Karin-avslöjande, konfrontation och emotionell upplösning.
 - Synk-/kontinuitetsstädning: Genomförd efter helhetsläsning version 2.
 - Språk- och scenputs: Kapitel 1–24 genomförd v2.1.
-- Exportförberedelse: Ren manusfil skapad i `exports/` utan kapitelnoteringar.
+- Exportförberedelse: EPUB/PDF byggs nu via GitHub Actions från kanoniska kapitelfiler; kapitelnoteringar exporteras inte.
 
 ## Nästa rekommenderade arbete
 
-Välj slutlig leveransform: skapa PDF, EPUB eller båda från `exports/manus_under_stilla_vatten_v2_1_ren.md`. Skapa omslagsbild först om omslag ska ingå.
+Välj slutlig leveransform: kör GitHub Actions-preview eller skapa release med `v*`-tagg för EPUB/PDF. Omslaget hämtas från `publishing/cover.png`.

@@ -20,7 +20,7 @@
 | Kapitel 19–24 | Reviderade v2 och språk-/scenputsade v2.1. |
 | Helhetsläsning/kontinuitetskontroll | Genomförd. |
 | Synk- och kontinuitetsstädning | Genomförd. |
-| Exportförberedelse | Genomförd: ren manusfil och exportkontroll skapade i `exports/`. |
+| Exportförberedelse | Genomförd: GitHub Actions bygger EPUB/PDF från kanoniska kapitelfiler; `exports/` används inte längre. |
 | Kapitelövergångar | Kontrollerade mellan kapitel 1–24; kapitel 10 och 14 putsade för att undvika återupprepning. |
 
 ## Kvarvarande arbete före slutleverans
@@ -44,9 +44,8 @@
 
 ## Exportunderlag
 
-- `exports/manus_under_stilla_vatten_v2_1_ren.md` – ren manusfil utan kapitelnoteringar.
-- `exports/exportkontroll_v2_1.md` – kontrollrapport inför PDF/EPUB.
-- `exports/exportlogg.md` – uppdaterad exportlogg.
+- EPUB/PDF skapas via GitHub Actions och laddas ner som artifact eller release-assets.
+- Lokalt genererade EPUB/PDF-filer ignoreras via `.gitignore`.
 
 ## Nästa rekommenderade steg
 

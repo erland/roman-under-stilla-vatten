@@ -1,0 +1,20 @@
+# Generated book files
+exports/
+dist/
+book-dist/
+*.epub
+*.pdf
+
+# Python/runtime noise
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Logs and temporary build files
+*.log
+missfont.log
+*.aux
+*.out
+*.toc
+*.fls
+*.fdb_latexmk

@@ -279,6 +279,7 @@ def build_pdf_reportlab(
             toc_entry = getattr(flowable, "_tocEntry", None)
             if bookmark and toc_entry:
                 self.canv.bookmarkPage(bookmark)
+                self.canv.addOutlineEntry(toc_entry, bookmark, level=0, closed=False)
                 if self._first_chapter_page is None:
                     self._first_chapter_page = self.page
                 printed_page = self.page - self._first_chapter_page + 1

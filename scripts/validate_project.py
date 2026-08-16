@@ -53,6 +53,40 @@ def parse_simple_yaml_scalars(path: Path) -> dict[str, str]:
             values[key] = value
     return values
 
+
+def png_info(path: Path) -> tuple[int, int, int]:
+    """Returnera PNG-bredd, höjd och färgtyp utan externa beroenden."""
+    data = path.read_bytes()
+    if data[:8] != b"\x89PNG\r\n\x1a\n":
+        raise ValueError("inte en PNG-fil")
+    # Första chunk efter signaturen ska vara IHDR.
+    if data[12:16] != b"IHDR":
+        raise ValueError("PNG saknar IHDR som första chunk")
+    width = int.from_bytes(data[16:20], "big")
+    height = int.from_bytes(data[20:24], "big")
+    color_type = data[25]
+    return width, height, color_type
+
+def validate_cover_image(root: Path, metadata: dict[str, str], errors: list[str]) -> None:
+    cover_rel = metadata.get("cover-image", "")
+    if not cover_rel:
+        return
+    cover = root / cover_rel
+    if not cover.exists():
+        return
+    try:
+        width, height, color_type = png_info(cover)
+    except Exception as exc:
+        error(errors, f"Omslagsbilden måste vara en läsbar PNG: {cover_rel} ({exc})")
+        return
+    if min(width, height) < 1400:
+        error(errors, f"Omslagsbildens kortaste sida måste vara minst 1400 px: {cover_rel} är {width}×{height}")
+    if max(width, height) > 7200:
+        error(errors, f"Omslagsbildens längsta sida får inte överstiga 7200 px för Google Play Books: {cover_rel} är {width}×{height}")
+    if color_type not in {2, 6}:
+        error(errors, f"Omslagsbilden bör vara RGB/RGBA PNG: {cover_rel} har PNG-färgtyp {color_type}")
+
+
 def validate_markdown_links(root: Path, errors: list[str]) -> None:
     link_re = re.compile(r"!?\[[^\]]*\]\(([^)]+)\)")
     for md in sorted(root.rglob("*.md")):
@@ -104,6 +138,7 @@ def main() -> int:
         cover = metadata.get("cover-image")
         if cover and not (root / cover).exists():
             error(errors, f"Metadata cover-image pekar på saknad fil: {cover}")
+        validate_cover_image(root, metadata, errors)
 
     chapter_dir = root / "kapitel"
     chapters = sorted(chapter_dir.glob("kapitel-[0-9][0-9].md")) if chapter_dir.exists() else []
