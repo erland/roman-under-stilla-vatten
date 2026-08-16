@@ -37,3 +37,12 @@ Detta är projektarkivet för romanen **Under stilla vatten**.
 
 Projektet innehåller workflows för validering, manuell preview-build och release-build av EPUB/PDF. Se `publishing/build-notes.md`.
 PDF-bygget använder Python/ReportLab för att undvika LaTeX- och systemfontberoenden samt för att hålla omslag, titelsida, innehållsförteckning och kapitelrubriker stabila.
+
+
+## EPUB/PDF-notering
+
+GitHub Actions bygger EPUB och PDF från kapitelfilerna i `kapitel/`. EPUB:en har teknisk navigation via `nav.xhtml` och `toc.ncx` utan synlig innehållsförteckningssida i läsflödet. PDF:en har synlig innehållsförteckning och tvådelade kapitelrubriker.
+
+## GitHub Actions-exporter – korrigering 2026-08-16
+
+GitHub Actions-bygget använder nu en efterbearbetning som återskapar EPUB-navigationen explicit. Den tekniska innehållsförteckningen finns i `nav.xhtml` och `toc.ncx`, men `nav.xhtml` ligger inte i läsflödet som en synlig boksida.

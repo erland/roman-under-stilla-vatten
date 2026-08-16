@@ -215,3 +215,23 @@
 - `.github/workflows/03-release.yml`: installerar `reportlab`.
 - `publishing/build-notes.md`: dokumentation uppdaterad.
 - Lokal testbuild: EPUB och PDF skapades; PDF renderades och kontrollerades visuellt på första sidorna.
+
+
+## Teknisk exportstatus 2026-08-16
+
+- GitHub Actions EPUB/PDF stil- och navigationsfix: OK.
+- EPUB-navigation: `nav.xhtml` + `toc.ncx`, ej synlig TOC-sida i läsflödet.
+- PDF: synlig innehållsförteckning, tvådelade kapitelrubriker.
+
+
+## Nya verifierade exportfiler
+
+- `exports/Under_stilla_vatten_Erland_Lindmark.epub`
+- `exports/Under_stilla_vatten_Erland_Lindmark.pdf`
+
+## Teknisk exportkontroll 2026-08-16
+
+- GitHub Actions EPUB: `nav.xhtml` med 24 kapitelposter, ej i spine.
+- GitHub Actions EPUB: `toc.ncx` med 24 kapitelposter.
+- GitHub Actions EPUB: titelsida normaliserad mot tidigare fungerande exports-EPUB.
+- PDF: återskapad från samma pipeline.

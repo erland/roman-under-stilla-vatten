@@ -86,3 +86,19 @@ Detta korrigerar tidigare PDF-problem:
 - kapitelrubriker visas på två rader: `Kapitel X` och kapitelnamn
 
 GitHub Actions installerar därför Python-beroendet `reportlab` i stället för LaTeX-paket.
+
+
+## 2026-08-16 – EPUB/PDF stil- och navigationsfix
+
+- Action-EPUB använder nu samma förenklade CSS-princip som den tidigare exports-EPUB:en.
+- `nav.xhtml` behålls tekniskt i manifestet med `properties="nav"`, men tas bort ur spine/läsflödet.
+- `toc.ncx` valideras med kapitel 1–24 för äldre läsare.
+- CSS-regeln som dolde `nav#toc` är borttagen så läsarnas tekniska innehållsförteckning inte blir tom.
+- PDF byggs fortsatt med ReportLab, med samma tvådelade kapitelrubriker och serifbaserade bokstil som EPUB:en.
+
+## 2026-08-16 – EPUB-navigation och titelsida
+
+- `fix-epub-after-pandoc.py` skriver nu om `nav.xhtml` och `toc.ncx` som rena, prefixfria filer efter Pandoc.
+- `nav.xhtml` tas bort ur spine/läsflödet men behålls i manifestet med `properties="nav"`.
+- `toc.ncx` innehåller 24 `navPoint`-poster och spine pekar på `toc="ncx"`.
+- Titelsidan normaliseras till samma XHTML-struktur som tidigare export: titel, undertitel, författare och copyright i `section#under-stilla-vatten`.

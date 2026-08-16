@@ -23,6 +23,7 @@ body {
   margin-bottom: 0.05em;
 }
 
+.chapter-heading .chapter-title,
 .chapter-heading .chapter-title-text {
   display: block;
   font-size: 1.0em;
@@ -51,11 +52,9 @@ body {
   font-weight: normal;
 }
 
-
-
 /* Titelsida: centrera titel, undertitel, författare och copyright.
-   Pandoc-exporten ger titelsidan id="under-stilla-vatten" utan title-page-klass,
-   därför riktas regeln mot just den sektionen. */
+   Action-bygget använder class="title-page".
+   Äldre Pandoc-exporter kan ge titelsidan id="under-stilla-vatten". */
 section#under-stilla-vatten {
   text-align: center;
   margin-top: 22%;

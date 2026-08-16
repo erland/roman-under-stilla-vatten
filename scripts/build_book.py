@@ -91,14 +91,35 @@ def validate_epub(path: Path, expected_chapters: int, title: str) -> None:
             ref for ref in spine.findall("opf:itemref", ns)
             if ref.attrib.get("idref") == nav_id
         ]
-        if nav_refs and any(ref.attrib.get("linear") != "no" for ref in nav_refs):
-            raise RuntimeError("EPUB-fel: nav.xhtml är linjär i spine.")
+        if nav_refs:
+            raise RuntimeError("EPUB-fel: nav.xhtml ligger i spine/läsflödet.")
+        # Guide-reference till nav.xhtml kan ge tomt/konstigt TOC-index i vissa läsare.
+        guide = opf.find("opf:guide", ns)
+        if guide is not None:
+            for ref in guide.findall("opf:reference", ns):
+                if ref.attrib.get("type") == "toc" or ref.attrib.get("href", "").endswith("nav.xhtml"):
+                    raise RuntimeError("EPUB-fel: guide pekar på nav.xhtml som synlig TOC.")
+        # Äldre läsare använder toc.ncx. Den ska också innehålla kapitel 1–24.
+        ncx_item = next((item for item in manifest.findall("opf:item", ns) if item.attrib.get("media-type") == "application/x-dtbncx+xml"), None)
+        if ncx_item is None:
+            raise RuntimeError("EPUB-fel: toc.ncx saknas.")
+        ncx_path = (Path(opf_name).parent / ncx_item.attrib["href"]).as_posix()
+        ncx_root = ET.fromstring(archive.read(ncx_path))
+        ncx_ns = {"ncx": "http://www.daisy.org/z3986/2005/ncx/"}
+        ncx_labels = ["".join(node.itertext()).strip() for node in ncx_root.findall(".//ncx:navLabel/ncx:text", ncx_ns)]
+        ncx_chapters = [label for label in ncx_labels if label.startswith("Kapitel ")]
+        if len(ncx_chapters) != expected_chapters:
+            raise RuntimeError(
+                f"EPUB-fel: toc.ncx har {len(ncx_chapters)} kapitelposter, väntat {expected_chapters}."
+            )
+        if title in ncx_labels:
+            raise RuntimeError("EPUB-fel: titelsidan finns felaktigt med i toc.ncx.")
         split_headings = 0
         for name in names:
             if not name.endswith(".xhtml"):
                 continue
             data = archive.read(name).decode("utf-8", errors="replace")
-            if 'class="chapter-number"' in data and 'class="chapter-title"' in data:
+            if 'class="chapter-number"' in data and ('class="chapter-title-text"' in data or 'class="chapter-title"' in data):
                 split_headings += 1
         if split_headings != expected_chapters:
             raise RuntimeError(
@@ -441,12 +462,10 @@ def main() -> int:
             temp = Path(tmp)
             title_page = temp / "00-title.md"
             title_page.write_text(
-                '<section class="title-page" epub:type="titlepage">\n'
-                f'<p class="book-title">{title}</p>\n'
-                f'<p class="subtitle">{subtitle}</p>\n'
-                f'<p class="author">{author}</p>\n'
-                f'<p class="copyright">{rights}</p>\n'
-                '</section>\n',
+                f"# {title}\n\n"
+                f"## {subtitle}\n\n"
+                f"**{author}**\n\n"
+                f"**{rights}**\n",
                 encoding="utf-8",
             )
             command = [
@@ -471,6 +490,9 @@ def main() -> int:
                     str(root / "publishing/fix-epub-after-pandoc.py"),
                     str(output),
                     title,
+                    subtitle,
+                    author,
+                    rights,
                 ],
                 cwd=root,
                 check=True,

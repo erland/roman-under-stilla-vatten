@@ -198,3 +198,16 @@ PDF-bygget i `scripts/build_book.py` är ändrat från Pandoc/LaTeX till Python/
 - borttagna automatiska `0.x`-kapitelnummer
 - tvådelade kapitelrubriker i PDF: `Kapitel X` på första raden och kapitelnamn på andra raden
 - EPUB-bygget lämnat oförändrat, med teknisk navigation men utan synlig TOC i läsflödet
+
+
+## Senaste tekniska uppdatering 2026-08-16
+
+- GitHub Actions EPUB-bygge har synkats närmare den tidigare exports-EPUB:ens layout.
+- Teknisk EPUB-navigation finns kvar i `nav.xhtml` och `toc.ncx`, men `nav.xhtml` ligger inte längre i läsflödet.
+- PDF-bygget använder fortsatt ReportLab och är stilmässigt anpassat mot EPUB:ens serif- och kapitelrubrikslayout.
+
+## Senaste tekniska korrigering 2026-08-16
+
+- GitHub Actions-bygget har korrigerats så EPUB:ens tekniska innehållsförteckning skrivs som ren `nav.xhtml` och `toc.ncx` med 24 kapitelposter.
+- Titelsidan i Action-EPUB normaliseras till samma struktur som den tidigare fungerande `exports`-EPUB:en.
+- PDF och EPUB har testbyggts från samma pipeline.
