@@ -152,3 +152,11 @@ Detta är en exportkontroll efter mindre textkorrigeringar. Kapiteltexterna och 
 - Innehållsförteckningen är inte synlig som egen sida i läsordningen.
 - EPUB-navigationen innehåller kapitel 1–24 för läsarens navigationsmeny.
 - EPUBCheck-felet om referens till icke-spine-resurs bör inte återkomma.
+
+
+## Action PDF/EPUB 2026-08-16
+
+- EPUB byggd från kapitel 1–24.
+- EPUB har teknisk navigation utan synlig TOC-sida i läsflödet.
+- EPUB har tvådelade kapitelrubriker.
+- PDF renderad och kontrollerad: omslag, titelsida, ifylld innehållsförteckning och kapitel 1 startar utan extra tomsidor.

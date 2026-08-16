@@ -97,3 +97,8 @@ Ren manusfil och EPUB har uppdaterats efter korrigering av Karin/Kajsa-spåret. 
 ## Senaste exportstatus 2026-05-31
 
 Ren manusfil och EPUB har synkats efter frasjustering i kapitel 19: `Det skulle kunna stämma med Karin.`
+
+
+## GitHub Actions-stilfix
+
+`Under_stilla_vatten_Erland_Lindmark.epub` är synkad med Action-byggets EPUB-pipeline. EPUB:en har teknisk navigation i `nav.xhtml` och `toc.ncx`, men ingen synlig innehållsförteckningssida i läsflödet. `Under_stilla_vatten_Erland_Lindmark.pdf` är en PDF-preview med synlig innehållsförteckning och tvådelade kapitelrubriker.

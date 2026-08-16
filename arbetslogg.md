@@ -74,3 +74,7 @@
 | 2026-08-15 | GitHub Actions-publicering införd | Lade till `.github/workflows`, `scripts/` och `publishing/` för validering, preview-build och release-build av EPUB/PDF. |
 | 2026-08-15 | GitHub Actions PDF-bygge korrigerat | Bytte PDF-bygget från XeLaTeX/TeX Gyre till pdflatex/lmodern, lade till Pandoc-kommandot `\\tightlist` i PDF-mallen och lät PDF-omslaget använda `cover-image` från metadata. Lokal build av EPUB/PDF genomförd utan fel. |
 | 2026-08-15 | GitHub Actions PDF-layout korrigerad | Bytte PDF-bygget till ReportLab för att ta bort extra tomma sidor, tom TOC, dubbla titelsidor, automatiska 0.x-rubriker och felaktiga kapitelrubriker. EPUB-bygget kontrollerades och lämnades oförändrat. |
+
+| 2026-08-16 | GitHub Actions EPUB/PDF stil- och navigationsfix | Action-EPUB synkad mot exports-stil; teknisk TOC/nav behålls men tas bort ur läsflödet; PDF bibehåller liknande bokstil. |
+
+| 2026-08-16 | GitHub Actions EPUB/PDF navigations- och titelsidefix | Action-EPUB bygger nu ren nav.xhtml/toc.ncx utan namespace-prefix, 24 kapitelposter och exports-lik titelsida; PDF återskapad med samma pipeline. |

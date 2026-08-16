@@ -35,3 +35,7 @@
 | 2026-05-31 | EPUB | Under_stilla_vatten_Erland_Lindmark.epub | Kapitel 1–24 | Titelsidans titel, undertitel, författare och copyright centrerade via EPUB-CSS. |
 
 | 2026-05-31 | EPUB | Under_stilla_vatten_Erland_Lindmark.epub | Kapitel 1–24 | Teknisk EPUB-navigation återställd utan synlig innehållsförteckning i läsflödet. |
+
+| 2026-08-16 | EPUB/PDF | Under_stilla_vatten_Erland_Lindmark.epub, Under_stilla_vatten_Erland_Lindmark.pdf | Kapitel 1–24 | GitHub Actions-stilfix: EPUB teknisk nav/toc.ncx utan synlig TOC-sida; PDF med synlig ifylld TOC och tvådelade kapitelrubriker. |
+
+| 2026-08-16 | EPUB/PDF | Under_stilla_vatten_Erland_Lindmark.epub, Under_stilla_vatten_Erland_Lindmark.pdf | Kapitel 1–24 | Återskapade med GitHub Actions-pipeline: ren EPUB-navigation med 24 poster, ingen synlig TOC-sida i läsflödet, normaliserad titelsida. |
